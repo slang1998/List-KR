@@ -786,8 +786,6 @@ gamemeca.com##div.pb32
 gamemeca.com##div.rBannerMain
 gamemeca.com##div.rBtmBanner
 gamemeca.com##div[class^="ad"]
-hackintosh.zone##div#ipsLayout_mainArea>div[align="center"]
-hackintosh.zone##ins#aswift_3_expand
 hani.co.kr##div#power-link2
 hani.co.kr##div#visual-ad
 hani.co.kr##div.overflow-ad
@@ -1333,9 +1331,6 @@ theguardian.com##div.ad-slot
 thisisgame.com##div#divMsnAD
 thisisgame.com##div.ad
 thisisgame.com##div.mid-ad-part
-time.com##aside.right-rail__container--ad
-time.com##div#section-sub-ad
-time.com##div.left-rail-ad__wrapper
 tistory.com##div.ad250
 tistory.com##div.ad250_outter
 todayhumor.co.kr##div.under_ad_div
@@ -1358,10 +1353,6 @@ torrentmoatv.com##div.rd_ft>b>b>center
 tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net##div#left>div:not([class]):not([id]):not([style])>a
 tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net##div#right
 tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net##div.analytics_google
-touch.pixiv.net##body>div>div[style="height: 80px; position: fixed; z-index: 998; bottom: 0; width: 100%; display: block; text-align: center; background-color: rgba(0,0,0,1);"]
-touch.pixiv.net##body>div>div[style="height: 80px; position: fixed; z-index: 998; bottom: 0px; width: 100%; text-align: center; background-color: rgb(0, 0, 0);"]
-touch.pixiv.net##div.ad-container
-touch.pixiv.net##div.ad-topmost-header
 tvdaily.mk.co.kr##body>table>tbody>tr>td:first-of-type>table>tbody>tr>td>table:nth-of-type(4)>tbody>tr>td:first-of-type>table:nth-of-type(2)>tbody>tr>td:first-of-type
 tvdaily.mk.co.kr##body>table>tbody>tr>td:first-of-type>table>tbody>tr>td>table:nth-of-type(4)>tbody>tr>td:last-of-type>div[style="margin:5 0 0 0"]
 tvdaily.mk.co.kr##body>table>tbody>tr>td:first-of-type>table>tbody>tr>td>table:nth-of-type(4)>tbody>tr>td:last-of-type>div[style="margin:5 0 5 0"]
@@ -1446,9 +1437,6 @@ yonhapnews.co.kr##div[class^="contents-box ad-wrap"]
 yonhapnews.co.kr##div[class^="contents-box list-style02 banner-box"]
 yonhapnews.co.kr##div[class^="floating-banner"]
 yonhapnews.co.kr##li[class^="ad-para"]
-youtube.com##div#footer-ads
-youtube.com##div#video-masthead
-youtube.com##div.ad-div
 ytn.co.kr##div#CmAdContent>div[style="overflow:hidden;width:420px;height:45px;border:1px solid #cbcccf;background-color: #fafafa;margin:20px auto 0 auto;padding:10px 30px;"]
 ytn.co.kr##div#CmAdContent>div[style="overflow:hidden;width:420px;height:45px;border:1px solid #cbcccf;background-color: #fafafa;margin:20px auto 0 auto;padding:10px 30px;position:relative;"]
 ytn.co.kr##div#Fusence
