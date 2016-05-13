@@ -114,13 +114,14 @@
 ##ins.daum_ddn_area
 
 ! URL filters
-*/RealMedia/ads/
-*/about_*_shopbox.*
-*/ad/realclick*.html^
-*/mobitree_*.js^
-*/nad/media/
-*/naon_*.html^
-*/naon_*.jsp^
+/RealMedia/ads/
+/about_*_shopbox.
+/ad/realclick*.html^
+/mobitree_*.js^
+/nad/media/
+/naon_*.html^
+/naon_*.jsp^
+/NetInsight/$match-case,domain=ezday.co.kr|ohmynews.com|dcinside.com|newscloud.or.kr|kmib.co.kr
 ||1.227.58.23/event.ems/
 ||115.68.75.10/banner_*.php^
 ||211.234.119.116/pront/default.asp^
@@ -150,7 +151,6 @@
 ||ad.daum.net^
 ||ad.doubleclick.net^
 ||ad.dt.co.kr^
-||ad.ezday.co.kr/NetInsight/
 ||ad.hankooki.com^
 ||ad.hankookilbo.com^
 ||ad.hooniad.com^
@@ -180,10 +180,8 @@
 ||ad1.sportschosun.com^
 ||ad1.sportsseoul.com^
 ||ad2.thisisgame.com^
-||adc.ohmynews.com/NetInsight/
 ||adcreative.hani.naver.net/ad^
 ||adcrm.co.kr/md/
-||addc.dcinside.com/NetInsight/
 ||adddn.adotsolution.com/contents/sdk/js/tad.min.js^
 ||adexpert.ad4989.co.kr^
 ||adexview.neoebiz.co.kr^
@@ -199,7 +197,6 @@
 ||adinc.co.kr^
 ||adixs-ad.co.kr/code.ems/
 ||adixs.net^
-||adkpf.newscloud.or.kr/NetInsight/
 ||adn.adneo.co.kr^
 ||adn.inven.co.kr^
 ||adn.nsmartad.com^
@@ -226,7 +223,6 @@
 ||adserver.viewgames.co.kr/adi/adiPage.php^
 ||adstract.adk2x.com/imp^
 ||adsvc2.wisenut.co.kr^
-||adsvr.kmib.co.kr/NetInsight/
 ||adtg.widerplanet.com^
 ||adv.imadrep.co.kr^
 ||adv.mediaharbor.co.kr/nad/
