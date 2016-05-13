@@ -116,7 +116,6 @@
 ! URL filters
 /RealMedia/ads/
 /about_*_shopbox.
-/ad/realclick*.html^
 /mobitree_*.js^
 /nad/media/
 /naon_*.html^
@@ -126,15 +125,16 @@
 ||115.68.75.10/banner_*.php^
 ||211.234.119.116/pront/default.asp^
 ||218.153.11.175^
-||a.tribalfusion.com/displayAd.js^
-||a.tribalfusion.com/j.ad^
+||2cpu.co.kr/ad_board.php
+||38.co.kr/images/banner/
 ||a.wyzmob.com^
-||a1.ationnet.co.kr/a01/
-||a1.dp25.kr^
+||a*.toup.net/analysis/analysis.js^
+||acecounter.com^$third-party
 ||ad*.*/event.ems/$domain=~interpark.com
 ||ad*.inews24.com^
+! -------------------------------------------------------------------
 ||ad*.netshelter.net/adj/
-||ad-first.co.kr^
+||ad-first.co.kr^$third-party
 ||ad.about.co.kr^
 ||ad.ad-ya.net^
 ||ad.ad4989.co.kr^
@@ -275,6 +275,7 @@
 ||dgate.*/hciw.aspx^
 ||display.ad.daum.net/imp^
 ||dlv.hooniad.com^
+||dp25.kr^
 ||dreamsearch.or.kr/ad/
 ||dreamsearch.or.kr/adnet/
 ||dreamsearch.or.kr/servlet/adBanner^
