@@ -1,10 +1,4 @@
-[Adblock Plus 2.0]
-! Homepage: https://github.com/yous/YousList
-! License: https://github.com/yous/YousList#license
-! Title: YousList
-! Expires: 4 days
-! Checksum: mhkVw667GZj8JW8cc+5fTQ
-! Version: 20160513
+
 
 ! General element hiding rules
 ##div#adbay_adExpandDiv
