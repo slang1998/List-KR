@@ -134,7 +134,6 @@
 ||ad*.*/event.ems/$domain=~interpark.com
 ||ad*.inews24.com^
 ||ad*.netshelter.net/adj/
-||ad*.realclick.co.kr^
 ||ad-first.co.kr^
 ||ad.about.co.kr^
 ||ad.ad-ya.net^
@@ -211,7 +210,6 @@
 ||ads.mncmedia.co.kr^
 ||ads.priel.co.kr/cgi-bin/PelicanC.dll^
 ||ads.pubmatic.com/AdServer/js/showad.js^
-||ads.realclick.co.kr^$third-party
 ||ads.tlvmedia.com^
 ||ads.yahoo.com^
 ||ads1.playforum.net:8080^
@@ -258,7 +256,6 @@
 ||cdn04.sndkorea.co.kr^
 ||celeb.nann.co.kr^
 ||cjmooter.xcache.kinxcdn.com/script/
-||click.realclick.co.kr^
 ||clkads.com^
 ||cm*.joins.com^
 ||cm*.jssearch.net^
