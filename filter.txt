@@ -13,10 +13,7 @@
 ##div#wiseAd
 ##div.ezAdsense
 ##div.gpt_ad_container
-##div[id^="div-gpt-ad-"]
-##div[id^="google_ads_iframe_"]
 ##div[id^="sbaAbout"]
-##iframe[id^="google_ads_iframe_"]
 ##iframe[id^="nad_"]
 ##iframe[name="ifrad"]
 ##iframe[src*="/RealMedia/ads/"]
@@ -105,8 +102,6 @@
 ##iframe[src^="http://static.joins.com/isplus/ui/ad/"]
 ##iframe[src^="http://tab2.clickmon.co.kr/pop/"]
 ##iframe[src^="http://www.ad-playstore.com/"]
-##iframe[src^="http://www.animefreak.tv/sites/all/modules/custom/anime/ads/"]
-##iframe[src^="http://www.animefreak.tv/sites/all/modules/custom/anime/yanone.html"]
 ##iframe[src^="http://www.dreamsearch.or.kr/ad/"]
 ##iframe[src^="http://www.dreamsearch.or.kr/servlet/adBanner"]
 ##iframe[src^="http://www.dreamsearch.or.kr/servlet/iadbn"]
