@@ -3,12 +3,11 @@
 ! Filter that enables removing of ads, trackers, and various scripts from websites with Korean content.
 ! Based on Corset, Korean Adblock filter, Youslist.
 ! Combined and augmented with Adguard-specific rules for enhanced filtering
+! This filter is expected to be used alongside with English filter.
 !
 ! Homepage: http://github.com/SlowMemories/EasierList-Kor
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
 !
-
-
 !-------------------------------------------------------------------------------!
 !------------------ Common Element Hiding Rules --------------------------------!
 !-------------------------------------------------------------------------------!
@@ -124,8 +123,6 @@
 ##iframe[src^="http://www.sunnyworks.co.kr/data/SW"][src$=".html"]
 ##ins.adsbygoogle
 ##ins.daum_ddn_area
-
-
 !-------------------------------------------------------------------------------!
 !------------------ URL filters ------------------------------------------------!
 !-------------------------------------------------------------------------------!
@@ -562,8 +559,6 @@
 ||ytn.co.kr/inc_banner/AdServerChange.php^
 ||zdnet.co.kr/ads/
 ||zdnet.co.kr/pixel2/pixel_top.htm^
-
-
 !-------------------------------------------------------------------------------!
 !------------------ Trackers ---------------------------------------------------!
 !-------------------------------------------------------------------------------!
@@ -573,19 +568,12 @@
 ||wcs.naver.com/m^
 ||lcs.naver.com/m^
 ||analytics.bandi.so^
-
-
-
-
-
 !-------------------------------------------------------------------------------!
 !------------------ Site Specific Rules ----------------------------------------!
 !-------------------------------------------------------------------------------!
 !
 ! Section contains list of site specific rules
 !
-
-! Site element hiding rules
 9to5mac.com##div#author-ad
 9to5mac.com##div.widget_ninetofive_netshelter_ad
 animefreak.tv##body>div>div[style="width:100%;height:768px;position:fixed;left:0;top:0px;overflow:hidden;visibility:hidden"]
@@ -1526,12 +1514,10 @@ zdnet.co.kr##ul.ad_list
 zdnet.com##section.leader-bottom
 zdnet.com##section.leader-top
 zdnet.com##section.mpu
-
 !----------------------------------------------------!
-!------- non Korean specific noteworthy rules --------!
+!------ non-Korean specific rules -------------------!
 !----------------------------------------------------!
 *ads.g.doubleclick.net/pagead/
 ||cas.criteo.com/delivery/ajs.php^
 ||cdn.adstract.com/adstract/tags/xbanner/xbanner.js^
-||cdn.c-team.jp/tags/dokojs/ad*.js^
 ||counter.adguard.com
