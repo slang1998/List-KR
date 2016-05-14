@@ -1,4 +1,4 @@
-! Title: EasierList-Kor.
+! Title: Korean filter
 !
 ! Filter that enables removing of ads, trackers, and various scripts from websites with Korean content.
 ! Based on Corset, Korean Adblock filter, Youslist.
@@ -951,6 +951,7 @@ m.chosun.com##div.ad_txt
 m.chosun.com##div.art_sub_news_box
 m.chosun.com##div.txt_ad_box
 m.comic.naver.com##div.ads_sc
+m.comic.naver.com$$li[tag-content="AD_WEBTOON_MOBILEWEB_UP"][max-length="512"]
 m.dcinside.com##div#div_adnmore_area
 m.dcinside.com##div#lguplus_ad_banner
 m.dcinside.com##div#mmaDisplay
