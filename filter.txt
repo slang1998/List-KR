@@ -560,13 +560,21 @@
 ||zdnet.co.kr/ads/
 ||zdnet.co.kr/pixel2/pixel_top.htm^
 !-------------------------------------------------------------------------------!
+!------------------ URL exception rules ----------------------------------------!
+!-------------------------------------------------------------------------------!
+!
+! Section contains list URL exception rules
+!
+@@||searchad.naver.com$generichide,genericblock
+@@||saedu.naver.com$generichide,genericblock
+!-------------------------------------------------------------------------------!
 !------------------ Trackers ---------------------------------------------------!
 !-------------------------------------------------------------------------------!
 !
 ! Section contains list of trackers
 !
-||wcs.naver.com/m^
-||lcs.naver.com/m^
+||wcs.naver.com/m^$domain=naver.com
+||lcs.naver.com/m^$domain=naver.com
 ||analytics.bandi.so^
 !-------------------------------------------------------------------------------!
 !------------------ Site Specific Rules ----------------------------------------!
