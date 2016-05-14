@@ -135,24 +135,20 @@
 ! -------------------------------------------------------------------
 ||ad*.netshelter.net/adj/
 ||ad-first.co.kr^$third-party
-||ad.about.co.kr^
-||ad.ad-ya.net^
 ||ad.ad4989.co.kr^
 ||ad.adinc.kr^
 ||ad.adkova.com/media/
 ||ad.adlike.co.kr^
 ||ad.adnmore.co.kr^
 ||ad.adop.co.kr/mad/
-||ad.aeonad.co.kr^
-||ad.aeonad.net^
-||ad.altervista.org/js*.ad/
 ||ad.applead.co.kr^
+||ad.cache.newdaily.co.kr/site/banner/
+||ad.cache.newdaily.co.kr/web/newdaily/bn/
+||ad.cetizen.com/adh.cetizen/
 ||ad.daum.net^
-||ad.doubleclick.net^
 ||ad.dt.co.kr^
 ||ad.hankooki.com^
 ||ad.hankookilbo.com^
-||ad.hooniad.com^
 ||ad.ilbe.com/files2/ad/
 ||ad.ilikesponsorad.co.kr^
 ||ad.ilikesponsorad.com^
