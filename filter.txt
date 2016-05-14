@@ -1,6 +1,20 @@
+! Title: EasierList-Kor.
+!
+! Filter that enables removing of ads, trackers, and various scripts from websites with Korean content.
+! Based on Corset, Korean Adblock filter, Youslist.
+! Combined and augmented with Adguard-specific rules for enhanced filtering
+!
+! Homepage: http://github.com/SlowMemories/EasierList-Kor
+! License: http://creativecommons.org/licenses/by-sa/3.0/
+!
 
 
-! General element hiding rules
+!-------------------------------------------------------------------------------!
+!------------------ Common Element Hiding Rules --------------------------------!
+!-------------------------------------------------------------------------------!
+!
+! Section contains list of generic element hiding rules
+!
 ##div#adbay_adExpandDiv
 ##div#adbay_adExpandIframe
 ##div#adya_area
@@ -111,7 +125,13 @@
 ##ins.adsbygoogle
 ##ins.daum_ddn_area
 
-! URL filters
+
+!-------------------------------------------------------------------------------!
+!------------------ URL filters ------------------------------------------------!
+!-------------------------------------------------------------------------------!
+!
+! Section contains list URL filters
+!
 /RealMedia/ads/
 /about_*_shopbox.
 /mobitree_*.js^
@@ -200,7 +220,7 @@
 ||adfront.auction.co.kr/BrandAdJS/
 ||adfront.auction.co.kr/jsdata/14.js
 ||adfront.auction.co.kr^$popup
-!-----------------------------------------------
+!-------------------------- reviewed until here ---------------------
 ||adimage.hankookilbo.com^
 ||adimg.nateimg.co.kr^
 ||adimg.wisenut.co.kr/common/js/amc/wiseAdSvc.pj^
@@ -543,6 +563,28 @@
 ||zdnet.co.kr/ads/
 ||zdnet.co.kr/pixel2/pixel_top.htm^
 
+
+!-------------------------------------------------------------------------------!
+!------------------ Trackers ---------------------------------------------------!
+!-------------------------------------------------------------------------------!
+!
+! Section contains list of trackers
+!
+||wcs.naver.com/m^
+||lcs.naver.com/m^
+||analytics.bandi.so^
+
+
+
+
+
+!-------------------------------------------------------------------------------!
+!------------------ Site Specific Rules ----------------------------------------!
+!-------------------------------------------------------------------------------!
+!
+! Section contains list of site specific rules
+!
+
 ! Site element hiding rules
 9to5mac.com##div#author-ad
 9to5mac.com##div.widget_ninetofive_netshelter_ad
@@ -656,6 +698,7 @@ clien.net##div#Recent>div.RecentWrap[style="text-align:center;margin:0 auto;"]
 clien.net##div.aside_sponser
 clien.net##div.board_main div[style="clear:both;width:780px; height:115px; padding:0px; text-align:center;padding-left:5px;"]
 clien.net##p.ad_area1
+clien.net$$style[tag-content=".tcclink"][parent-elements="li"][parent-search-level="1"]
 comic.naver.com##div#adpostArea
 comic.naver.com##div#ppl_image_section
 comic.naver.com##div#ppl_video_section
@@ -1279,6 +1322,17 @@ sisainlive.com##div#TopBanners2
 sisainlive.com##div#layerBanner
 sisainlive.com##td#articleBody>table[align="right"][width="320"][height="265"]
 skyscanner.co.kr##div.mpu-advert
+! snulife.com
+snulife.com##DIV[id=wm_area]
+snulife.com##DIV[style*="230px;"][style*="120px;"]
+snulife.com##DIV[style*="450px;"][style*="120px;"]
+snulife.com###comment > DIV:first-child > DIV.cmt_editor + DIV[style*="border"]
+snulife.com##DIV.rd_ft + DIV[style*="600px"]
+snulife.com###bd>DIV[style*="width:100%; margin-top:15px;"]
+snulife.com$$script[tag-content="document.oncontextmenu"]
+snulife.com#$#*:not(input):not(textarea){ -webkit-touch-callout: auto!important; -webkit-user-select: auto!important; }
+snulife.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
+!
 sportalkorea.com##div#topAdBox
 sportalkorea.com##p.ad_240
 sports.chosun.com##div#rad
@@ -1335,6 +1389,8 @@ thisisgame.com##div.ad
 thisisgame.com##div.mid-ad-part
 tistory.com##div.ad250
 tistory.com##div.ad250_outter
+tistory.com$$script[tag-content="document.oncontextmenu ="]
+tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
 todayhumor.co.kr##div.under_ad_div
 todown.net##div.at-content>div.container>div.row>div.contentArea>div[style="text-align:center;"]
 todown.net##div.at-content>div.container>div.row>div.sideArea>div[style="width:100%; height:100;text-align:center; background:#f5f5f5;margin-bottom:5px;"]
@@ -1470,8 +1526,11 @@ zdnet.com##section.leader-bottom
 zdnet.com##section.leader-top
 zdnet.com##section.mpu
 
-! non-Korean-specific noteworthy rules
+!----------------------------------------------------!
+!------- non Korean specific noteworthy rules --------!
+!----------------------------------------------------!
 *ads.g.doubleclick.net/pagead/
 ||cas.criteo.com/delivery/ajs.php^
 ||cdn.adstract.com/adstract/tags/xbanner/xbanner.js^
 ||cdn.c-team.jp/tags/dokojs/ad*.js^
+||counter.adguard.com
