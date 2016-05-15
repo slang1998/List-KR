@@ -587,6 +587,8 @@
 ! Section contains list of trackers
 !
 ! naver.com
+||lcs.naver.com
+||wcs.naver.com
 ||lcs.naver.com/m^$domain=naver.com
 ||wcs.naver.com/m^$domain=naver.com
 !
