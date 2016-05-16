@@ -1579,6 +1579,7 @@ zdnet.com##section.mpu
 !------ Anti-Anti-adblocks --------------------------!
 !----------------------------------------------------!
 yuncomics.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})(); 
+baykoreans.net$$script[tag-content="div.adsbygoogle"]
 !----------------------------------------------------!
 !------ non-Korean specific rules -------------------!
 !----------------------------------------------------!
