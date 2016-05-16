@@ -5,7 +5,7 @@
 ! Combined and augmented with Adguard-specific rules for enhanced filtering
 ! This filter is expected to be used alongside with English filter.
 !
-! Homepage: http://github.com/SlowMemories/EasierList-Kor
+! Homepage: http://github.com/SlowMemories/List-KR
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
 !
 !-------------------------------------------------------------------------------!
