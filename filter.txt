@@ -132,7 +132,6 @@
 !
 ! Section contains list URL filters
 !
-/RealMedia/ads/
 /about_*_shopbox.
 /mobitree_*.js^
 /nad/media/
@@ -741,6 +740,9 @@ daily.hankooki.com##div#Page_NewsSponsor
 daily.hankooki.com##div.bantop
 daily.hankooki.com##div[id^="Ad_"]
 daily.hankooki.com##div[id^="adText"]
+danawa.com##.header_banner
+danawa.com##.ttop_ad_banner
+danawa.com###main_right_fixed
 daum.net##div#adBrandingStation
 daum.net##div.ad_rightbtm
 dcinside.com##div#dgn_content_de>div[style="padding-top: 16px;padding-bottom:30px;text-align: center"]
