@@ -1015,7 +1015,9 @@ m.humoruniv.com##DIV[style$="#38B5D5;"]
 m.humoruniv.com###about_ad
 m.humoruniv.com###cauly_ad
 m.humoruniv.com###cauly_nad_list
+m.humoruniv.com###cauly_nad
 m.humoruniv.com###cauly_nad2
+m.humoruniv.com###cauly_nad3
 m.humoruniv.com###out_banner
 m.humoruniv.com###uad_iframe
 m.khan.co.kr##div#article_bottom_ad
