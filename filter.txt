@@ -1528,16 +1528,6 @@ vop.co.kr##div.aside-ad-top
 vop.co.kr##div.bottom-ad
 vop.co.kr##div.listAD
 vop.co.kr##div.top-ad
-washingtonpost.com##div.has-subscribe-promo
-washingtonpost.com##div[class*="-ad-"]
-watchcartoononline.com##body>div[style="position: fixed; top: 0px; left: 0px; z-index: 100; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
-watchcartoononline.com##body>div[style="position: fixed; top: 0px; right: 0px; z-index: 100; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
-watchcartoononline.com##div#leftBannerOut
-watchcartoononline.com##div#rightBannerOut
-watchcartoononline.com##iframe[src^="http://watchcartoononline.com/ads_"][src$=".html"]
-watchcartoononline.com##iframe[src^="http://www.watchcartoononline.com/ads"][src$=".html"]
-watchcartoononline.com##iframe[src^="http://www.watchcartoononline.com/inc/reklam/"][src$=".html"]
-watchcartoononline.com##td.larkax>div[style="float:right; padding-bottom:10px; padding-left:5px; padding-right:10px"]
 web.humoruniv.com###ad_700 
 web.humoruniv.com###CmAdView2 
 web.humoruniv.com###microad_728x90
