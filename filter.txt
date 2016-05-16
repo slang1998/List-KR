@@ -1,4 +1,4 @@
-! Title: Korean list for Adguard
+! Title: List-KR
 !
 ! Filter that enables removing of ads, trackers, and various scripts from websites with Korean content.
 ! Based on Corset, Korean Adblock filter, Youslist.
@@ -281,7 +281,6 @@
 ||bizon.kr/bar/adon_banner.js^
 ||bizon.kr/bizon_ad/
 ||bohumlife.edaily.co.kr/iframe_starin.html^
-||bxcm.contentlink.co.kr^$third-party
 ||c.betrad.com/surly.js^
 ||cad.donga.com/netBanners/
 ||cadvv.heraldm.com/hb/imad/
@@ -299,6 +298,7 @@
 ||cm.interworksmedia.co.kr/adTagRequest.htm^
 ||cm.keywordsconnect.com^
 ||cm2.cjmooter.com^
+||contentlink.co.kr^$third-party
 ||cwdata.itplay.co.kr/ol/
 ||cwdata.itsearch.co.kr^
 ||cwstatic.heraldm.com/adcont/
@@ -865,8 +865,9 @@ hani.co.kr##div.overflow-ad
 hani.co.kr##div.ttalk150_banner
 hani.co.kr##div[class^="hani-advertise"]
 hani.co.kr##iframe[src^="/section-adv/"]
-hankookilbo.com##div.article-ad-align-left
-hankookilbo.com##div.side-ad
+hankookilbo.com##DIV.adiframe300x250
+hankookilbo.com##DIV.article-ad-align-left
+hankookilbo.com##DIV.side-ad
 hankookilbo.com##iframe[src="/sidead300x250.html"]
 hankyung.com##aside.ad-newsview
 hankyung.com##aside.ad-top-wide
