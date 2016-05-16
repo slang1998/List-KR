@@ -400,6 +400,7 @@
 ||khan.co.kr/ad/
 ||kmib.co.kr/cp/realclick/
 ||koreadaily.com/_ui/ad/
+||koreapas.com/bbs/ad/$image
 ||lightad.co.kr/Lightcoms/
 ||lightasp.dmcmedia.co.kr/adixs/
 ||longkeyone.co.kr^
@@ -988,6 +989,11 @@ koreaherald.com##div.newslist>iframe
 koreaherald.com##div.tbanner
 koreaherald.com##section.gallrym
 koreaherald.com##section.nview>div[style="margin-bottom: 20px;"]
+koreapas.com##DIV:nth-child(2) > DIV:nth-child(2) > DIV:last-child > A:last-child
+koreapas.com##DIV:nth-child(2) > TABLE:first-child > TBODY > TR:nth-child(2) > TD:last-child > A:last-child 
+koreapas.com##DIV:nth-child(4) > TABLE:first-child > TBODY > TR > TD[width="227"]
+koreapas.com##DIV:nth-child(4) > TABLE:first-child > TBODY > TR > TD[width="430"]
+koreapas.com##TABLE[background$="grayy.gif"]
 kotaku.com##div.ad-wide
 kr.celeb.yahoo.com##div#leftClickButton
 kr.celeb.yahoo.com##div#rightClickButton
