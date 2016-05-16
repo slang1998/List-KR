@@ -861,6 +861,7 @@ gamemeca.com##div.pb32
 gamemeca.com##div.rBannerMain
 gamemeca.com##div.rBtmBanner
 gamemeca.com##div[class^="ad"]
+gigglehd.com##.boardRead + DIV[align="center"]
 hani.co.kr##div#power-link2
 hani.co.kr##div#visual-ad
 hani.co.kr##div.overflow-ad
