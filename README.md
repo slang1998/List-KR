@@ -7,11 +7,14 @@
 
 이 필터에서는 한국어 웹 사이트에만 집중하기 때문에, English 필터와 같이 사용하는 것을 권장합니다.
 
+
 This is a web filter for websites in Korean language.
 
-This filter aims to filter not only ads, but also known trackers, and other scripts which negatively affects user experience(including anti-adblock and disabling context menu).
+This filter aims to filter not only ads, but also known trackers and other scripts which negatively affects user experience(including anti-adblock and disabling context menu).
 
-This filter is being maintained in regard of being used with Adguard ad blocker. Most of rules are in the grammer of Adblock Plus, so this filter can be used with ABP or ublock origin. However, some rules for more difficult filtering are relying on Adguard's advanced filtering methods, and will not be activated in other filtering tools.
+This filter is being maintained to be used with Adguard ad blocker. Most of rules are in the grammer of Adblock Plus, so this filter can be used with ABP or ublock origin. However, some rules for more difficult filtering utilizes Adguard's advanced filtering methods, and will not be activated in other filtering tools.
+
+This filter is focused on Korean websites, and it is recommended to use this filter together with English filter.
 
 ## License
 Creative Commons CC-BY-SA 3.0
