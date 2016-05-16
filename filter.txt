@@ -159,6 +159,7 @@
 ||ad.applead.co.kr^
 ||ad.cache.newdaily.co.kr/site/banner/
 ||ad.cache.newdaily.co.kr/web/newdaily/bn/
+||ad.cauly.co.kr*caulyImpress^$third-party
 ||ad.cetizen.com/adh.cetizen/
 ||ad.daum.net^
 ||ad.dt.co.kr^
@@ -361,7 +362,7 @@
 ||imaeil.com/image/banner/ad*.swf^
 ||imaeil.com/wec/
 ||image.cauly.co.kr/websdk/multi_mini_ads/ads.js^
-||image.cauly.co.kr:15151/websdk/caulyad.min.js^
+||image.cauly.co.kr:15151/websdk/caulyad*js^
 ||image.melon.com/svc/images/main/floatingBanner/floatingBanner_*.swf^
 ||image.news1.kr/system/ads/ad_banner/
 ||image.wownet.co.kr/static/banner/*/flash/
@@ -1011,10 +1012,9 @@ m.huffpost.com##div.advertisement.mobileweb_article_bottom_refresh div.trc_rbox_
 m.huffpost.com##div.advertisement.mobileweb_taboola
 m.huffpost.com##div.advertisement.mobileweb_top
 m.humoruniv.com##DIV[style$="#38B5D5;"]
-m.humoruniv.com##iframe[src^="/cauly_iframe"]
-m.humoruniv.com##iframe[src^="/tad_iframe"]
-m.humoruniv.com##iframe[src^="/uad_iframe"]
-m.humoruniv.com##iframe[src^="http://pub.adpnut.com"]
+m.humoruniv.com###about_ad
+m.humoruniv.com###cauly_nad2
+m.humoruniv.com###out_banner
 m.khan.co.kr##div#article_bottom_ad
 m.khan.co.kr##div#mezzo_ad
 m.khan.co.kr##div#photoAD
