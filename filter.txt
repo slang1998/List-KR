@@ -372,6 +372,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect_mobile.html^
 ||img.soramall.kr/banner/$image
 ||img.sportsseoul.com/ad/
+||img.zzamtoon.com/upload/banner$third-party,image
 ||img2.keywordsconnect.com/iconAdImg*.gif^
 ||imp.mklaud.com/ad^
 ||imp.sndkorea.co.kr/php/m.php^
@@ -1469,6 +1470,7 @@ tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.ne
 tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net##div#right
 tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net##div.analytics_google
 tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net###bo_v ~ CENTER
+torrentstar.net,torrentwaba.net##a[href^="http://partner.zzamtoon.com"]
 tvdaily.mk.co.kr##body>table>tbody>tr>td:first-of-type>table>tbody>tr>td>table:nth-of-type(4)>tbody>tr>td:first-of-type>table:nth-of-type(2)>tbody>tr>td:first-of-type
 tvdaily.mk.co.kr##body>table>tbody>tr>td:first-of-type>table>tbody>tr>td>table:nth-of-type(4)>tbody>tr>td:last-of-type>div[style="margin:5 0 0 0"]
 tvdaily.mk.co.kr##body>table>tbody>tr>td:first-of-type>table>tbody>tr>td>table:nth-of-type(4)>tbody>tr>td:last-of-type>div[style="margin:5 0 5 0"]
