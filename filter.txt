@@ -1,4 +1,4 @@
-! Title: Korean filter
+! Title: Korean list for Adguard
 !
 ! Filter that enables removing of ads, trackers, and various scripts from websites with Korean content.
 ! Based on Corset, Korean Adblock filter, Youslist.
