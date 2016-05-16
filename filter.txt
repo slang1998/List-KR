@@ -1013,6 +1013,7 @@ m.huffpost.com##div.advertisement.mobileweb_taboola
 m.huffpost.com##div.advertisement.mobileweb_top
 m.humoruniv.com##DIV[style$="#38B5D5;"]
 m.humoruniv.com###about_ad
+m.humoruniv.com###cauly_ad
 m.humoruniv.com###cauly_nad2
 m.humoruniv.com###out_banner
 m.khan.co.kr##div#article_bottom_ad
