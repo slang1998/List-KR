@@ -208,7 +208,9 @@
 ||ad4989.kr^$third-party
 ||ad4989.co.kr^$third-party
 ||adalba.co.kr^$third-party
+||adapi.about.co.kr^
 ||adclixad.daum.net^$third-party
+||adcr.naver.com
 ||adcreative.hani.naver.net/ad
 ||adcrm.co.kr/md/
 ||adday.co.kr^$third-party
@@ -304,6 +306,7 @@
 ||cwstatic.heraldm.com/adcont/
 ! Adguard Eng filter contains some similar rules. 
 ||d.a1comm.co.kr^
+||dable.io/*checksum^
 ||daily.hankooki.com/ad/
 ||dailygame.co.kr/ad/dispad_bot.html^
 ||dailygame.co.kr/ad/dispad_right.html^
@@ -593,15 +596,21 @@
 ! Section contains list of trackers
 !
 ! naver.com
+||l.m.naver.
 ||lcs.naver.
-||wcs.naver.
 ||lcs.naver.com/m^$domain=naver.com
+||pb.m.naver.com/abp^
+||wcs.naver.
 ||wcs.naver.com/m^$domain=naver.com
 !
 ||analytics.bandi.so^
+||counter*joins.com/bin/
+||dable.io/logs^$third-party
 ||humoruniv.com/cpuid
 ||humoruniv.com/images/null.gif
 ||humoruniv.com/pv^
+||log.2beon.co.kr/refchk.php^
+||log.news.joins.com^
 ||logger.danawa.com/tracker
 !-------------------------------------------------------------------------------!
 !------------------ Site Specific Rules ----------------------------------------!
@@ -1125,6 +1134,7 @@ minitoon.net##div.g_banner
 minitoon.net##div.m_banner
 minitoon.net##div.n_banner
 minitoon.net##div.s_banner
+mnews.joins.com##.band_ad_top
 mnews.joins.com##div.ad
 mnews.joins.com##div.ad_h100
 mnews.joins.com##div.adlink
@@ -1191,10 +1201,14 @@ news.hankooki.com##div[id^="adText"]
 news.inews24.com##div#divrightbiz
 news.inews24.com##div.main_top_banner
 news.inews24.com##iframe#ifrmTopTotal
+news.joins.com###articeltopbanner
+news.joins.com##.ab_adtxt_wrap
+news.joins.com##.shpping_life
+news.joins.com##.advertising
 news.joins.com##div#criteo_network
-news.joins.com##div.ab_adtxt
 news.joins.com##div.ad
 news.joins.com##div[data-widget-type="Ad"]
+news.jtbc.joins.com##.ad_shoppingnlife_bottom
 news.jtbc.joins.com##div.ad_banner_250x250
 news.jtbc.joins.com##div.ad_v2
 news.jtbc.joins.com##div.area2>div.secondary
@@ -1476,6 +1490,7 @@ todown.net##div.at-content>div.container>div.row>div.contentArea>div[style="text
 todown.net##div.at-content>div.container>div.row>div.sideArea>div[style="width:100%; height:100;text-align:center; background:#f5f5f5;margin-bottom:5px;"]
 todown.net##div.at-content>div.container>div.row>div.sideArea>div[style="width:100%; height:250px; line-height:280px; text-align:center; background:#f5f5f5;margin-bottom:30px;"]
 todown.net##div.at-content>div.container>div.row>div.sideArea>div[style="width:100%; height:250px; line-height:280px; text-align:center; background:#f5f5f5;margin-bottom:5px;"]
+tong.joins.com##.widget_text
 torrentmade.com##div.hiddenpage
 torrentmade.com##div.top_banner
 torrentmoa.com##body>b
