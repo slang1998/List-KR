@@ -1375,6 +1375,7 @@ sisainlive.com##div#TopBanners2
 sisainlive.com##div#layerBanner
 sisainlive.com##td#articleBody>table[align="right"][width="320"][height="265"]
 skyscanner.co.kr##div.mpu-advert
+smartfile.co.kr##.right_slide
 ! snulife.com
 snulife.com##DIV[id=wm_area]
 snulife.com##DIV[style*="230px;"][style*="120px;"]
