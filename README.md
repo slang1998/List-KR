@@ -9,7 +9,14 @@
 
 Adguard에 대한 정보는 [이곳][]에서 찾으실 수 있습니다.
 
+## 사용하는 법
 
+사용하고자 하는 프로그램에서 다음 URL을 사용하여 필터를 구독 또는 Import 하십시오:
+```
+https://github.com/SlowMemory/List-KR/raw/master/filter.txt
+```
+
+#English readme
 This is a web filter for websites in Korean language.
 
 This filter aims to filter not only ads, but also known trackers and other scripts which negatively affects user experience(including anti-adblock and disabling context menu).
@@ -19,6 +26,12 @@ This filter is being maintained to be used with [Adguard][] ad blocker. Most of 
 This filter is focused on Korean websites, and it is recommended to use this filter together with English filter.
 
 You can find a (informal)introduction to Adguard [here][].
+
+##How to use
+In the program you would like to use, use the following url to subscribe to or import List-KR.
+```
+https://github.com/SlowMemory/List-KR/raw/master/filter.txt
+```
 
 [Adguard]: https://adguard.com
 [Adblock Plus]: https://adblockplus.org/
