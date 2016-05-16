@@ -236,6 +236,7 @@
 ||adn.nsmartad.com^
 ||adneo.encock.com/media/
 ||adpingpong1.co.kr^
+||adpnut.com^$third-party
 ||ads-by.yieldselect.com^
 ||ads-optima.com/www/delivery/afr.php^
 ||ads-optima.com/www/delivery/ajs.php^
@@ -280,8 +281,8 @@
 ||bizon.kr/bar/adon_banner.js^
 ||bizon.kr/bizon_ad/
 ||bohumlife.edaily.co.kr/iframe_starin.html^
+||bxcm.contentlink.co.kr^$third-party
 ||c.betrad.com/surly.js^
-||cache.ssend.microad.jp/js/adfunnel-sp-load.js^
 ||cad.donga.com/netBanners/
 ||cadvv.heraldm.com/hb/imad/
 ||candy.ad9.kr^
@@ -558,6 +559,7 @@
 ||unionpress.co.kr/news/html_tpl/pr_ad.php^
 ||unionpress.co.kr/news/master/banner/3d69ca2f12c09759924d8be0a89a4259^
 ||uplus.kr/cd/cdNavi/retreieveHtml3JS.dmd^
+||uplus.kr/common/m_js/mobile_html_web4.js^
 ||view.asiae.co.kr/common/ad/
 ||viewsnnews.com/image/advert/
 ||web.n2s.co.kr^
@@ -591,12 +593,15 @@
 ! Section contains list of trackers
 !
 ! naver.com
-||lcs.naver.com
-||wcs.naver.com
+||lcs.naver.
+||wcs.naver.
 ||lcs.naver.com/m^$domain=naver.com
 ||wcs.naver.com/m^$domain=naver.com
 !
 ||analytics.bandi.so^
+||humoruniv.com/cpuid
+||humoruniv.com/images/null.gif
+||humoruniv.com/pv^
 ||logger.danawa.com/tracker
 !-------------------------------------------------------------------------------!
 !------------------ Site Specific Rules ----------------------------------------!
@@ -1000,6 +1005,11 @@ m.hankooki.com##div[class^="ads_"]
 m.huffpost.com##div.advertisement.mobileweb_article_bottom_refresh div.trc_rbox_container div.trc_rbox_outer div.syndicatedItem
 m.huffpost.com##div.advertisement.mobileweb_taboola
 m.huffpost.com##div.advertisement.mobileweb_top
+m.humoruniv.com##DIV[style$="#38B5D5;"]
+m.humoruniv.com##iframe[src^="/cauly_iframe"]
+m.humoruniv.com##iframe[src^="/tad_iframe"]
+m.humoruniv.com##iframe[src^="/uad_iframe"]
+m.humoruniv.com##iframe[src^="http://pub.adpnut.com"]
 m.khan.co.kr##div#article_bottom_ad
 m.khan.co.kr##div#mezzo_ad
 m.khan.co.kr##div#photoAD
@@ -1528,6 +1538,9 @@ watchcartoononline.com##iframe[src^="http://watchcartoononline.com/ads_"][src$="
 watchcartoononline.com##iframe[src^="http://www.watchcartoononline.com/ads"][src$=".html"]
 watchcartoononline.com##iframe[src^="http://www.watchcartoononline.com/inc/reklam/"][src$=".html"]
 watchcartoononline.com##td.larkax>div[style="float:right; padding-bottom:10px; padding-left:5px; padding-right:10px"]
+web.humoruniv.com###ad_700 
+web.humoruniv.com###CmAdView2 
+web.humoruniv.com###microad_728x90
 wikitree.co.kr##iframe[src^="/_tpl/default/ad/"]
 womennews.co.kr##iframe[src^="/news/sidebar_banner_realclick01.html"]
 wordpress.com##div.wpcnt
