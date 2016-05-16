@@ -865,7 +865,7 @@ hani.co.kr##div.overflow-ad
 hani.co.kr##div.ttalk150_banner
 hani.co.kr##div[class^="hani-advertise"]
 hani.co.kr##iframe[src^="/section-adv/"]
-hankookilbo.com##DIV.adiframe300x250
+hankookilbo.com##iframe.adiframe300x250
 hankookilbo.com##DIV.article-ad-align-left
 hankookilbo.com##DIV.side-ad
 hankookilbo.com##iframe[src="/sidead300x250.html"]
