@@ -1403,6 +1403,7 @@ segye.com##div.article_list
 segye.com##div[id^="ClickStory_ViewAD"]
 segye.com##div[id^="ClickStory_ViewRightAD"]
 segye.com##ul.hotnewsAD
+seiyon.net###desktop-container > .index_row:nth-child(2)
 seoul.co.kr##div#CLink
 seoul.co.kr##div#criteo_div
 seoul.co.kr##div#eMartDiv
