@@ -1025,7 +1025,9 @@ m.chosun.com##div.ad_img
 m.chosun.com##div.ad_txt
 m.chosun.com##div.art_sub_news_box
 m.chosun.com##div.txt_ad_box
+m.comic.naver.com##body > div.viewer.cuttoon > div[class^=ly_dim].on
 m.comic.naver.com##div.ads_sc
+m.comic.naver.com##div[class="ly_wrap viewer_da_ly"]
 m.comic.naver.com$$li[tag-content="AD_WEBTOON_MOBILEWEB_UP"][max-length="512"]
 m.daum.net##.box_bnr
 m.daum.net##.float_acm_banner
