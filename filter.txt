@@ -608,7 +608,15 @@
 ||wcs.naver.com/m^$domain=naver.com
 ! daum.net
 ||tiara.daum.net^
-||daumcdn.net/tiara/js/shining.min.js^
+||cafe.daum.net/_pageview/
+||click.v.daum.net/pv/click*.php^
+||daumcdn.net/*noimg*.gif
+! Combining ||daumcdn.net/tiara/js/shining.min.js^ and ||daumcdn.net/tiara/tracker/tiara*.js^
+||daumcdn.net/tiara/*.js
+||feature.daum.net/feature_log/impression^
+||log.inside.daum.net/dwi_log/js/dwi.js
+! Combining ||sl.search.daum.net/free_log/FreeLogServlet^ , http://sl.search.daum.net/smartlog/, http://sl.search.daum.net/freelog
+||sl.search.daum.net^
 !
 ||analytics.bandi.so^
 ||counter*joins.com/bin/
@@ -1014,6 +1022,8 @@ m.chosun.com##div.art_sub_news_box
 m.chosun.com##div.txt_ad_box
 m.comic.naver.com##div.ads_sc
 m.comic.naver.com$$li[tag-content="AD_WEBTOON_MOBILEWEB_UP"][max-length="512"]
+m.daum.net##.box_bnr
+m.daum.net##.float_acm_banner
 m.dcinside.com###div_adnmore_area
 m.dcinside.com###lguplus_ad_banner
 m.dcinside.com###mmaDisplay
