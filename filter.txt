@@ -424,7 +424,6 @@
 ||microbizit.com/admaru/codes/js/
 ||microopenpop.com/banner/
 ||minishop.linkprice.com/minishop*.php^
-||minitoon.net/js/adblockblock.js^
 ||miz-diet.co.kr/artz130.html^
 ||miz-diet.co.kr/cnb.html^
 ||miz-diet.co.kr/jose.html^
@@ -1641,6 +1640,7 @@ orbi.kr#$##mainPremiumContainer { height: 306px!important; }
 !
 ! anti-adblock neutralizers
 baykoreans.net$$script[tag-content="div.adsbygoogle"]
+minitoon.net#%#var fuckAdBlock = false
 ! context menu enablers
 snulife.com$$script[tag-content="document.oncontextmenu"]
 snulife.com#$#*:not(input):not(textarea){ -webkit-touch-callout: auto!important; -webkit-user-select: auto!important; }
