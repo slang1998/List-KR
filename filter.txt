@@ -598,10 +598,12 @@
 ! Section contains list of urls spying over user's information
 !
 ! naver.com
+||cc.naver.com/cc^
 ||l.m.naver.
 ||lcs.naver.
 ||lcs.naver.com/m^$domain=naver.com
 ||pb.m.naver.com/abp^
+||nil.naver.com/m^
 ||wcs.naver.
 ||wcs.naver.com/m^$domain=naver.com
 !
@@ -723,6 +725,7 @@ biz.heraldcorp.com,news.heraldcorp.com##div[id^="g20150812Herald"]
 biz.heraldcorp.com,news.heraldcorp.com##iframe#ficm_iframe
 bizn.khan.co.kr##div.topright_bn
 blog.musictank.net##div#floating
+blog.naver.com##._adPost
 blog.naver.com##td.adpost_con
 bloter.net##div.banner-top
 bloter.net##div.bloter-news-ad
