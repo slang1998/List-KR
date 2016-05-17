@@ -1637,11 +1637,9 @@ orbi.kr#$##mainPremiumContainer { height: 306px!important; }
 baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#var fuckAdBlock = false
 ! context menu enablers
-snulife.com$$script[tag-content="document.oncontextmenu"]
+snulife.com,tistory.com$$script[tag-content="document.oncontextmenu"]
+snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
 snulife.com#$#*:not(input):not(textarea){ -webkit-touch-callout: auto!important; -webkit-user-select: auto!important; }
-snulife.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
-tistory.com$$script[tag-content="document.oncontextmenu ="]
-tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
 !----------------------------------------------------!
 !------ non-Korean specific rules -------------------!
 !----------------------------------------------------!
