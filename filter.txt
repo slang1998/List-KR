@@ -606,6 +606,11 @@
 ||nil.naver.com/m^
 ||wcs.naver.
 ||wcs.naver.com/m^$domain=naver.com
+! naver.com search
+||er.search.naver.com^
+||mac.search.naver.com^
+||s.search.naver.com^
+||sp.naver.com^
 ! daum.net
 ||tiara.daum.net^
 ||cafe.daum.net/_pageview/
