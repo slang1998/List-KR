@@ -14,16 +14,16 @@
 !
 ! Section contains list of generic element hiding rules
 !
-##div#adbay_adExpandDiv
-##div#adbay_adExpandIframe
-##div#adya_area
-##div#mobitree
-##div#mobitreeP
-##div#uniqubeAd_area
-##div#uniqubeAd_area_iframe
-##div#uniqubeAd_area_text
-##div#uniqubeFirstDiv
-##div#wiseAd
+###adbay_adExpandDiv
+###adbay_adExpandIframe
+###adya_area
+###mobitree
+###mobitreeP
+###uniqubeAd_area
+###uniqubeAd_area_iframe
+###uniqubeAd_area_text
+###uniqubeFirstDiv
+###wiseAd
 ##div.ezAdsense
 ##div.gpt_ad_container
 ##div[id^="sbaAbout"]
@@ -622,15 +622,15 @@
 !
 ! Section contains list of site specific rules
 !
-9to5mac.com##div#author-ad
+9to5mac.com###author-ad
 9to5mac.com##div.widget_ninetofive_netshelter_ad
 animefreak.tv##body>div>div[style="width:100%;height:768px;position:fixed;left:0;top:0px;overflow:hidden;visibility:hidden"]
 api.dable.io##div.item-sp
 api.dable.io##td.item-sp
 appleblog.co.kr##ins.adsbygoogle
-artsnews.mk.co.kr##div#IDFloatingNZ99
-artsnews.mk.co.kr##div#IDSiteLeftFloatBanner
-artsnews.mk.co.kr##div#IDSiteRightFloatBanner
+artsnews.mk.co.kr###IDFloatingNZ99
+artsnews.mk.co.kr###IDSiteLeftFloatBanner
+artsnews.mk.co.kr###IDSiteRightFloatBanner
 artsnews.mk.co.kr##div[class="BLOCK_HTML_DIV"]>table:last-of-type
 artsnews.mk.co.kr##div[id="IDBlockC"]>table
 artsnews.mk.co.kr##div[id="IDBlock_LEFT"]>table
@@ -639,29 +639,29 @@ artsnews.mk.co.kr##div[id="IDContents"]>div>table
 artsnews.mk.co.kr##div[id="joinskmbox"]>div[class="NEWSCONTENT"]>div:last-of-type
 artsnews.mk.co.kr##iframe#about_asiae_shopbox
 artsnews.mk.co.kr##iframe#ad-fist
-asiae.co.kr##div#view_adtop
+asiae.co.kr###view_adtop
 asiae.co.kr##div[class^="view_ad"]
 asiae.co.kr##div[id^="ad"]
 asiae.co.kr##span#realclick_view
 asiatoday.co.kr##body>div[style="width:100%;margin:0 auto"]
-asiatoday.co.kr##div#MainAdLeftDown
-asiatoday.co.kr##div#banner_A
-asiatoday.co.kr##div#banner_N
-asiatoday.co.kr##div#bmRightViewAD
-asiatoday.co.kr##div#contents_left>div[style="width:638px;border:1px solid #E3E3E3;height:148px;margin-top:15px;padding-left:20px"]
-asiatoday.co.kr##div#divNewsstandEvent
-asiatoday.co.kr##div#full>div[style="margin: 0 auto; width: 728px; height: 90px;"]
-asiatoday.co.kr##div#headline_ad_wrap
-asiatoday.co.kr##div#scrolling_banner
-asiatoday.co.kr##div#scrolling_left_banner
-asiatoday.co.kr##div#section_aside>div[class^="aside_google_"]
-asiatoday.co.kr##div#section_main>div[class^="view_ad_"]
-asiatoday.co.kr##div#star_hot
-asiatoday.co.kr##div#wingBannerLeft
-asiatoday.co.kr##div#wingBnLeft
-asiatoday.co.kr##div#wingBnRight
-asiatoday.co.kr##div#wrapper>div[style="margin: 0 auto; width: 728px; height: 90px;"]
-asiatoday.co.kr##div#wrapper>font>div[style="position:absolute; top:1610px; left:-129px;"]
+asiatoday.co.kr###MainAdLeftDown
+asiatoday.co.kr###banner_A
+asiatoday.co.kr###banner_N
+asiatoday.co.kr###bmRightViewAD
+asiatoday.co.kr###contents_left>div[style="width:638px;border:1px solid #E3E3E3;height:148px;margin-top:15px;padding-left:20px"]
+asiatoday.co.kr###divNewsstandEvent
+asiatoday.co.kr###full>div[style="margin: 0 auto; width: 728px; height: 90px;"]
+asiatoday.co.kr###headline_ad_wrap
+asiatoday.co.kr###scrolling_banner
+asiatoday.co.kr###scrolling_left_banner
+asiatoday.co.kr###section_aside>div[class^="aside_google_"]
+asiatoday.co.kr###section_main>div[class^="view_ad_"]
+asiatoday.co.kr###star_hot
+asiatoday.co.kr###wingBannerLeft
+asiatoday.co.kr###wingBnLeft
+asiatoday.co.kr###wingBnRight
+asiatoday.co.kr###wrapper>div[style="margin: 0 auto; width: 728px; height: 90px;"]
+asiatoday.co.kr###wrapper>font>div[style="position:absolute; top:1610px; left:-129px;"]
 asiatoday.co.kr##div.character_wrap
 asiatoday.co.kr##div.cont_left>div[style="padding-top:10px; clear:both;"]
 asiatoday.co.kr##div.cont_left>div[style="padding-top:10px; padding-bottom: 15px; clear:both;"]
@@ -683,37 +683,37 @@ asiatoday.co.kr##[class^="main_ad"]
 baykoreans.net##.boardRead > DIV > .clear
 baykoreans.net##.board > .clear
 baykoreans.net##.viewDocument > .clear
-bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net##div#daumAd
+bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net###daumAd
 bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net##div.bnr_info
 bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net##div.bnr_mobile
 bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net##div.box_banner
 bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net##div.lnb_bnr
 bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net##div.side_bnr
 bgmstore.net##div.adBox
-biz.chosun.com##div#ad1
-biz.chosun.com##div#ad2
-biz.chosun.com##div#Google
-biz.chosun.com##div#TopBanner
-biz.chosun.com##div#left_AD2011
-biz.chosun.com##div#right_AD2011
+biz.chosun.com###ad1
+biz.chosun.com###ad2
+biz.chosun.com###Google
+biz.chosun.com###TopBanner
+biz.chosun.com###left_AD2011
+biz.chosun.com###right_AD2011
 biz.chosun.com##div.h_banner
 biz.chosun.com##div[id^="realclick"]
 biz.chosun.com##div[style="margin:0px 0 0px 0px;width:100%; text-align:center;"]
 biz.chosun.com##div[style="padding:20px 0 0 0; width:298px;text-align:center;"]
-biz.heraldcorp.com,news.heraldcorp.com##div#HB_COMMOM_TOPINT001
-biz.heraldcorp.com,news.heraldcorp.com##div#HB_LEFTSLIDER001
-biz.heraldcorp.com,news.heraldcorp.com##div#HB_SUB_SIDEER001
-biz.heraldcorp.com,news.heraldcorp.com##div#HB_SUB_TOP001
-biz.heraldcorp.com,news.heraldcorp.com##div#HB_Sub_MIDTOP02
-biz.heraldcorp.com,news.heraldcorp.com##div#HB_Sub_MidEnd01
-biz.heraldcorp.com,news.heraldcorp.com##div#HB_Sub_Right3_105
-biz.heraldcorp.com,news.heraldcorp.com##div#HB_Sub_Right4_105
-biz.heraldcorp.com,news.heraldcorp.com##div#HB_Sub_Top_253
-biz.heraldcorp.com,news.heraldcorp.com##div#HBSUB_ABOUTAD001
-biz.heraldcorp.com,news.heraldcorp.com##div#adshow
-biz.heraldcorp.com,news.heraldcorp.com##div#articleText span[style="width:640px; height:70px; text-align:center; margin:0 10px; padding:10px 10px 15px 10px; clear:both;"]
-biz.heraldcorp.com,news.heraldcorp.com##div#photo_ad_left
-biz.heraldcorp.com,news.heraldcorp.com##div#photo_ad_right
+biz.heraldcorp.com,news.heraldcorp.com###HB_COMMOM_TOPINT001
+biz.heraldcorp.com,news.heraldcorp.com###HB_LEFTSLIDER001
+biz.heraldcorp.com,news.heraldcorp.com###HB_SUB_SIDEER001
+biz.heraldcorp.com,news.heraldcorp.com###HB_SUB_TOP001
+biz.heraldcorp.com,news.heraldcorp.com###HB_Sub_MIDTOP02
+biz.heraldcorp.com,news.heraldcorp.com###HB_Sub_MidEnd01
+biz.heraldcorp.com,news.heraldcorp.com###HB_Sub_Right3_105
+biz.heraldcorp.com,news.heraldcorp.com###HB_Sub_Right4_105
+biz.heraldcorp.com,news.heraldcorp.com###HB_Sub_Top_253
+biz.heraldcorp.com,news.heraldcorp.com###HBSUB_ABOUTAD001
+biz.heraldcorp.com,news.heraldcorp.com###adshow
+biz.heraldcorp.com,news.heraldcorp.com###articleText span[style="width:640px; height:70px; text-align:center; margin:0 10px; padding:10px 10px 15px 10px; clear:both;"]
+biz.heraldcorp.com,news.heraldcorp.com###photo_ad_left
+biz.heraldcorp.com,news.heraldcorp.com###photo_ad_right
 biz.heraldcorp.com,news.heraldcorp.com##div.news_content>div[style="padding-left:20px"]
 biz.heraldcorp.com,news.heraldcorp.com##div.news_detail_area>div[style="margin:0 auto; width:699px; height:250px; margin:20px 0px; "]
 biz.heraldcorp.com,news.heraldcorp.com##div.nnews_bottomadlist_area
@@ -724,7 +724,7 @@ biz.heraldcorp.com,news.heraldcorp.com##div[class="mt_15 clear"][style="border-b
 biz.heraldcorp.com,news.heraldcorp.com##div[id^="g20150812Herald"]
 biz.heraldcorp.com,news.heraldcorp.com##iframe#ficm_iframe
 bizn.khan.co.kr##div.topright_bn
-blog.musictank.net##div#floating
+blog.musictank.net###floating
 blog.naver.com##._adPost
 blog.naver.com##td.adpost_con
 bloter.net##div.banner-top
@@ -732,26 +732,26 @@ bloter.net##div.bloter-news-ad
 bloter.net##div.bottomad
 bloter.net##div.header-ad-container
 bloter.net##section.fixed-side-banner
-boingboing.net##div#sidebar>div.ad
-businessweek.com##div#promo
-cafe.naver.com##div#ad-banner
+boingboing.net###sidebar>div.ad
+businessweek.com###promo
+cafe.naver.com###ad-banner
 cafe.naver.com##table.searchad
-clien.net##div#Recent>div.RecentWrap[style="text-align:center;margin:0 auto;"]
+clien.net###Recent>div.RecentWrap[style="text-align:center;margin:0 auto;"]
 clien.net##div.aside_sponser
 clien.net##div.board_main div[style="clear:both;width:780px; height:115px; padding:0px; text-align:center;padding-left:5px;"]
 clien.net##p.ad_area1
 clien.net$$style[tag-content=".tcclink"][parent-elements="li"][parent-search-level="1"]
-comic.naver.com##div#adpostArea
-comic.naver.com##div#ppl_image_section
-comic.naver.com##div#ppl_video_section
-comic.naver.com##div#webtoon_ad_section
+comic.naver.com###adpostArea
+comic.naver.com###ppl_image_section
+comic.naver.com###ppl_video_section
+comic.naver.com###webtoon_ad_section
 consumernews.co.kr##span.brn
 coolsoft.altervista.org##div._pb
 dailian.co.kr##div[class^="banner"]
 dailian.co.kr##iframe[name="adv"]
-daily.hankooki.com##div#MobileLink
-daily.hankooki.com##div#montvLayer
-daily.hankooki.com##div#Page_NewsSponsor
+daily.hankooki.com###MobileLink
+daily.hankooki.com###montvLayer
+daily.hankooki.com###Page_NewsSponsor
 daily.hankooki.com##div.bantop
 daily.hankooki.com##div[id^="Ad_"]
 daily.hankooki.com##div[id^="adText"]
@@ -759,32 +759,32 @@ danawa.com##.header_banner
 danawa.com##.ttop_ad_banner
 danawa.com###danawa-community-newsView-powerLink-self
 danawa.com###main_right_fixed
-daum.net##div#adBrandingStation
+daum.net###adBrandingStation
 daum.net##div.ad_rightbtm
-dcinside.com##div#dgn_content_de>div[style="padding-top: 16px;padding-bottom:30px;text-align: center"]
+dcinside.com###dgn_content_de>div[style="padding-top: 16px;padding-bottom:30px;text-align: center"]
 dcinside.com##div.ad_top
 ddanzi.com##div.left_banner
 ddanzi.com##div.right_banner
 deviantart.com##div.squareBrowsead
-diodeo.com##div#newsFloatingBanner
-dkbnews.donga.com##div#idol_ban
-dt.co.kr##div#box_01
-dt.co.kr##div#dt_banner_layout
-dt.co.kr##div#gisa>table
-dt.co.kr##div#popup
-dt.co.kr##div#premiumlink
-dt.co.kr##div#side_content>div[style="margin-top:10px;"]
-dt.co.kr##div#side_content>div[style="margin-top:20px;"]
+diodeo.com###newsFloatingBanner
+dkbnews.donga.com###idol_ban
+dt.co.kr###box_01
+dt.co.kr###dt_banner_layout
+dt.co.kr###gisa>table
+dt.co.kr###popup
+dt.co.kr###premiumlink
+dt.co.kr###side_content>div[style="margin-top:10px;"]
+dt.co.kr###side_content>div[style="margin-top:20px;"]
 dt.co.kr##div.cntWrap>div[style="margin-top:10px;"]
 dt.co.kr##div.cntWrap>div[style="padding-top:10px "]
 dt.co.kr##div.cntWrap>div[style="padding-top:10px;"]
 dt.co.kr##div.cntWrap>div[style="text-align:left;margin-left:5px;"]
 dt.co.kr##div.enter_group3
 dt.co.kr##table#tabTable1
-economy.hankooki.com##div#ad2uShop
-economy.hankooki.com##div#ad690100
-economy.hankooki.com##div#ad690120
-economy.hankooki.com##div#adIssueTrend
+economy.hankooki.com###ad2uShop
+economy.hankooki.com###ad690100
+economy.hankooki.com###ad690120
+economy.hankooki.com###adIssueTrend
 economy.hankooki.com##div.ad_wrap
 economy.hankooki.com##div.banner300
 economy.hankooki.com##div.banner580
@@ -805,8 +805,8 @@ ent.joseilbo.com##div.read_banner
 ent.joseilbo.com##div[class^="adya_shopping"]
 ent.joseilbo.com##div[class^="banner_area"]
 ent.joseilbo.com##li.rank_banner
-esports.dailygame.co.kr##div#talklink_chatAd
-esports.dailygame.co.kr##div#wrap>div[style="clear:both;width: 900px;margin: 10px auto;"]
+esports.dailygame.co.kr###talklink_chatAd
+esports.dailygame.co.kr###wrap>div[style="clear:both;width: 900px;margin: 10px auto;"]
 esports.dailygame.co.kr##div.banner_1024_1024
 esports.dailygame.co.kr##div.header>div[style="position: absolute;margin-top: -64px;margin-left: 167px;"]
 esports.dailygame.co.kr##div.sub_rightbox>div[style="margin:0px auto;width:290px;"]
@@ -815,15 +815,15 @@ esports.dailygame.co.kr##iframe[src^="/comment/ad_readclick.php"]
 esports.dailygame.co.kr##iframe[src^="http://www.dailygame.co.kr/ad/dispad_bot.html"]
 esports.dailygame.co.kr##iframe[src^="http://www.dailygame.co.kr/ad/dispad_right.html"]
 esports.dailygame.co.kr##iframe[src^="http://www.dailygame.co.kr/ad/dispad_top.html"]
-etnews.com##div#RightWingBanner
-etnews.com##div#articleBody>div[style="margin-top:15px;margin-bottom:5px;"]
-etnews.com##div#articleBody>div[style="text-align:center"]
-etnews.com##div#bannerTopmostBox
-etnews.com##div#livere_ad
-etnews.com##div#promotionBanner
-etnews.com##div#right>div[style="margin-left:0px;"]
-etnews.com##div#talklink_chatAd
-etnews.com##div#wingLeftSticky
+etnews.com###RightWingBanner
+etnews.com###articleBody>div[style="margin-top:15px;margin-bottom:5px;"]
+etnews.com###articleBody>div[style="text-align:center"]
+etnews.com###bannerTopmostBox
+etnews.com###livere_ad
+etnews.com###promotionBanner
+etnews.com###right>div[style="margin-left:0px;"]
+etnews.com###talklink_chatAd
+etnews.com###wingLeftSticky
 etnews.com##div.ad_txt
 etnews.com##div.box_type1
 etnews.com##div.box_type2
@@ -831,22 +831,22 @@ etnews.com##div.left_ad_div
 etnews.com##div.top_ad_art
 etnews.com##div[class^="right_ad"]
 eto.co.kr##div.tvSideAd
-etoday.co.kr##div#ad_site_top
+etoday.co.kr###ad_site_top
 etoday.co.kr##div.news_head>div[style="padding-bottom:25px;margin-left: -12px;border-bottom: 1px solid #ddd;"]
 etoday.co.kr##div.news_head>div[style="position:relative;top:-60px;right:25px;z-index:10;"]
 etoday.co.kr##div.news_wrap>div[style="padding: 30px 0 30px 30px;"]
 etoday.co.kr##div.sectionAD
 etoday.co.kr##div.view_body>div[style="padding: 30px 17px 40px 18px;border-top: 1px solid #ddd;"]
-ezday.co.kr##div#bodyContainer>div[style="width:278px; padding-left:1px; float:left;"]>div[style="width:100%;padding-left:15px;height:250px;"]
-ezday.co.kr##div#idPigEvent
+ezday.co.kr###bodyContainer>div[style="width:278px; padding-left:1px; float:left;"]>div[style="width:100%;padding-left:15px;height:250px;"]
+ezday.co.kr###idPigEvent
 ezday.co.kr##div.topr_banner
-facebook.com##div#hoverZoomAd
+facebook.com###hoverZoomAd
 facebook.com##div[data-ad]
 facebook.com##i[class~="adsCategoryIcon"]
 facebook.com##span[class="adsCategoryTitleLink"]
 facebook.com##span[id="egoRefreshAds"]
-fnnews.com##div#ad_body
-fnnews.com##div#bylineaAd1
+fnnews.com###ad_body
+fnnews.com###bylineaAd1
 fnnews.com##div.fn_ad_part
 fnnews.com##div.fn_left_side
 fnnews.com##div.fn_news_ad
@@ -864,13 +864,13 @@ focus.kr##div.g_area>div[style="width:314px;height:188px;background-color:white;
 focus.kr##div.g_area>div[style="width:314px;height:258px;background-color:white;text-align:center;padding-top:7px;margin-bottom:25px;"]
 focus.kr##div.header>div.wrap>div[style="position:absolute;right: 0px;bottom: 16px;width: 270px;height: 77px;background-color: white;z-index:10000"]
 forums.macrumors.com##div.funbox
-gall.dcinside.com##div#dc_advertisement
+gall.dcinside.com###dc_advertisement
 gall.dcinside.com##div._BTN_AD_
 gall.dcinside.com##span#FvMainDiv0
-gamechosun.co.kr##div#ad_overture_sky
-gamechosun.co.kr##div#leftBoxBanner
-gamechosun.co.kr##div#over_articleB
-gamechosun.co.kr##div#topLayoutRight
+gamechosun.co.kr###ad_overture_sky
+gamechosun.co.kr###leftBoxBanner
+gamechosun.co.kr###over_articleB
+gamechosun.co.kr###topLayoutRight
 gamechosun.co.kr##div.banner_wrap
 gamemeca.com##div.btmBannerTwo
 gamemeca.com##div.pb32
@@ -878,8 +878,8 @@ gamemeca.com##div.rBannerMain
 gamemeca.com##div.rBtmBanner
 gamemeca.com##div[class^="ad"]
 gigglehd.com##.boardRead + DIV[align="center"]
-hani.co.kr##div#power-link2
-hani.co.kr##div#visual-ad
+hani.co.kr###power-link2
+hani.co.kr###visual-ad
 hani.co.kr##div.overflow-ad
 hani.co.kr##div.ttalk150_banner
 hani.co.kr##div[class^="hani-advertise"]
@@ -890,7 +890,7 @@ hankookilbo.com##DIV.side-ad
 hankookilbo.com##iframe[src="/sidead300x250.html"]
 hankyung.com##aside.ad-newsview
 hankyung.com##aside.ad-top-wide
-hankyung.com##div#ad_ti
+hankyung.com###ad_ti
 hankyung.com##div.article-ad-rec300
 hankyung.com##div.atc-ad-wrap
 hankyung.com##div.atc-widg-group
@@ -900,27 +900,27 @@ hankyung.com##div.ft_ad
 hankyung.com##div.r_ad_rec300
 hankyung.com##iframe[src^="/m/inc/fixed_mobile_ad_area_view.html"]
 healthmedi.net##div.imagead-taskbar-anchor
-huffingtonpost.kr##div#modulous_article_bottom
-huffingtonpost.kr##div#modulous_leaderboard_flex
-huffingtonpost.kr##div#modulous_mid_article
-huffingtonpost.kr##div#modulous_right_rail_edit_promo
-huffingtonpost.kr##div#modulous_right_rail_flex
-huffingtonpost.kr##div#modulous_sponsorship_2
+huffingtonpost.kr###modulous_article_bottom
+huffingtonpost.kr###modulous_leaderboard_flex
+huffingtonpost.kr###modulous_mid_article
+huffingtonpost.kr###modulous_right_rail_edit_promo
+huffingtonpost.kr###modulous_right_rail_flex
+huffingtonpost.kr###modulous_sponsorship_2
 huffingtonpost.kr##div.ad_lower_right_commercials_wrapper
 huffingtonpost.kr##div.ad_share_box
-hungryapp.co.kr##div#banner_11
+hungryapp.co.kr###banner_11
 hungryapp.co.kr##div.bannersww
 i.orbi.kr#@#.gridAd
 i.orbi.kr###diamondBanner
 i.orbi.kr###styleBanner
 i.orbi.kr##.commentAdv2
 i.orbi.kr##.crewbi_ootds_wrapper
-ibabynews.com##div#divContentBanner
+ibabynews.com###divContentBanner
 ibabynews.com##div.LeftDiv>div[style="zoom:1; border:1px solid #DDD; height:150px; padding-top:10px;"]
 ibabynews.com##div.TopDiv>div[style="position:absolute; top: 40px; right:0px; width:230px; height:55px;"]
 ibabynews.com##div.TotalDiv>div[style="right: 50%; margin-right: 500px; top:110px; position:absolute; z-index:3; width:85px ; height:140px; text-align:center"]
-ilbe.com##div#board_top_dummy
-ilbe.com##div#layer_left
+ilbe.com###board_top_dummy
+ilbe.com###layer_left
 insight.co.kr##div.masthead-adv
 insight.co.kr##div.specific>div[style="display: inline-block;width: 300px;height: 300px;margin-bottom: 20px;"]
 instiz.net###powerlink
@@ -931,8 +931,8 @@ instiz.net##.spage_score_bottom > DIV:last-child
 instiz.net##body>div[style="width:100%;text-align:center;background-color:#fafafa;height:100px;overflow-y:hidden"]
 instiz.net##TBODY > TR:nth-child(4) > TD[style$="#dbdbdb"]
 instiz.net$$script[type="text/javascript"][tag-content="naverbox"]
-interpark.com##div#powerLinkBox
-interpark.com##div#searchSponsorAd
+interpark.com###powerLinkBox
+interpark.com###searchSponsorAd
 inven.co.kr##div[id$="AdTop"]
 iphone-apps-ipa.com##div[id^="default_adp"]
 iphone-apps-ipa.com##div[id^="meerkat-wrap"]
@@ -943,13 +943,13 @@ isplus.joins.com##div.sec_buzzlink
 isplus.joins.com##div[class^="ad_thum"]
 isplus.joins.com##div[class^="banner_1024_1024"]
 isplus.joins.com##span[id^="realclick_view2"]
-isplus.joinsmsn.com##div#topTextAd
+isplus.joinsmsn.com###topTextAd
 isplus.joinsmsn.com##div[class^="biz_link_area"]
 isplus.joinsmsn.com##div[class^="sponsor_link_area"]
 ittoday.co.kr##dl[class$="top-banner"]
-joins.com##div#divArticleAdnetworkBanner
-joins.com##div#gnb_banner
-joins.com##div#shoppingnews
+joins.com###divArticleAdnetworkBanner
+joins.com###gnb_banner
+joins.com###shoppingnews
 joins.com##div.article_ad200
 joins.com##div.article_ad250
 joins.com##div.rt_ad
@@ -957,26 +957,26 @@ joins.com##div.shopping_area
 joins.com##div[class*="biz_link"]
 joins.com##div[id*="biz_link"]
 joins.com##span#spnAddLinkArticleContent
-joinsmsn.com##div#shopping_area
-joinsmsn.com##div#shoppingnews
+joinsmsn.com###shopping_area
+joinsmsn.com###shoppingnews
 joinsmsn.com##div.brandtext_area
 joinsmsn.com##div[class$="ad_link_area"]
 joongang.joins.com##div[data-widget-type="Ad"]
-joongdo.co.kr##div#id_header_R
+joongdo.co.kr###id_header_R
 joynews.inews24.com##iframe[name^="rollingFrameTop"]
-kookje.co.kr##div#bnr_newsmiddleArea
-kookje.co.kr##div#bnr_newsmiddlebottomArea
-kookje.co.kr##div#bnr_newstopArea
-kookje.co.kr##div#bnr_rightmiddleArea
-kookje.co.kr##div#bnr_rightTopArea
-kookje.co.kr##div#news_relGisa2>p[style="width:250px;height:250px;border:1px solid #ddd"]
-kookje.co.kr##div#news_textArea>div[style="clear:both;position:relative;width:468px;height:60px;background:#FFF;border:1px solid #999999;margin:10px auto;z-index:0"]
-kookje.co.kr##div#news_textArea>div[style="float:right;width:300px;height:255px;margin-left:10px;"]
-kookje.co.kr##div#top>div[style="margin:10px auto 0;width:728px;"]
+kookje.co.kr###bnr_newsmiddleArea
+kookje.co.kr###bnr_newsmiddlebottomArea
+kookje.co.kr###bnr_newstopArea
+kookje.co.kr###bnr_rightmiddleArea
+kookje.co.kr###bnr_rightTopArea
+kookje.co.kr###news_relGisa2>p[style="width:250px;height:250px;border:1px solid #ddd"]
+kookje.co.kr###news_textArea>div[style="clear:both;position:relative;width:468px;height:60px;background:#FFF;border:1px solid #999999;margin:10px auto;z-index:0"]
+kookje.co.kr###news_textArea>div[style="float:right;width:300px;height:255px;margin-left:10px;"]
+kookje.co.kr###top>div[style="margin:10px auto 0;width:728px;"]
 kookje.co.kr##div.leftArea>div[style="padding:10px 49px 0px"]
 kookje.co.kr##div[id^="flow_banner"]
 kookje.co.kr##iframe[src^="/service/banner/"]
-koreadaily.com##div#google_ad1
+koreadaily.com###google_ad1
 koreadaily.com##div.right_b_banner
 koreadaily.com##div.shopping2
 koreadaily.com##div.top>div[style="width:970px;margin-top:15px;overflow:hidden;border:solid 1px #e5e5e5;"]
@@ -995,8 +995,8 @@ koreapas.com##DIV:nth-child(4) > TABLE:first-child > TBODY > TR > TD[width="227"
 koreapas.com##DIV:nth-child(4) > TABLE:first-child > TBODY > TR > TD[width="430"]
 koreapas.com##TABLE[background$="grayy.gif"]
 kotaku.com##div.ad-wide
-kr.celeb.yahoo.com##div#leftClickButton
-kr.celeb.yahoo.com##div#rightClickButton
+kr.celeb.yahoo.com###leftClickButton
+kr.celeb.yahoo.com###rightClickButton
 kr.celeb.yahoo.com##div.yom-ad
 kukinews.com##div[class^="bnr_290_"]
 live.joinsmsn.com##div.shopping_v2
@@ -1008,26 +1008,26 @@ m.chosun.com##div.art_sub_news_box
 m.chosun.com##div.txt_ad_box
 m.comic.naver.com##div.ads_sc
 m.comic.naver.com$$li[tag-content="AD_WEBTOON_MOBILEWEB_UP"][max-length="512"]
-m.dcinside.com##div#div_adnmore_area
-m.dcinside.com##div#lguplus_ad_banner
-m.dcinside.com##div#mmaDisplay
+m.dcinside.com###div_adnmore_area
+m.dcinside.com###lguplus_ad_banner
+m.dcinside.com###mmaDisplay
 m.dcinside.com##div[data-adam-elem="banner_wrapper"]
 m.esports.dailygame.co.kr##div.banner-wrap
-m.etnews.com##div#bottomBigBanner
-m.etnews.com##div#boxContent>div[style="margin-top:20px;border:0;"]
+m.etnews.com###bottomBigBanner
+m.etnews.com###boxContent>div[style="margin-top:20px;border:0;"]
 m.etnews.com##div.inlineAdBanner
 m.etnews.com##div.newsView>div[style="margin-top:10px;"]
 m.etnews.com##section.relBottom>section>div.defNewList>div[style="margin:4px 0 4px 0px;padding:0px;height:99px;border:0px;overflow:hidden;"]
 m.etnews.com##section.relBottom>section[style="margin-left:8px;margin-right:8px;margin-top:7px;background-color:#fff;"]
-m.etoday.co.kr##div#Share_bn
+m.etoday.co.kr###Share_bn
 m.etoday.co.kr##div.news_adinn
 m.etoday.co.kr##div.title_ad
-m.focus.kr##div#article_Content>div[style="margin-top:20px;"]
+m.focus.kr###article_Content>div[style="margin-top:20px;"]
 m.focus.kr##iframe[id^="adv_banner"]
 m.gamechosun.co.kr##div.ad_com_bener
 m.gamechosun.co.kr##div.banner_wrap
 m.gamechosun.co.kr##div.left_menuAd
-m.hankooki.com##div#ad_img_div
+m.hankooki.com###ad_img_div
 m.hankooki.com##div.adpromotion
 m.hankooki.com##div[class^="ads_"]
 m.huffpost.com##div.advertisement.mobileweb_article_bottom_refresh div.trc_rbox_container div.trc_rbox_outer div.syndicatedItem
@@ -1042,9 +1042,9 @@ m.humoruniv.com###cauly_nad2
 m.humoruniv.com###cauly_nad3
 m.humoruniv.com###out_banner
 m.humoruniv.com###uad_iframe
-m.khan.co.kr##div#article_bottom_ad
-m.khan.co.kr##div#mezzo_ad
-m.khan.co.kr##div#photoAD
+m.khan.co.kr###article_bottom_ad
+m.khan.co.kr###mezzo_ad
+m.khan.co.kr###photoAD
 m.khan.co.kr##div.ad_area
 m.khan.co.kr##div.ad_thumb_btm
 m.khan.co.kr##div.contBn
@@ -1069,24 +1069,24 @@ m.mydaily.co.kr##p.mobitree
 m.naver.com##div.grid_ad
 m.news.naver.com##div.ad_area
 m.news.naver.com##div.ad_box
-m.news1.kr##div#article_content>div[style="width:150px;height:150px;float:right;margin:10px 0 10px 10px;"]
+m.news1.kr###article_content>div[style="width:150px;height:150px;float:right;margin:10px 0 10px 10px;"]
 m.news1.kr##div[data-role="main"]>div[style="z-index:10; position:fixed; bottom:0; height:49px; width:100%;"]
 m.news1.kr##iframe[src^="../../ads/"]
 m.news1.kr##ul.txt_padding_box
 m.nocutnews.co.kr##div.con_b>div.ct_box
-m.ohmynews.com##div#adDaum
-m.ohmynews.com##div#adDaum_top
-m.ohmynews.com##div#ad_box
+m.ohmynews.com###adDaum
+m.ohmynews.com###adDaum_top
+m.ohmynews.com###ad_box
 m.ohmynews.com##div.ad_box_outline
 m.todayhumor.co.kr##DIV[style$="#e5e5e5"]
 m.todayhumor.co.kr##DIV[style^="margin:10 0 10"]
-m.segye.com##div#textbanner
-m.segye.com##div#wide_wrap>div[style="float:left; width:100%; height:50px; clear:both; margin:-9px -9px 0 -9px; padding:0; text-align:center; background-color:#E7E7E7;"]
+m.segye.com###textbanner
+m.segye.com###wide_wrap>div[style="float:left; width:100%; height:50px; clear:both; margin:-9px -9px 0 -9px; padding:0; text-align:center; background-color:#E7E7E7;"]
 m.segye.com##div.subAdinfo
 m.segye.com##div.subAdnoline
 m.segye.com##section.tab.tab_reco
-m.seoul.co.kr##div#popAdDiv
-m.seoul.co.kr##div#rollingAdDiv
+m.seoul.co.kr###popAdDiv
+m.seoul.co.kr###rollingAdDiv
 m.seoul.co.kr##div.Acon>div[style="width:100%;margin-top:15px;margin-bottom:15px"]
 m.seoul.co.kr##div.Acon>table[align="right"][style="margin-left:5px;"][width="200px"]
 m.seoul.co.kr##div.react_left_v>div[style="clear:both; float:left; padding:23px 8px;"]
@@ -1097,12 +1097,12 @@ m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;m
 m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;margin-bottom:20px;float:left;overflow-x:hidden;"]
 m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;margin-bottom:20px;float:left;text-align:center;"]
 m.star.mt.co.kr##body>div[style="height:80px; background:#424242"]
-m.star.mt.co.kr##div#ad_lumieyes_new
-m.star.mt.co.kr##div#ad_sclist
-m.star.mt.co.kr##div#content>div[style="background:#fff"]
-m.star.mt.co.kr##div#content>div[style="position:fixed;bottom:-7px;width:100%;z-index:2001"]
-m.star.mt.co.kr##div#content>div[style="text-align:center;"]
-m.star.mt.co.kr##div#content>div[style="text-align:center; background:#fff"]
+m.star.mt.co.kr###ad_lumieyes_new
+m.star.mt.co.kr###ad_sclist
+m.star.mt.co.kr###content>div[style="background:#fff"]
+m.star.mt.co.kr###content>div[style="position:fixed;bottom:-7px;width:100%;z-index:2001"]
+m.star.mt.co.kr###content>div[style="text-align:center;"]
+m.star.mt.co.kr###content>div[style="text-align:center; background:#fff"]
 m.star.mt.co.kr##section.bxcn4>div[style="width:300px;height:250px;position:relative;margin:0 auto;"]
 m.star.mt.co.kr##ul#flick-ad
 m.yna.co.kr##aside.section-article-add>div.section-ad
@@ -1118,10 +1118,10 @@ m.ytn.co.kr##div.newsview_ad_bnr
 m.ytn.co.kr##div.photo_bottom_ad
 mangafox.me##div.ad
 mangaumaru.com,shencomics.com,yuncomics.com##aside.EzAdsWidget
-mangaumaru.com,shencomics.com,yuncomics.com##div#fbanner
+mangaumaru.com,shencomics.com,yuncomics.com###fbanner
 mangaumaru.com,shencomics.com,yuncomics.com##div.mobfloat
-marumaru.in##div#responsive-banner
-marumaru.in##div#widget__insert_html
+marumaru.in###responsive-banner
+marumaru.in###widget__insert_html
 marumaru.in##div.mobfloat
 mbiz.heraldcorp.com##div.ad_2
 mbiz.heraldcorp.com##div.ad_4
@@ -1132,13 +1132,13 @@ mbiz.heraldcorp.com##span[id^="adsmnc_t_"]
 mbiz.heraldcorp.com##span[id^="suscat_t_"]
 mbiz.heraldcorp.com##ul#adsmnctext
 mbiz.heraldcorp.com##ul.text_ad
-mbn.mk.co.kr##div#bottom_ad
+mbn.mk.co.kr###bottom_ad
 mbn.mk.co.kr##div.ad1
 mbn.mk.co.kr##div.relation_ad
-media.daum.net##div#banner250
-media.daum.net##div#daum-ad-root
+media.daum.net###banner250
+media.daum.net###daum-ad-root
 media.daum.net##iframe#daum-ad-root-ifrm
-mediatoday.co.kr##div#adbnFloating
+mediatoday.co.kr###adbnFloating
 mediatoday.co.kr##iframe[src*="/adItem/"]
 mediaus.co.kr##div[style="position:relative;width:250px;height:139px;overflow:hidden;"]
 mediaus.co.kr##iframe[src^="/banner/"]
@@ -1151,7 +1151,7 @@ mnews.joins.com##.band_ad_top
 mnews.joins.com##div.ad
 mnews.joins.com##div.ad_h100
 mnews.joins.com##div.adlink
-mnews.jtbc.joins.com##div#player_bottom_ad
+mnews.jtbc.joins.com###player_bottom_ad
 mnews.jtbc.joins.com##div.ad_highlight_270
 mnews.jtbc.joins.com##div.ad_text_2line
 mnews.jtbc.joins.com##div.footer_ad
@@ -1159,66 +1159,66 @@ mnews.jtbc.joins.com##div.footer_google
 mnews.jtbc.joins.com##div.text_ad
 mnews.jtbc.joins.com##section.shopping.right
 mnews.jtbc.joins.com##section.shopping_box
-mnews.sbs.co.kr##div#ggadsense1
-mnews.sbs.co.kr##div#ggadsense2
-mnews.sbs.co.kr##div#sbsMobileAdArea
+mnews.sbs.co.kr###ggadsense1
+mnews.sbs.co.kr###ggadsense2
+mnews.sbs.co.kr###sbsMobileAdArea
 mnews.sbs.co.kr##div.efoot_bnr_ad
 mosen.mt.co.kr##div[id^="adList"]
-mt.co.kr##div#art_ad_top1
-mt.co.kr##div#news_banner1
-mt.co.kr##div#news_banner2
+mt.co.kr###art_ad_top1
+mt.co.kr###news_banner1
+mt.co.kr###news_banner2
 mt.co.kr##ul.related_ad
 munhwa.com##iframe[name="denta_adv"]
 music.daum.net##div.banner_250
 mydaily.co.kr##body>div[style="position:absolute; left:1px; top:314px;"]
-mydaily.co.kr##div#ad_left
-mydaily.co.kr##div#ad_left_wing
-mydaily.co.kr##div#ad_right
-mydaily.co.kr##div#read_left>div[style="margin-left:5px;"]
-mydaily.co.kr##div#read_left>div[style="width:680px; border:1px solid #dddddd; background:#ffffff; /**/overflow:hidden; margin-bottom:10px; padding:10px 13px;"]
-mydaily.co.kr##div#read_left>div[style="width:706px; /**/overflow:hidden; margin-bottom:10px; padding:10px 0;"]
-mydaily.co.kr##div#read_left>div[style="width:706px; border:1px solid #dddddd; background:#f6f6f6; /**/overflow:hidden; margin:10px 0; "]
-mydaily.co.kr##div#wrap>div[style="width:160px; height:600px; position:absolute; top:1420px; left:50%; margin-left:520px; color:#e6e6e6"]
-mydaily.co.kr##div#wrap>div[style="width:160px; height:600px; position:absolute; top:425px; left:50%; margin-left:520px;"]
+mydaily.co.kr###ad_left
+mydaily.co.kr###ad_left_wing
+mydaily.co.kr###ad_right
+mydaily.co.kr###read_left>div[style="margin-left:5px;"]
+mydaily.co.kr###read_left>div[style="width:680px; border:1px solid #dddddd; background:#ffffff; /**/overflow:hidden; margin-bottom:10px; padding:10px 13px;"]
+mydaily.co.kr###read_left>div[style="width:706px; /**/overflow:hidden; margin-bottom:10px; padding:10px 0;"]
+mydaily.co.kr###read_left>div[style="width:706px; border:1px solid #dddddd; background:#f6f6f6; /**/overflow:hidden; margin:10px 0; "]
+mydaily.co.kr###wrap>div[style="width:160px; height:600px; position:absolute; top:1420px; left:50%; margin-left:520px; color:#e6e6e6"]
+mydaily.co.kr###wrap>div[style="width:160px; height:600px; position:absolute; top:425px; left:50%; margin-left:520px;"]
 mydaily.co.kr##div.read_right_ad
 mydaily.co.kr##div[id^="AD_LIVE_AREA_"]
 mydaily.co.kr##div[class^="banner_1024_1024_"]
 nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(2)
 nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(3)
 nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(4)
-nate.com##div#shopLoading
+nate.com###shopLoading
 nate.com##iframe#ifrShopping
-naver.com##div#promotion1
-naver.com##div#promotion2
-naver.com##div#veta_branding
-naver.com##div#veta_top
+naver.com###promotion1
+naver.com###promotion2
+naver.com###veta_branding
+naver.com###veta_top
 news.chosun.com##div.art_ad_aside
 news.chosun.com##div.art_ad_ss_left
 news.chosun.com##div.art_ad_ss_right
 news.chosun.com##div.art_ad_top
 news.chosun.com##div.art_aisde_ads
 news.cnbnews.com##div[class^="top_bn"]
-news.donga.com##div#__news.donga.com_aq2
+news.donga.com###__news.donga.com_aq2
 news.donga.com##div.clArticleAd
 news.donga.com##div[id^="left_AD_"]
 news.donga.com##div[id^="right_AD_"]
 news.donga.com##div[class^="aside_AD"]
 news.donga.com##div[class^="sub_cont_AD"]
-news.hankooki.com##div#DrBox
-news.hankooki.com##div#SponsorLink
-news.hankooki.com##div#TodayPopInfo
-news.hankooki.com##div#bnn_26080
-news.hankooki.com##div#keyword_link
+news.hankooki.com###DrBox
+news.hankooki.com###SponsorLink
+news.hankooki.com###TodayPopInfo
+news.hankooki.com###bnn_26080
+news.hankooki.com###keyword_link
 news.hankooki.com##div[id^="Ad"]
 news.hankooki.com##div[id^="adText"]
-news.inews24.com##div#divrightbiz
+news.inews24.com###divrightbiz
 news.inews24.com##div.main_top_banner
 news.inews24.com##iframe#ifrmTopTotal
 news.joins.com###articeltopbanner
 news.joins.com##.ab_adtxt_wrap
 news.joins.com##.shpping_life
 news.joins.com##.advertising
-news.joins.com##div#criteo_network
+news.joins.com###criteo_network
 news.joins.com##div.ad
 news.joins.com##div[data-widget-type="Ad"]
 news.jtbc.joins.com##.ad_shoppingnlife_bottom
@@ -1232,8 +1232,8 @@ news.jtbc.joins.com##div.netizen_link_area
 news.jtbc.joins.com##div.right_banner250_area
 news.jtbc.joins.com##div.sponsor_link_combine
 news.jtbc.joins.com##div.wing_wrap
-news.khan.co.kr##div#photoAD
-news.khan.co.kr##div#topLeft
+news.khan.co.kr###photoAD
+news.khan.co.kr###topLeft
 news.khan.co.kr##div.ad_about
 news.khan.co.kr##div.ad_adFlex
 news.khan.co.kr##div.ad_hotIssue
@@ -1250,50 +1250,50 @@ news.kmib.co.kr##body>div[style="height:150px;margin:5px 0 0;"]
 news.kmib.co.kr##body>div[style="height:250px;margin:0px 0 0;"]
 news.kmib.co.kr##body>div[style="height:250px;margin:5px 0 0;"]
 news.kmib.co.kr##body>div[style="margin:5px 0 0;"]
-news.kmib.co.kr##div#article>div[style="width:250px;height:250px;float:left;margin:0 15px 10px 0px;"]
-news.kmib.co.kr##div#content>div.NwsCon>div[style="border-bottom:1px solid #ddd;padding:0 0 20px;margin-bottom:20px;"]
-news.kmib.co.kr##div#content>div.NwsCon>div[style="margin:15px 0;"]
-news.kmib.co.kr##div#content>div.NwsCon>div[style="margin:30px auto 40px;"]
-news.kmib.co.kr##div#content>div.NwsCon>div[style="padding-bottom:20px;"]
-news.kmib.co.kr##div#content>div.NwsCon>div[style="padding-bottom:20px;width:688px;height:110px;margin:0 auto;"]
-news.kmib.co.kr##div#content>div.NwsCon>div[style="padding-bottom:20px;width:700px;height:150px;"]
-news.kmib.co.kr##div#content>div.NwsCon>div[style="padding-bottom:20px;width:700px;height:180px;"]
-news.kmib.co.kr##div#content>div.NwsCon>div[style="padding-bottom:30px;"]
+news.kmib.co.kr###article>div[style="width:250px;height:250px;float:left;margin:0 15px 10px 0px;"]
+news.kmib.co.kr###content>div.NwsCon>div[style="border-bottom:1px solid #ddd;padding:0 0 20px;margin-bottom:20px;"]
+news.kmib.co.kr###content>div.NwsCon>div[style="margin:15px 0;"]
+news.kmib.co.kr###content>div.NwsCon>div[style="margin:30px auto 40px;"]
+news.kmib.co.kr###content>div.NwsCon>div[style="padding-bottom:20px;"]
+news.kmib.co.kr###content>div.NwsCon>div[style="padding-bottom:20px;width:688px;height:110px;margin:0 auto;"]
+news.kmib.co.kr###content>div.NwsCon>div[style="padding-bottom:20px;width:700px;height:150px;"]
+news.kmib.co.kr###content>div.NwsCon>div[style="padding-bottom:20px;width:700px;height:180px;"]
+news.kmib.co.kr###content>div.NwsCon>div[style="padding-bottom:30px;"]
 news.kmib.co.kr##div.side_ifm_area>div.bnrct
 news.kmib.co.kr##div.top_nws>div.bnr_234_60
-news.kukinews.com##div#ad01_250_250
-news.kukinews.com##div#content>div.cnt_lft>div[style="width:685px;height:130px;margin:10px auto;text-align:center;"]
-news.kukinews.com##div#content>div.cnt_lft>div[style="width:695px;height:190px;padding-left:5px;"]
-news.kukinews.com##div#content>div.cnt_lft>div[style="width:700px; height:70px; margin:15px 0 15px 0;"]
-news.kukinews.com##div#content>div.cnt_lft>div[style="width:700px;height:120px;margin:10px auto;text-align:center;"]
-news.kukinews.com##div#content>div.cnt_lft>div[style="width:700px;height:160px;margin-bottom:20px;"]
-news.kukinews.com##div#content>div.cnt_lft>div[style="width:700px;height:230px;margin:10px auto;text-align:center;"]
-news.kukinews.com##div#lft_top_adplus
+news.kukinews.com###ad01_250_250
+news.kukinews.com###content>div.cnt_lft>div[style="width:685px;height:130px;margin:10px auto;text-align:center;"]
+news.kukinews.com###content>div.cnt_lft>div[style="width:695px;height:190px;padding-left:5px;"]
+news.kukinews.com###content>div.cnt_lft>div[style="width:700px; height:70px; margin:15px 0 15px 0;"]
+news.kukinews.com###content>div.cnt_lft>div[style="width:700px;height:120px;margin:10px auto;text-align:center;"]
+news.kukinews.com###content>div.cnt_lft>div[style="width:700px;height:160px;margin-bottom:20px;"]
+news.kukinews.com###content>div.cnt_lft>div[style="width:700px;height:230px;margin:10px auto;text-align:center;"]
+news.kukinews.com###lft_top_adplus
 news.kukinews.com##div.bnr_370_60
 news.kukinews.com##div.vw_ad_700
 news.maxmovie.com##ul.news_right_ad
-news.mk.co.kr##div#viewShopDiv
+news.mk.co.kr###viewShopDiv
 news.mk.co.kr##div.ad_viewrolling
 news.mk.co.kr##div.container_left>table>tbody>tr>td>table[style="margin-bottom:30px"]
-news.mt.co.kr##div#TI_BANNER
-news.mt.co.kr##div#banner_big
-news.mt.co.kr##div#bn_rightside2
-news.mt.co.kr##div#mjDiv
-news.mt.co.kr##div#mt_header>div>div[style="position:absolute; right:-150px; top:202px; z-index:1;"]
+news.mt.co.kr###TI_BANNER
+news.mt.co.kr###banner_big
+news.mt.co.kr###bn_rightside2
+news.mt.co.kr###mjDiv
+news.mt.co.kr###mt_header>div>div[style="position:absolute; right:-150px; top:202px; z-index:1;"]
 news.mt.co.kr##div.art_todayfocus
 news.mt.co.kr##div.aside_bundle>div.mgt16
 news.mt.co.kr##div.mt_books
 news.mt.co.kr##div.mtflash
 news.mt.co.kr##div[id^="art_ad_top"]
-news.nate.com##div#newsmediaBanner
-news.nate.com##div#spaceBanner
+news.nate.com###newsmediaBanner
+news.nate.com###spaceBanner
 news.nate.com##div[class$="socialAD"]
 news.nate.com##div[class^="smartLink"]
 news.nate.com##iframe#AdShopSearch
 news.nate.com##iframe#socialAD
-news.sbs.co.kr##div#all_vod_banner
-news.sportsseoul.com##div#ntomapDiv
-news.sportsseoul.com##div#style_250ad9
+news.sbs.co.kr###all_vod_banner
+news.sportsseoul.com###ntomapDiv
+news.sportsseoul.com###style_250ad9
 news.sportsseoul.com##div.ad250
 news.sportsseoul.com##div[class^="read"][class$="Ad"]
 news.sportsseoul.com##div[id^="solsAdDiv"]
@@ -1304,29 +1304,29 @@ news.sportsseoul.com##ul[class^="bottomAd"]
 news.sportsseoul.com##ul[class^="readAd"]
 news.sportsseoul.com##ul[class^="topAd"]
 news1.kr##a.stat_check_link
-news1.kr##div#article_body_content>div[style="margin:0 auto; padding-bottom:10px;"]
+news1.kr###article_body_content>div[style="margin:0 auto; padding-bottom:10px;"]
 news1.kr##div.ad_content
 news1.kr##div.ad_wing_l
 news1.kr##div.ad_wing_r
 news1.kr##div.article>div[style="margin: 0 auto; padding-bottom: 10px;"]
 news1.kr##div.aside>div.adBlock
 news1.kr##div.link_news.s_news_list>ul>div[style="padding:5px; background:#EBEBEB; margin-top:-200px; right:0; position:absolute; width:200px; height:200px;"]
-newsen.com##div#ad250
+newsen.com###ad250
 newshankuk.com##div.bannerBottomR
 newshankuk.com##div.bannerTopR
-newsis.com##div#div_ad1
-newsis.com##div#div_ad2
+newsis.com###div_ad1
+newsis.com###div_ad2
 newspim.com##body>div[style="position:absolute; top:170px; z-index:1000; margin-left:500px; left:50%;"]
 newspim.com##body>div[style="position:absolute; top:180px; z-index:1000; margin-left:-620px; left:50%;"]
 newspim.com##body>div[style="position:absolute; top:780px; z-index:1000; margin-left:500px; left:50%;"]
 newspim.com##body>div[style="width:120px; height:600px;position:absolute; top:790px; z-index:1000; margin-left:-620px; left:50%;"]
-newspim.com##div#newscenter_wrap2>div[style="width:300px; height:250px; margin-left:25px; float:left;"]
-newspim.com##div#newscenter_wrap2>div[style="width:300px; height:250px; margin-right:25px; float:right;"]
-newspim.com##div#topview_allwrap>div[style="text-align:center; float:left; width:100%;"]
-newsway.kr##div#float_1002
-newsway.kr##div#google_banner
+newspim.com###newscenter_wrap2>div[style="width:300px; height:250px; margin-left:25px; float:left;"]
+newspim.com###newscenter_wrap2>div[style="width:300px; height:250px; margin-right:25px; float:right;"]
+newspim.com###topview_allwrap>div[style="text-align:center; float:left; width:100%;"]
+newsway.kr###float_1002
+newsway.kr###google_banner
 newsway.kr##div[id^="NMN_BANNER_WIDGET_"]
-noblesse.com##div#top_banner
+noblesse.com###top_banner
 noblesse.com##div.bannerwrap
 nocutnews.co.kr##div.ad1
 nocutnews.co.kr##div.ad_sky
@@ -1336,13 +1336,13 @@ nocutnews.co.kr##div.ad_view
 nocutnews.co.kr##div.head_adl
 nocutnews.co.kr##div.head_adr2
 nocutnews.co.kr##div.view_ban
-nownews.seoul.co.kr##div#articleContent>table[width="250px"][height="250px"]
+nownews.seoul.co.kr###articleContent>table[width="250px"][height="250px"]
 nownews.seoul.co.kr##div.Rad
 nownews.seoul.co.kr##div[style="float:left; width:675px; height:154px;"]
 nownews.seoul.co.kr##iframe#ifrm_photolink
-nyaa.se##div#main>div[style="float:left;margin-bottom:6px;"]
-nyaa.se##div#main>div[style="float:left;width:100%;"]
-nyaa.se##div#main>div[style="float:right;margin-top:4px;width:12%;"]
+nyaa.se###main>div[style="float:left;margin-bottom:6px;"]
+nyaa.se###main>div[style="float:left;width:100%;"]
+nyaa.se###main>div[style="float:right;margin-top:4px;width:12%;"]
 ohmynews.com##div.ad_area620
 ohmynews.com##div.ad_footer
 ohmynews.com##div.ad_scroll
@@ -1352,10 +1352,10 @@ ohmynews.com##div.wing_gallery_banner
 ohmynews.com##div[class^="aside_ad"]
 ohmynews.com##div[class^="m_ad"]
 ohmynews.com##ul.ad_area
-osen.mt.co.kr##div#aside2>div[style="margin:0px 1px 0px 1px;overflow:hidden;"]
-osen.mt.co.kr##div#left_wing_ad
-osen.mt.co.kr##div#mask
-osen.mt.co.kr##div#right_wing_ad
+osen.mt.co.kr###aside2>div[style="margin:0px 1px 0px 1px;overflow:hidden;"]
+osen.mt.co.kr###left_wing_ad
+osen.mt.co.kr###mask
+osen.mt.co.kr###right_wing_ad
 osen.mt.co.kr##div.advertising
 osen.mt.co.kr##div.content-inner__banner
 osen.mt.co.kr##div.detailBox>div[style="margin-top:40px;"]
@@ -1366,28 +1366,28 @@ osen.mt.co.kr##div.detailView>ul.articleList
 osen.mt.co.kr##div.divBox
 osen.mt.co.kr##div.mask_div
 osen.mt.co.kr##div.topBanner
-pann.nate.com##div#pann_brandAdWrap
-pann.nate.com##div#psypannAd
+pann.nate.com###pann_brandAdWrap
+pann.nate.com###psypannAd
 pann.nate.com##div.sidebar.ad
 pann.nate.com##div.sidebar_banner
 pann.nate.com##div.view_banner
 pastebin.com##iframe[id^="tfasyncframe_"]
 pixiv.net##a.ads_anchor
-pixiv.net##div#header-banner
+pixiv.net###header-banner
 pixiv.net##div.ad
 pixiv.net##div.ad-footer
 pixiv.net##div.ads_area
 pixiv.net##div.cool-ad-footer
 pixiv.net##span.multi-ads-area
-ppomppu.co.kr##div#emart_banner
-ppomppu.co.kr##div#shoppingbox
+ppomppu.co.kr###emart_banner
+ppomppu.co.kr###shoppingbox
 ppomppu.co.kr##div.ad
 ppomppu.co.kr##div.banner
 ppomppu.co.kr##div.banner_336
 ppomppu.co.kr##div[id^="pp_ban_"]
 ppomppu.co.kr##iframe[id^="if_"][id$="_bn"]
 ppomppu.co.kr##p.banner_553
-pressian.com##div#ad1
+pressian.com###ad1
 pressian.com##div.c011_arv_event>div[style="padding-bottom:20px;"]
 pressian.com##div.c011_arv_event>div[style="width:336px; height:280px; float:right; margin-bottom:15px;"]
 pressian.com##iframe[src^="http://ad"]
@@ -1396,18 +1396,18 @@ reviewstar.hankooki.com##li.ad_plex_a250
 search.daum.net##div.ad_sch
 search.daum.net##div.wing_sponsor
 search.naver.com##div.ad_section
-segye.com##div#onlineissuebox
-segye.com##div#sideBanner
-segye.com##div#textadbox
+segye.com###onlineissuebox
+segye.com###sideBanner
+segye.com###textadbox
 segye.com##div.article_list
 segye.com##div[id^="ClickStory_ViewAD"]
 segye.com##div[id^="ClickStory_ViewRightAD"]
 segye.com##ul.hotnewsAD
 seiyon.net###desktop-container > .index_row:nth-child(2)
-seoul.co.kr##div#CLink
-seoul.co.kr##div#criteo_div
-seoul.co.kr##div#eMartDiv
-seoul.co.kr##div#seoulAdTable
+seoul.co.kr###CLink
+seoul.co.kr###criteo_div
+seoul.co.kr###eMartDiv
+seoul.co.kr###seoulAdTable
 seoul.co.kr##div.aside>div[style="margin-bottom:20px"]
 seoul.co.kr##div.atic_banner
 seoul.co.kr##div.atic_cnt>div[style="clear:both;width:545px;float:right;margin-top:10px;"]
@@ -1420,8 +1420,8 @@ seoul.co.kr##iframe#InbnetInspaceAdFrame
 seoul.co.kr##iframe#iwm_expand_iframe
 seoul.co.kr##iframe[src^="/ad/"]
 seoul.co.kr##iframe[src^="/news/datawaveAD.php"]
-sisainlive.com##div#TopBanners2
-sisainlive.com##div#layerBanner
+sisainlive.com###TopBanners2
+sisainlive.com###layerBanner
 sisainlive.com##td#articleBody>table[align="right"][width="320"][height="265"]
 skyscanner.co.kr##div.mpu-advert
 smartfile.co.kr##.right_slide
@@ -1431,9 +1431,9 @@ snulife.com##DIV[style*="450px;"][style*="120px;"]
 snulife.com###comment > DIV:first-child > DIV.cmt_editor + DIV[style*="border"]
 snulife.com##DIV.rd_ft + DIV[style*="600px"]
 snulife.com###bd>DIV[style*="width:100%; margin-top:15px;"]
-sportalkorea.com##div#topAdBox
+sportalkorea.com###topAdBox
 sportalkorea.com##p.ad_240
-sports.chosun.com##div#rad
+sports.chosun.com###rad
 sports.chosun.com##div.bn
 sports.chosun.com##div.f_ad2
 sports.chosun.com##div.f_ad3
@@ -1450,20 +1450,20 @@ sports.donga.com##div.ttalk_ad_list
 sports.donga.com##div[class^="ad"]
 sports.donga.com##div[class^="aside_AD"]
 sports.donga.com##div[class^="subCont_AD"]
-sports.hankooki.com##div#SponsorLink
-sports.hankooki.com##div#listLifeSponsor
-sports.khan.co.kr##div#adbox
+sports.hankooki.com###SponsorLink
+sports.hankooki.com###listLifeSponsor
+sports.khan.co.kr###adbox
 sports.khan.co.kr##div[class="subAside view"]>iframe[src^="http://adv.khan.co.kr/"]
 sports.mk.co.kr##div[id^="slidemenu"]
 sports.mk.co.kr##iframe[id^="sptb_"]
 sports.mk.co.kr##iframe[id^="spttb_"]
-sportsseoul.com##div#aside>div[style="width:250px;height:60px;"]
-sportsseoul.com##div#article_viewWrap>div[style="margin-bottom:20px;width: 100%; height: 23px;font-family:맑은 고딕,Malgun Gothic,굴림; font-size:16px; font-weight:bold; padding-top:5px;"]
+sportsseoul.com###aside>div[style="width:250px;height:60px;"]
+sportsseoul.com###article_viewWrap>div[style="margin-bottom:20px;width: 100%; height: 23px;font-family:맑은 고딕,Malgun Gothic,굴림; font-size:16px; font-weight:bold; padding-top:5px;"]
 sportsseoul.com##iframe[src^="http://ad1.sportsseoul.com/"]
-stackoverflow.com##div#adviza-box
-star.mk.co.kr##div#top_ad_area
-star.mt.co.kr##div#aside>div[style="position:absolute; top:805px; right:-140px; width:120px;"]
-star.mt.co.kr##div#textBody>div[style="float:left; margin:0 15px 10px 0; overflow:hidden; width:250px; height:250px;"]
+stackoverflow.com###adviza-box
+star.mk.co.kr###top_ad_area
+star.mt.co.kr###aside>div[style="position:absolute; top:805px; right:-140px; width:120px;"]
+star.mt.co.kr###textBody>div[style="float:left; margin:0 15px 10px 0; overflow:hidden; width:250px; height:250px;"]
 star.mt.co.kr##div.ad
 star.mt.co.kr##div.article_area>div[style="margin-top:10px;"]
 star.mt.co.kr##div.article_area>div[style="margin-top:15px;"]
@@ -1471,18 +1471,18 @@ star.mt.co.kr##div.article_area>div[style="margin-top:20px;text-align:center;"]
 star.mt.co.kr##div.article_area>div[style="margin-top:40px;"]
 star.mt.co.kr##ul.text_ad
 starin.edaily.co.kr##div.View_TPAd
-tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net##div#divpop
-tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net##div#s_word>div.section_ol>ol>li>center
+tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net###divpop
+tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net###s_word>div.section_ol>ol>li>center
 tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net##table#cssImg>tbody>tr:first-of-type>td:nth-of-type(2)>table>tbody>tr>td>table>tbody>tr>td.dp
 tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net##table#cssImg>tbody>tr:last-of-type>td:first-of-type>table:first-of-type>tbody>tr:last-of-type
 tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net##td#mw_basic>center
 tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net##td#mw_basic>table:nth-of-type(2)>tbody>tr:last-of-type>td>table>tbody>tr>td:first-of-type
-techland.time.com##div#sidebar-ad
-theappl.com##div#pop_layer_banner
-theappl.com##div#rt_banner1
-theappl.com##div#rt_banner2
+techland.time.com###sidebar-ad
+theappl.com###pop_layer_banner
+theappl.com###rt_banner1
+theappl.com###rt_banner2
 theguardian.com##div.ad-slot
-thisisgame.com##div#divMsnAD
+thisisgame.com###divMsnAD
 thisisgame.com##div.ad
 thisisgame.com##div.mid-ad-part
 tistory.com##div.ad250
@@ -1505,33 +1505,33 @@ torrentmoatv.com##div.contents>div.xe_content>div[style="padding:0px 0px 0px 0px
 torrentmoatv.com##div.contents>div>center
 torrentmoatv.com##div.left_widget_wrap
 torrentmoatv.com##div.rd_ft>b>b>center
-tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net##div#left>div:not([class]):not([id]):not([style])>a
-tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net##div#right
+tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net###left>div:not([class]):not([id]):not([style])>a
+tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net###right
 tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net##div.analytics_google
 tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net###bo_v ~ CENTER
 torrentstar.net,torrentwaba.net##a[href^="http://partner.zzamtoon.com"]
 tvdaily.mk.co.kr##body>table>tbody>tr>td:first-of-type>table>tbody>tr>td>table:nth-of-type(4)>tbody>tr>td:first-of-type>table:nth-of-type(2)>tbody>tr>td:first-of-type
 tvdaily.mk.co.kr##body>table>tbody>tr>td:first-of-type>table>tbody>tr>td>table:nth-of-type(4)>tbody>tr>td:last-of-type>div[style="margin:5 0 0 0"]
 tvdaily.mk.co.kr##body>table>tbody>tr>td:first-of-type>table>tbody>tr>td>table:nth-of-type(4)>tbody>tr>td:last-of-type>div[style="margin:5 0 5 0"]
-tvdaily.mk.co.kr##div#STATICMENU
-tvdaily.mk.co.kr##div#readtopad
+tvdaily.mk.co.kr###STATICMENU
+tvdaily.mk.co.kr###readtopad
 tvdaily.mk.co.kr##div[class="read"]>table
 tvdaily.mk.co.kr##div[id="joinskmbox"]>table
 tvreport.co.kr##div.advertise_02
-twilog.org##div#ad-side-bottom
-twilog.org##div#ad-text
+twilog.org###ad-side-bottom
+twilog.org###ad-text
 twonable.com##div.fixed-top
-ucc.blognawa.com##div#real_pop_bnr_floating
+ucc.blognawa.com###real_pop_bnr_floating
 unionpress.co.kr##div.add
 unionpress.co.kr##div[class^="right_ad"]
 unionpress.co.kr##div[class^="right_detail_ad"]
 unionpress.co.kr##span#FvMainDiv0
-ustream.tv##div#LeaderboardWrapper
-video.animoe.us##div#fbanner
+ustream.tv###LeaderboardWrapper
+video.animoe.us###fbanner
 video.animoe.us##div.ad
-view.heraldm.com##div#biz_view_banner
-view.heraldm.com##div#hbviewtop_72890id
-view.heraldm.com##div#new_content_menu
+view.heraldm.com###biz_view_banner
+view.heraldm.com###hbviewtop_72890id
+view.heraldm.com###new_content_menu
 view.heraldm.com##div[id^="adtive_"]
 view.heraldm.com##div[id^="arraysumm_viewtopctad"]
 view.heraldm.com##div[id^="arraytext_viewendad"]
@@ -1541,15 +1541,15 @@ view.heraldm.com##div[id^="viewright_midad"]
 view.heraldm.com##div[id^="viewright_topad"]
 view.heraldm.com##iframe[id^="iframesrc_viewright_topad"]
 viewsnnews.com##aside.ads
-vop.co.kr##div#articleBody>div[style="text-align:center; margin:0px 0px 0px 0px"]
-vop.co.kr##div#articleBody>div[style="text-align:center; margin:0px 0px 20px 0px"]
-vop.co.kr##div#left_scroll
-vop.co.kr##div#main>div[style="position:absolute; z-index:100;top:1170px;left:-140px;width:120px;"]
-vop.co.kr##div#main>div[style="position:absolute; z-index:100;top:160px;left:990px;width:120px;"]
-vop.co.kr##div#main>div[style="position:absolute; z-index:100;top:1790px;left:-140px;width:120px;"]
-vop.co.kr##div#main>div[style="position:absolute; z-index:100;top:380px;left:990px;width:160px;"]
-vop.co.kr##div#main>div[style="position:absolute; z-index:100;top:550px;left:-180px;width:160px;"]
-vop.co.kr##div#right_scroll
+vop.co.kr###articleBody>div[style="text-align:center; margin:0px 0px 0px 0px"]
+vop.co.kr###articleBody>div[style="text-align:center; margin:0px 0px 20px 0px"]
+vop.co.kr###left_scroll
+vop.co.kr###main>div[style="position:absolute; z-index:100;top:1170px;left:-140px;width:120px;"]
+vop.co.kr###main>div[style="position:absolute; z-index:100;top:160px;left:990px;width:120px;"]
+vop.co.kr###main>div[style="position:absolute; z-index:100;top:1790px;left:-140px;width:120px;"]
+vop.co.kr###main>div[style="position:absolute; z-index:100;top:380px;left:990px;width:160px;"]
+vop.co.kr###main>div[style="position:absolute; z-index:100;top:550px;left:-180px;width:160px;"]
+vop.co.kr###right_scroll
 vop.co.kr##div.adpage-top-ad
 vop.co.kr##div.aside-ad-top
 vop.co.kr##div.bottom-ad
@@ -1561,13 +1561,13 @@ web.humoruniv.com###microad_728x90
 wikitree.co.kr##iframe[src^="/_tpl/default/ad/"]
 womennews.co.kr##iframe[src^="/news/sidebar_banner_realclick01.html"]
 wordpress.com##div.wpcnt
-wowtv.co.kr##div#absBannerRight
-wowtv.co.kr##div#article_cont>div[style="clear:both; float:left; width:650px; margin:30px auto 0"]
-wowtv.co.kr##div#bottomWrap>div[style="margin-top: 15px;"]
-wowtv.co.kr##div#header>div.view_absBannerLeft>div[style="position:absolute; z-index :0; left:42px; top: -117px;"]
-wowtv.co.kr##div#scrollDiv
-wowtv.co.kr##div#viewContent_3>div[style="display:inline; float:left; width:250px; height:250px; margin:10px 10px 10px 0;"]
-wowtv.co.kr##div#viewContent_3>div[style="float: left; width: 250px; height: 250px; margin: 10px 10px 10px 0px;"]
+wowtv.co.kr###absBannerRight
+wowtv.co.kr###article_cont>div[style="clear:both; float:left; width:650px; margin:30px auto 0"]
+wowtv.co.kr###bottomWrap>div[style="margin-top: 15px;"]
+wowtv.co.kr###header>div.view_absBannerLeft>div[style="position:absolute; z-index :0; left:42px; top: -117px;"]
+wowtv.co.kr###scrollDiv
+wowtv.co.kr###viewContent_3>div[style="display:inline; float:left; width:250px; height:250px; margin:10px 10px 10px 0;"]
+wowtv.co.kr###viewContent_3>div[style="float: left; width: 250px; height: 250px; margin: 10px 10px 10px 0px;"]
 wowtv.co.kr##div.spot-ad
 wowtv.co.kr##div.top_sub_top_area>div[style="clear:both; float:left"]
 wowtv.co.kr##div.top_sub_top_area>div[style="float:right; width:120px; height:130px"]
@@ -1587,11 +1587,11 @@ yonhapnews.co.kr##div[class^="contents-box ad-wrap"]
 yonhapnews.co.kr##div[class^="contents-box list-style02 banner-box"]
 yonhapnews.co.kr##div[class^="floating-banner"]
 yonhapnews.co.kr##li[class^="ad-para"]
-ytn.co.kr##div#CmAdContent>div[style="overflow:hidden;width:420px;height:45px;border:1px solid #cbcccf;background-color: #fafafa;margin:20px auto 0 auto;padding:10px 30px;"]
-ytn.co.kr##div#CmAdContent>div[style="overflow:hidden;width:420px;height:45px;border:1px solid #cbcccf;background-color: #fafafa;margin:20px auto 0 auto;padding:10px 30px;position:relative;"]
-ytn.co.kr##div#Fusence
-ytn.co.kr##div#hns_mask
-ytn.co.kr##div#zone1>div[style="width:628px;border:1px solid #cbcccf;padding:10px 5px 10px 15px;margin-bottom:10px;overflow:hidden;"]
+ytn.co.kr###CmAdContent>div[style="overflow:hidden;width:420px;height:45px;border:1px solid #cbcccf;background-color: #fafafa;margin:20px auto 0 auto;padding:10px 30px;"]
+ytn.co.kr###CmAdContent>div[style="overflow:hidden;width:420px;height:45px;border:1px solid #cbcccf;background-color: #fafafa;margin:20px auto 0 auto;padding:10px 30px;position:relative;"]
+ytn.co.kr###Fusence
+ytn.co.kr###hns_mask
+ytn.co.kr###zone1>div[style="width:628px;border:1px solid #cbcccf;padding:10px 5px 10px 15px;margin-bottom:10px;overflow:hidden;"]
 ytn.co.kr##div.adright_box
 ytn.co.kr##div.articleAd_marketing
 ytn.co.kr##div.articleAd_new
@@ -1602,8 +1602,8 @@ ytn.co.kr##iframe[name="AdtopBanner"]
 ytn.co.kr##ul[class^="adnew"]
 zangsisi.net##body>center
 zangsisi.net##div.fixed-top
-zdnet.co.kr##div#lAdContainer
-zdnet.co.kr##div#main_right_Floating_banner
+zdnet.co.kr###lAdContainer
+zdnet.co.kr###main_right_Floating_banner
 zdnet.co.kr##div.ad
 zdnet.co.kr##div.main_zdnet_sponsor
 zdnet.co.kr##div.newsmediaBanner
