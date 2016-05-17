@@ -606,6 +606,9 @@
 ||nil.naver.com/m^
 ||wcs.naver.
 ||wcs.naver.com/m^$domain=naver.com
+! daum.net
+||tiara.daum.net^
+||daumcdn.net/tiara/js/shining.min.js^
 !
 ||analytics.bandi.so^
 ||counter*joins.com/bin/
@@ -760,6 +763,9 @@ danawa.com##.ttop_ad_banner
 danawa.com###danawa-community-newsView-powerLink-self
 danawa.com###main_right_fixed
 daum.net###adBrandingStation
+daum.net###adMain
+daum.net###adTimeSponsor
+daum.net##.cont_trendshop
 daum.net##div.ad_rightbtm
 dcinside.com###dgn_content_de>div[style="padding-top: 16px;padding-bottom:30px;text-align: center"]
 dcinside.com##div.ad_top
@@ -1627,7 +1633,9 @@ zdnet.com##section.mpu
 i.orbi.kr#$#.crewbi_ootd { background:none!important; }
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
 orbi.kr#$##mainPremiumContainer { height: 306px!important; }
-
+www.daum.net#$#.cont_sub, .article_daum { display: initial!important; }
+www.daum.net#$#.wrap_main { margin-right: initial!important; margin-left: 5px!important; }
+www.daum.net#$#.wrap_sub { position: absolute!important; top:252px!important; }
 !----------------------------------------------------!
 !------ JS rules ------------------------------------!
 !----------------------------------------------------!
