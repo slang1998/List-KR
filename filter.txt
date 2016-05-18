@@ -1643,11 +1643,10 @@ zdnet.com##section.leader-bottom
 zdnet.com##section.leader-top
 zdnet.com##section.mpu
 !----------------------------------------------------!
-!------ Cosmetic rules ------------------------------!
+!------ CSS rules -----------------------------------!
 !----------------------------------------------------!
 !
-! Section contains list of rules with purposes of modifying page layout
-! to correct side effects caused by other filtering rules.
+! Section contains list of CSS injection rules to remove ads or to correct page layout
 !
 i.orbi.kr#$#.crewbi_ootd { background:none!important; }
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
