@@ -615,7 +615,6 @@
 ||tiara.daum.net^
 ||cafe.daum.net/_pageview/
 ||click.v.daum.net/pv/click*.php^
-||daumcdn.net/*noimg*.gif
 ! Combining ||daumcdn.net/tiara/js/shining.min.js^ and ||daumcdn.net/tiara/tracker/tiara*.js^
 ||daumcdn.net/tiara/*.js
 ||feature.daum.net/feature_log/impression^
