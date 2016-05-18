@@ -619,6 +619,7 @@
 ! Combining ||daumcdn.net/tiara/js/shining.min.js^ and ||daumcdn.net/tiara/tracker/tiara*.js^
 ||daumcdn.net/tiara/*.js
 ||feature.daum.net/feature_log/impression^
+||keyword.daumdn.com/$third-party
 ||log.inside.daum.net/dwi_log/js/dwi.js
 ! Combining ||sl.search.daum.net/free_log/FreeLogServlet^ , http://sl.search.daum.net/smartlog/, http://sl.search.daum.net/freelog
 ||sl.search.daum.net^
