@@ -271,6 +271,7 @@
 ||adx-exchange.toast.com/a_request^
 ||agate.opap.co.kr/html/
 ||alea.adam.ad.daum.net/mobilead^
+||ams.rmcnmv.naver.com/item/create/*?ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||amsv2.daum.net/ad/
 ||api.wiseclick.co.kr/api/web_directad/
 ||as.dc.impact-ad.jp^
@@ -315,6 +316,7 @@
 ||dgate.*/hciw.aspx^
 ||display.ad.daum.net/imp^
 ||dlv.hooniad.com^
+||dn.naver.com/ad3/*.mp4$mp4
 ||dp25.kr^
 ||dreamsearch.or.kr/ad/
 ||dreamsearch.or.kr/adnet/
