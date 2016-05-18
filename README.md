@@ -17,15 +17,15 @@ https://github.com/SlowMemory/List-KR/raw/master/filter.txt
 ```
 
 #List-KR (English)
-This is a web filter for websites in Korean language, to be used with Adguard ad blocker.
+This is a web filter for websites in Korean language, to be used with [Adguard][] ad blocker.
 
 This filter aims to filter not only ads, but also known trackers and other scripts which negatively affects user experience(including anti-adblock and disabling context menu).
 
-Yet most of rules are following the grammer of [Adblock Plus][], some rules for more difficult filtering utilizes Adguard's advanced filtering methods, and will not be activated in other filtering tools. [ublock origin] is known to be compatible with only part of the rules and can be used with this filter.
+Yet most of rules are following the grammer of [Adblock Plus][], some rules for more difficult filtering utilizes Adguard's advanced filtering methods, and will not be activated in other filtering tools. [ublock origin] is known to be compatible with only part of the rules, and can be used with this filter.
 
 This filter is focused on Korean websites, and it is recommended to use this filter together with English filter.
 
-You can find an (informal)introduction to Adguard [here][].
+You can find an informal introduction to Adguard [here][].
 
 ##How to use
 In the program you would like to use, use the following url to subscribe to or import List-KR.
