@@ -599,7 +599,7 @@
 !
 ! Section contains list of urls spying over user's information
 !
-! naver.com
+!----- naver.com ---------------
 ||cc.naver.com/cc^
 ||l.m.naver.
 ||lcs.naver.
@@ -608,12 +608,12 @@
 ||nil.naver.com/m^
 ||wcs.naver.
 ||wcs.naver.com/m^$domain=naver.com
-! naver.com search
+!----- naver.com search --------
 ||er.search.naver.com^
 ||mac.search.naver.com^
 ||s.search.naver.com^
 ||sp.naver.com^
-! daum.net
+!----- daum.net ----------------
 ||tiara.daum.net^
 ||cafe.daum.net/_pageview/
 ||click.v.daum.net/pv/click*.php^
@@ -624,8 +624,14 @@
 ||log.inside.daum.net/dwi_log/js/dwi.js
 ! Combining ||sl.search.daum.net/free_log/FreeLogServlet^ , http://sl.search.daum.net/smartlog/, http://sl.search.daum.net/freelog
 ||sl.search.daum.net^
-!
+!----- danawa.com --------------
+||logger.danawa.com/tracker
+||static.danawa.com/js/logger_inc.js
+||las.danawa.com/log/logging.json
+||static.danawa.com/info/js/adweb_counter_danawa.min.js
+!----- Miscellaneous -----------
 ||analytics.bandi.so^
+||at.mklaud.com/at/at_log*.php^
 ||counter*joins.com/bin/
 ||dable.io/logs^$third-party
 ||humoruniv.com/cpuid
@@ -633,7 +639,7 @@
 ||humoruniv.com/pv^
 ||log.2beon.co.kr/refchk.php^
 ||log.news.joins.com^
-||logger.danawa.com/tracker
+||tracking.adweb.co.kr/tracking^
 !-------------------------------------------------------------------------------!
 !------------------ Site Specific Rules ----------------------------------------!
 !-------------------------------------------------------------------------------!
@@ -1674,4 +1680,5 @@ snulife.com#$#*:not(input):not(textarea){ -webkit-touch-callout: auto!important;
 *ads.g.doubleclick.net/pagead/
 ||cas.criteo.com/delivery/ajs.php^
 ||cdn.adstract.com/adstract/tags/xbanner/xbanner.js^
+!---- LOL ----
 ||counter.adguard.com
