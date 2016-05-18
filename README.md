@@ -16,7 +16,7 @@ Adguard에 대한 정보는 [이곳][]에서 찾으실 수 있습니다.
 https://github.com/SlowMemory/List-KR/raw/master/filter.txt
 ```
 
-#English readme
+#List-KR (English)
 This is a web filter for websites in Korean language, to be used with Adguard ad blocker.
 
 This filter aims to filter not only ads, but also known trackers and other scripts which negatively affects user experience(including anti-adblock and disabling context menu).
@@ -40,4 +40,6 @@ https://github.com/SlowMemory/List-KR/raw/master/filter.txt
 [here]: https://namu.wiki/w/Adguard
 
 ## License
-Creative Commons CC-BY-SA 3.0
+[Creative Commons CC-BY-SA 3.0 Unported][]
+[Creative Commons CC-BY-SA 3.0 Unported]: https://creativecommons.org/licenses/by-sa/3.0/
+
