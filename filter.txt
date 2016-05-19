@@ -559,6 +559,7 @@
 ||torrentmoa.com/addons/popup/js/popup_layer.js^
 ||ts.2beon.co.kr/nad/media/
 ||tv.sbs.co.kr/common/common_ad.jsp^
+||tvchosun.com/front/ad/tc_m_b.html
 ||tvchosun.com/front/ad/pan_ad.html
 ||tvdaily.mk.co.kr/ad/
 ||tvdaily.mk.co.kr/include/flash.php^
@@ -641,10 +642,11 @@
 ||humoruniv.com/cpuid
 ||humoruniv.com/images/null.gif
 ||humoruniv.com/pv^
-||log.2beon.co.kr/refchk.php^
+||log.2beon.co.kr^
 ||log.news.joins.com^
 ||logger.tvchosun.com:8000/InsightTrk/
 ||tracking.adweb.co.kr/tracking^
+||tvchosun.com/front/js/tvchosun.js
 ||tvchosun.com/js/daumview.js
 !-------------------------------------------------------------------------------!
 !------------------ Site Specific Rules ----------------------------------------!
@@ -1552,6 +1554,7 @@ tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.ne
 tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net###bo_v ~ CENTER
 torrentstar.net,torrentwaba.net##a[href^="http://partner.zzamtoon.com"]
 tvchosun.com##iframe[src$="front/ad/tc_b.html"]
+tvchosun.com##iframe[src$="front/ad/tc_m_b.html"]
 tvdaily.mk.co.kr##body>table>tbody>tr>td:first-of-type>table>tbody>tr>td>table:nth-of-type(4)>tbody>tr>td:first-of-type>table:nth-of-type(2)>tbody>tr>td:first-of-type
 tvdaily.mk.co.kr##body>table>tbody>tr>td:first-of-type>table>tbody>tr>td>table:nth-of-type(4)>tbody>tr>td:last-of-type>div[style="margin:5 0 0 0"]
 tvdaily.mk.co.kr##body>table>tbody>tr>td:first-of-type>table>tbody>tr>td>table:nth-of-type(4)>tbody>tr>td:last-of-type>div[style="margin:5 0 5 0"]
