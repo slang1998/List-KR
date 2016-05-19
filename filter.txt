@@ -593,6 +593,7 @@
 @@||saedu.naver.com$generichide,genericblock
 !
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
+@@||googletagmanager.com/gtm.js$domain=tvchosun.com
 !-------------------------------------------------------------------------------!
 !------------------ Spywares ---------------------------------------------------!
 !-------------------------------------------------------------------------------!
@@ -632,14 +633,18 @@
 !----- Miscellaneous -----------
 ||analytics.bandi.so^
 ||at.mklaud.com/at/at_log*.php^
+||chosun.com/dhtm/js/common/collecter.js
 ||counter*joins.com/bin/
 ||dable.io/logs^$third-party
+||geolook.tvchosun.com:8888
 ||humoruniv.com/cpuid
 ||humoruniv.com/images/null.gif
 ||humoruniv.com/pv^
 ||log.2beon.co.kr/refchk.php^
 ||log.news.joins.com^
+||logger.tvchosun.com:8000/InsightTrk/
 ||tracking.adweb.co.kr/tracking^
+||tvchosun.com/js/daumview.js
 !-------------------------------------------------------------------------------!
 !------------------ Site Specific Rules ----------------------------------------!
 !-------------------------------------------------------------------------------!
@@ -1334,6 +1339,10 @@ news.sportsseoul.com##ul.pad_top20
 news.sportsseoul.com##ul[class^="bottomAd"]
 news.sportsseoul.com##ul[class^="readAd"]
 news.sportsseoul.com##ul[class^="topAd"]
+news.tvchosun.com##.leftWrap > iframe[name="rank"] + iframe[src*="/ad/"]
+news.tvchosun.com##.news_body + * + .article
+news.tvchosun.com##iframe[src*="front/ad/rnb_ad_"]
+news.tvchosun.com##iframe[src*="front/rnbAdplex"]
 news1.kr##a.stat_check_link
 news1.kr###article_body_content>div[style="margin:0 auto; padding-bottom:10px;"]
 news1.kr##div.ad_content
@@ -1541,6 +1550,7 @@ tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.ne
 tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net##div.analytics_google
 tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net###bo_v ~ CENTER
 torrentstar.net,torrentwaba.net##a[href^="http://partner.zzamtoon.com"]
+tvchosun.com##iframe[src$="front/ad/tc_b.html"]
 tvdaily.mk.co.kr##body>table>tbody>tr>td:first-of-type>table>tbody>tr>td>table:nth-of-type(4)>tbody>tr>td:first-of-type>table:nth-of-type(2)>tbody>tr>td:first-of-type
 tvdaily.mk.co.kr##body>table>tbody>tr>td:first-of-type>table>tbody>tr>td>table:nth-of-type(4)>tbody>tr>td:last-of-type>div[style="margin:5 0 0 0"]
 tvdaily.mk.co.kr##body>table>tbody>tr>td:first-of-type>table>tbody>tr>td>table:nth-of-type(4)>tbody>tr>td:last-of-type>div[style="margin:5 0 5 0"]
@@ -1657,6 +1667,7 @@ zdnet.com##section.mpu
 i.orbi.kr#$#.crewbi_ootd { background:none!important; }
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
 orbi.kr#$##mainPremiumContainer { height: 306px!important; }
+vod.tvchosun.com#$#.areaTop> div.vod_left.add { padding: 10px 29px 0 10px!important; }
 www.daum.net#$#.cont_sub, .article_daum { display: initial!important; }
 www.daum.net#$#.wrap_main { margin-right: initial!important; margin-left: 5px!important; }
 www.daum.net#$#.wrap_sub { position: absolute!important; top:252px!important; }
