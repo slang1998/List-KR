@@ -527,7 +527,6 @@
 ||segye.com/Articles/Components/Ad/
 ||seoul.co.kr/ad/
 ||seoul.co.kr/news/datawaveAD.php^
-||serv.ads.pixiv.org^
 ||sgate.opap.co.kr/view/
 ||shop.nate.com/shopbox/news.htm^
 ||shoppingbox.joinsmsn.com^
@@ -1433,13 +1432,6 @@ pann.nate.com##div.sidebar.ad
 pann.nate.com##div.sidebar_banner
 pann.nate.com##div.view_banner
 pastebin.com##iframe[id^="tfasyncframe_"]
-pixiv.net##a.ads_anchor
-pixiv.net###header-banner
-pixiv.net##div.ad
-pixiv.net##div.ad-footer
-pixiv.net##div.ads_area
-pixiv.net##div.cool-ad-footer
-pixiv.net##span.multi-ads-area
 ppomppu.co.kr###emart_banner
 ppomppu.co.kr###shoppingbox
 ppomppu.co.kr##div.ad
