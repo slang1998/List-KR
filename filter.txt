@@ -338,6 +338,7 @@
 ||event.liveg.co.kr/banner/$image,third-party
 ||event.mtoon.com/banner/$image,third-party
 ||ex.mdtoday.co.kr^
+||exttag.about.co.kr^$third-party
 ||feeltong.hani.co.kr/common/banner.html^
 ||file.osen.co.kr/web2/html/realclick_ad.html^
 ||file.thisisgame.com/inc/PBPage*.js^
@@ -382,6 +383,9 @@
 ||img2.keywordsconnect.com/iconAdImg*.gif^
 ||imp.mklaud.com/ad^
 ||imp.sndkorea.co.kr/php/m.php^
+||inews24.com/common/js/ad_*.js
+||inews24.com/inc/right_file_banner_*.php
+||inews24.com/tools/adpresso/
 ||interface.interworksmedia.co.kr/js/iwmads.min.js^
 ||interface.interworksmedia.co.kr/js/mobitree.js^
 ||inven.co.kr/ad/
@@ -406,9 +410,11 @@
 ||lightad.co.kr/Lightcoms/
 ||lightasp.dmcmedia.co.kr/adixs/
 ||longkeyone.co.kr^
+||lsinfo.co.kr$third-party
 ||m.adtc.daum.net/js/mobilead.js^
 ||m.chosun.com/tad.html^
 ||m.hankooki.com/ad/
+||m.inews24.com/bnr/$image
 ||m.joyninfo.com/yna/yna_m_new.asp^
 ||m.kmib.co.kr/banner/
 ||m.news1.kr/ads/
@@ -505,6 +511,7 @@
 ||ra.ntwoad.co.kr^
 ||rcm.amazon.com/e/cm^
 ||rcm-na.amazon-adsystem.com/e/cm^
+||realmobile.net/myadcom
 ||redir.adap.tv/redir/javascript/ad_source.js^
 ||redir.adap.tv/redir/mobile/mobile-ad-source.html^
 ||res.heraldm.com/iframe/
@@ -636,15 +643,19 @@
 ||analytics.bandi.so^
 ||at.mklaud.com/at/at_log*.php^
 ||chosun.com/dhtm/js/common/collecter.js
+||cloudfront.net$domain=inews24.com
 ||counter*joins.com/bin/
 ||dable.io/logs^$third-party
 ||geolook.tvchosun.com:8888
+||googletagservices.com/tag/$domain=inews24.com
 ||humoruniv.com/cpuid
 ||humoruniv.com/images/null.gif
 ||humoruniv.com/pv^
 ||log.2beon.co.kr^
 ||log.news.joins.com^
 ||logger.tvchosun.com:8000/InsightTrk/
+||mywebtrends.co.kr^$third-party
+||recobell.io^$third-party
 ||tracking.adweb.co.kr/tracking^
 ||tvchosun.com/front/js/tvchosun.js
 ||tvchosun.com/js/daumview.js
@@ -956,6 +967,12 @@ ibabynews.com##div.TopDiv>div[style="position:absolute; top: 40px; right:0px; wi
 ibabynews.com##div.TotalDiv>div[style="right: 50%; margin-right: 500px; top:110px; position:absolute; z-index:3; width:85px ; height:140px; text-align:center"]
 ilbe.com###board_top_dummy
 ilbe.com###layer_left
+inews24.com##.main_top_banner
+inews24.com##[itemprop="articleBody"] > DIV[style]
+inews24.com##DIV[class^="ma_w_"]
+inews24.com##DIV[id^="ma_w_"]
+inews24.com##iframe[src^="/inc/right_file_banner"]
+inews24.com###news_content > DIV[style]
 insight.co.kr##div.masthead-adv
 insight.co.kr##div.specific>div[style="display: inline-block;width: 300px;height: 300px;margin-bottom: 20px;"]
 instiz.net###powerlink
@@ -998,7 +1015,6 @@ joinsmsn.com##div.brandtext_area
 joinsmsn.com##div[class$="ad_link_area"]
 joongang.joins.com##div[data-widget-type="Ad"]
 joongdo.co.kr###id_header_R
-joynews.inews24.com##iframe[name^="rollingFrameTop"]
 kookje.co.kr###bnr_newsmiddleArea
 kookje.co.kr###bnr_newsmiddlebottomArea
 kookje.co.kr###bnr_newstopArea
@@ -1081,6 +1097,10 @@ m.humoruniv.com###cauly_nad2
 m.humoruniv.com###cauly_nad3
 m.humoruniv.com###out_banner
 m.humoruniv.com###uad_iframe
+m.inews24.com###bn
+m.inews24.com##[style$="#ebebeb;"]
+m.inews24.com##.ad-container
+m.inews24.com##.ad_myadcom
 m.khan.co.kr###article_bottom_ad
 m.khan.co.kr###mezzo_ad
 m.khan.co.kr###photoAD
@@ -1250,9 +1270,6 @@ news.hankooki.com###bnn_26080
 news.hankooki.com###keyword_link
 news.hankooki.com##div[id^="Ad"]
 news.hankooki.com##div[id^="adText"]
-news.inews24.com###divrightbiz
-news.inews24.com##div.main_top_banner
-news.inews24.com##iframe#ifrmTopTotal
 news.joins.com###articeltopbanner
 news.joins.com##.ab_adtxt_wrap
 news.joins.com##.shpping_life
