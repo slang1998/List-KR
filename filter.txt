@@ -664,9 +664,6 @@
 !
 ! Section contains list of site specific rules
 !
-9to5mac.com###author-ad
-9to5mac.com##div.widget_ninetofive_netshelter_ad
-animefreak.tv##body>div>div[style="width:100%;height:768px;position:fixed;left:0;top:0px;overflow:hidden;visibility:hidden"]
 api.dable.io##div.item-sp
 api.dable.io##td.item-sp
 appleblog.co.kr##ins.adsbygoogle
@@ -766,7 +763,6 @@ biz.heraldcorp.com,news.heraldcorp.com##div[class="mt_15 clear"][style="border-b
 biz.heraldcorp.com,news.heraldcorp.com##div[id^="g20150812Herald"]
 biz.heraldcorp.com,news.heraldcorp.com##iframe#ficm_iframe
 bizn.khan.co.kr##div.topright_bn
-blog.musictank.net###floating
 blog.naver.com##._adPost
 blog.naver.com##td.adpost_con
 bloter.net##div.banner-top
@@ -908,7 +904,6 @@ focus.kr##div.g_area>div[style="width: 314px; height: 258px; text-align: center;
 focus.kr##div.g_area>div[style="width:314px;height:188px;background-color:white;text-align:center;padding-top:7px;margin-bottom:25px;"]
 focus.kr##div.g_area>div[style="width:314px;height:258px;background-color:white;text-align:center;padding-top:7px;margin-bottom:25px;"]
 focus.kr##div.header>div.wrap>div[style="position:absolute;right: 0px;bottom: 16px;width: 270px;height: 77px;background-color: white;z-index:10000"]
-forums.macrumors.com##div.funbox
 gall.dcinside.com###dc_advertisement
 gall.dcinside.com##div._BTN_AD_
 gall.dcinside.com##span#FvMainDiv0
@@ -986,8 +981,6 @@ instiz.net$$script[type="text/javascript"][tag-content="naverbox"]
 interpark.com###powerLinkBox
 interpark.com###searchSponsorAd
 inven.co.kr##div[id$="AdTop"]
-iphone-apps-ipa.com##div[id^="default_adp"]
-iphone-apps-ipa.com##div[id^="meerkat-wrap"]
 isplus.joins.com##div.ad_area
 isplus.joins.com##div.ad_article_bottom1text
 isplus.joins.com##div.ad_v300
@@ -1431,7 +1424,6 @@ pann.nate.com###psypannAd
 pann.nate.com##div.sidebar.ad
 pann.nate.com##div.sidebar_banner
 pann.nate.com##div.view_banner
-pastebin.com##iframe[id^="tfasyncframe_"]
 ppomppu.co.kr###emart_banner
 ppomppu.co.kr###shoppingbox
 ppomppu.co.kr##div.ad
@@ -1444,7 +1436,6 @@ pressian.com###ad1
 pressian.com##div.c011_arv_event>div[style="padding-bottom:20px;"]
 pressian.com##div.c011_arv_event>div[style="width:336px; height:280px; float:right; margin-bottom:15px;"]
 pressian.com##iframe[src^="http://ad"]
-readwrite.com##phx-advertisement
 reviewstar.hankooki.com##li.ad_plex_a250
 search.daum.net##div.ad_sch
 search.daum.net##div.wing_sponsor
@@ -1530,7 +1521,6 @@ tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,
 tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net##table#cssImg>tbody>tr:last-of-type>td:first-of-type>table:first-of-type>tbody>tr:last-of-type
 tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net##td#mw_basic>center
 tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net##td#mw_basic>table:nth-of-type(2)>tbody>tr:last-of-type>td>table>tbody>tr>td:first-of-type
-techland.time.com###sidebar-ad
 theappl.com###pop_layer_banner
 theappl.com###rt_banner1
 theappl.com###rt_banner2
@@ -1573,17 +1563,12 @@ tvdaily.mk.co.kr###readtopad
 tvdaily.mk.co.kr##div[class="read"]>table
 tvdaily.mk.co.kr##div[id="joinskmbox"]>table
 tvreport.co.kr##div.advertise_02
-twilog.org###ad-side-bottom
-twilog.org###ad-text
 twonable.com##div.fixed-top
 ucc.blognawa.com###real_pop_bnr_floating
 unionpress.co.kr##div.add
 unionpress.co.kr##div[class^="right_ad"]
 unionpress.co.kr##div[class^="right_detail_ad"]
 unionpress.co.kr##span#FvMainDiv0
-ustream.tv###LeaderboardWrapper
-video.animoe.us###fbanner
-video.animoe.us##div.ad
 view.heraldm.com###biz_view_banner
 view.heraldm.com###hbviewtop_72890id
 view.heraldm.com###new_content_menu
@@ -1615,7 +1600,6 @@ web.humoruniv.com###CmAdView2
 web.humoruniv.com###microad_728x90
 wikitree.co.kr##iframe[src^="/_tpl/default/ad/"]
 womennews.co.kr##iframe[src^="/news/sidebar_banner_realclick01.html"]
-wordpress.com##div.wpcnt
 wowtv.co.kr###absBannerRight
 wowtv.co.kr###article_cont>div[style="clear:both; float:left; width:650px; margin:30px auto 0"]
 wowtv.co.kr###bottomWrap>div[style="margin-top: 15px;"]
@@ -1631,7 +1615,6 @@ wowtv.co.kr##div[class^="common_AD"]
 xportsnews.hankyung.com##div.btn_event
 xportsnews.hankyung.com##div[class^="adBox"]
 xportsnews.hankyung.com##iframe[id^="google_ads"]
-yahoo.com##div.type_ads
 yonhapnews.co.kr##div.aside-banner
 yonhapnews.co.kr##div.aside-top-banner
 yonhapnews.co.kr##div.goolge-banner
