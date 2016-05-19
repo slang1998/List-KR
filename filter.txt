@@ -559,6 +559,7 @@
 ||torrentmoa.com/addons/popup/js/popup_layer.js^
 ||ts.2beon.co.kr/nad/media/
 ||tv.sbs.co.kr/common/common_ad.jsp^
+||tvchosun.com/front/ad/pan_ad.html
 ||tvdaily.mk.co.kr/ad/
 ||tvdaily.mk.co.kr/include/flash.php^
 ||unionpress.co.kr/news/html_tpl/pr_ad.php^
