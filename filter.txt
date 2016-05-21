@@ -1579,6 +1579,7 @@ tvdaily.mk.co.kr###readtopad
 tvdaily.mk.co.kr##div[class="read"]>table
 tvdaily.mk.co.kr##div[id="joinskmbox"]>table
 tvple.com##.container > .text-center
+tvple.com##.video-player-overlay
 tvple.com##.visible-box
 tvreport.co.kr##div.advertise_02
 twonable.com##div.fixed-top
