@@ -1172,6 +1172,7 @@ mangafox.me##div.ad
 mangaumaru.com,shencomics.com,yuncomics.com##aside.EzAdsWidget
 mangaumaru.com,shencomics.com,yuncomics.com###fbanner
 mangaumaru.com,shencomics.com,yuncomics.com##div.mobfloat
+manaa.space##.ad-box
 marumaru.in###responsive-banner
 marumaru.in###widget__insert_html
 marumaru.in##div.mobfloat
