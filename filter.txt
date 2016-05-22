@@ -618,64 +618,6 @@
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
 !-------------------------------------------------------------------------------!
-!------------------ Spywares ---------------------------------------------------!
-!-------------------------------------------------------------------------------!
-!
-! Section contains list of urls spying over user's information
-!
-!----- naver.com ---------------
-||cc.naver.com/cc^
-||l.m.naver.
-||lcs.naver.
-||lcs.naver.com/m^$domain=naver.com
-||pb.m.naver.com/abp^
-||nil.naver.com/m^
-||wcs.naver.
-||wcs.naver.com/m^$domain=naver.com
-!----- naver.com search --------
-||er.search.naver.com^
-||mac.search.naver.com^
-||s.search.naver.com^
-||sp.naver.com^
-!----- daum.net ----------------
-||tiara.daum.net^
-||cafe.daum.net/_pageview/
-||click.v.daum.net/pv/click*.php^
-! Combining ||daumcdn.net/tiara/js/shining.min.js^ and ||daumcdn.net/tiara/tracker/tiara*.js^
-||daumcdn.net/tiara/*.js
-||feature.daum.net/feature_log/impression^
-||keyword.daumdn.com/$third-party
-||log.inside.daum.net/dwi_log/js/dwi.js
-! Combining ||sl.search.daum.net/free_log/FreeLogServlet^ , http://sl.search.daum.net/smartlog/, http://sl.search.daum.net/freelog
-||sl.search.daum.net^
-!----- danawa.com --------------
-||logger.danawa.com/tracker
-||static.danawa.com/js/logger_inc.js
-||las.danawa.com/log/logging.json
-||static.danawa.com/info/js/adweb_counter_danawa.min.js
-!----- Miscellaneous -----------
-||analytics.bandi.so^
-||api.tvple.com/*/stat/send?
-||at.mklaud.com/at/at_log*.php^
-||chosun.com/dhtm/js/common/collecter.js
-||cloudfront.net$domain=inews24.com
-||counter*joins.com/bin/
-||dable.io/logs^$third-party
-||geolook.tvchosun.com:8888
-||googletagservices.com/tag/$domain=inews24.com
-||humoruniv.com/cpuid
-||humoruniv.com/images/null.gif
-||humoruniv.com/pv^
-||log.2beon.co.kr^
-||log.news.joins.com^
-||log-aggregator.vcnc.co.kr^
-||logger.tvchosun.com:8000/InsightTrk/
-||mywebtrends.co.kr^$third-party
-||recobell.io^$third-party
-||tracking.adweb.co.kr/tracking^
-||tvchosun.com/front/js/tvchosun.js
-||tvchosun.com/js/daumview.js
-!-------------------------------------------------------------------------------!
 !------------------ Site Specific Rules ----------------------------------------!
 !-------------------------------------------------------------------------------!
 !
@@ -1676,6 +1618,64 @@ zdnet.co.kr##ul.ad_list
 zdnet.com##section.leader-bottom
 zdnet.com##section.leader-top
 zdnet.com##section.mpu
+!-------------------------------------------------------------------------------!
+!------------------ Spywares ---------------------------------------------------!
+!-------------------------------------------------------------------------------!
+!
+! Section contains list of urls spying over user's information
+!
+!----- naver.com ---------------
+||cc.naver.com/cc^
+||l.m.naver.
+||lcs.naver.
+||lcs.naver.com/m^$domain=naver.com
+||pb.m.naver.com/abp^
+||nil.naver.com/m^
+||wcs.naver.
+||wcs.naver.com/m^$domain=naver.com
+!----- naver.com search --------
+||er.search.naver.com^
+||mac.search.naver.com^
+||s.search.naver.com^
+||sp.naver.com^
+!----- daum.net ----------------
+||tiara.daum.net^
+||cafe.daum.net/_pageview/
+||click.v.daum.net/pv/click*.php^
+! Combining ||daumcdn.net/tiara/js/shining.min.js^ and ||daumcdn.net/tiara/tracker/tiara*.js^
+||daumcdn.net/tiara/*.js
+||feature.daum.net/feature_log/impression^
+||keyword.daumdn.com/$third-party
+||log.inside.daum.net/dwi_log/js/dwi.js
+! Combining ||sl.search.daum.net/free_log/FreeLogServlet^ , http://sl.search.daum.net/smartlog/, http://sl.search.daum.net/freelog
+||sl.search.daum.net^
+!----- danawa.com --------------
+||logger.danawa.com/tracker
+||static.danawa.com/js/logger_inc.js
+||las.danawa.com/log/logging.json
+||static.danawa.com/info/js/adweb_counter_danawa.min.js
+!----- Miscellaneous -----------
+||analytics.bandi.so^
+||api.tvple.com/*/stat/send?
+||at.mklaud.com/at/at_log*.php^
+||chosun.com/dhtm/js/common/collecter.js
+||cloudfront.net$domain=inews24.com
+||counter*joins.com/bin/
+||dable.io/logs^$third-party
+||geolook.tvchosun.com:8888
+||googletagservices.com/tag/$domain=inews24.com
+||humoruniv.com/cpuid
+||humoruniv.com/images/null.gif
+||humoruniv.com/pv^
+||log.2beon.co.kr^
+||log.news.joins.com^
+||log-aggregator.vcnc.co.kr^
+||logger.tvchosun.com:8000/InsightTrk/
+||mywebtrends.co.kr^$third-party
+||recobell.io^$third-party
+||tracking.adweb.co.kr/tracking^
+||tvchosun.com/front/js/tvchosun.js
+||tvchosun.com/js/daumview.js
 !----------------------------------------------------!
 !------ CSS rules -----------------------------------!
 !----------------------------------------------------!
