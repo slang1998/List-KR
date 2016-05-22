@@ -681,6 +681,7 @@ asiatoday.co.kr##[class^="main_ad"]
 baykoreans.net##.boardRead > DIV > .clear
 baykoreans.net##.board > .clear
 baykoreans.net##.viewDocument > .clear
+baykoreans.net##DIV[style*="opacity"]
 bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net###daumAd
 bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net##div.bnr_info
 bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net##div.bnr_mobile
