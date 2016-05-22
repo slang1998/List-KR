@@ -613,6 +613,7 @@
 @@||postfiles*.naver.net^
 @@||searchad.naver.com$generichide,genericblock
 @@||saedu.naver.com$generichide,genericblock
+@@||static.post.naver.net/
 !
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
