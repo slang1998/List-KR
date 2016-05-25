@@ -415,6 +415,7 @@
 ||inven.co.kr/ad/
 ||inven.co.kr/common/lib/js/ad.slot.js^
 ||inven.co.kr/common/lib/js/adns.js^
+||jboa24.com?u^
 ||jjanglive.com/flash/AdShowClient.swf^
 ||jjanglive.com/flash/webClient.swf^
 ||joinsmsn.com/_ui/ad/
