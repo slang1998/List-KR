@@ -9,135 +9,23 @@
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
 !
 !-------------------------------------------------------------------------------!
-!------------------ Common Element Hiding Rules --------------------------------!
-!-------------------------------------------------------------------------------!
-!
-! Section contains list of generic element hiding rules
-!
-###adbay_adExpandDiv
-###adbay_adExpandIframe
-###adya_area
-###mobitree
-###mobitreeP
-###uniqubeAd_area
-###uniqubeAd_area_iframe
-###uniqubeAd_area_text
-###uniqubeFirstDiv
-###wiseAd
-##div.ezAdsense
-##div.gpt_ad_container
-##div[id^="sbaAbout"]
-##iframe[id^="nad_"]
-##iframe[name="ifrad"]
-##iframe[src*="/RealMedia/ads/"]
-##iframe[src^="//adx-exchange.toast.com/a_request"]
-##iframe[src^="http://a1.dp25.kr/"]
-##iframe[src^="http://ad.ad4989.co.kr/"]
-##iframe[src^="http://ad.adkova.com/media/"]
-##iframe[src^="http://ad.adinc.kr/"]
-##iframe[src^="http://ad.ezday.co.kr/NetInsight/"]
-##iframe[src^="http://ad.ilikesponsorad.co.kr/"]
-##iframe[src^="http://ad.mediafarm.co.kr/mad/"]
-##iframe[src^="http://ad.mediatoday.co.kr/"]
-##iframe[src^="http://ad.naver.com/adshow"]
-##iframe[src^="http://ad.owra.net/"]
-##iframe[src^="http://ad.priel.co.kr/"]
-##iframe[src^="http://ad.xc.nis.nitmus.com/"]
-##iframe[src^="http://ad1.eventmanager.co.kr/"]
-##iframe[src^="http://adc.ohmynews.com/NetInsight/"]
-##iframe[src^="http://adexpert.ad4989.co.kr/"]
-##iframe[src^="http://adexview.new-star.co.kr/"]
-##iframe[src^="http://adin.ad4980.kr/"]
-##iframe[src^="http://adn.inven.co.kr/"]
-##iframe[src^="http://adpingpong1.co.kr/"]
-##iframe[src^="http://ads-optima.com/www/delivery/afr.php"]
-##iframe[src^="http://ads.ecoadproject.co.kr/"]
-##iframe[src^="http://ads.mangouni.com/mad/"]
-##iframe[src^="http://ads.mncmedia.co.kr/"]
-##iframe[src^="http://ads.priel.co.kr/cgi-bin/PelicanC.dll"]
-##iframe[src^="http://ads.realclick.co.kr/ad_headcopy/criteo_rta.html"]
-##iframe[src^="http://ads2.contentabc.com/ads"]
-##iframe[src^="http://adserver.sbtrustmedia.com/"]
-##iframe[src^="http://adstract.adk2x.com/imp"]
-##iframe[src^="http://adsvc2.wisenut.co.kr/"]
-##iframe[src^="http://adtg.widerplanet.com/"]
-##iframe[src^="http://adv.imadrep.co.kr/"]
-##iframe[src^="http://adw.heraldm.com/"]
-##iframe[src^="http://adx.naonmedia.net/adx/"]
-##iframe[src^="http://agate.opap.co.kr/html/"]
-##iframe[src^="http://aitg.widerplanet.com/"]
-##iframe[src^="http://bayabar.com/adworking/"]
-##iframe[src^="http://cadvv.heraldm.com/nbiz/"]
-##iframe[src^="http://candy.ad9.kr/"]
-##iframe[src^="http://care-health.co.kr/"]
-##iframe[src^="http://cas.criteo.com/delivery/"]
-##iframe[src^="http://cdn04.sndkorea.co.kr/"]
-##iframe[src^="http://chie8oo.com/afr.php"]
-##iframe[src^="http://cm.interworksmedia.co.kr/adTagRequest.htm"]
-##iframe[src^="http://cpv.ad.naver.com/adshow"]
-##iframe[src^="http://d.a1comm.co.kr/"]
-##iframe[src^="http://daily.hankooki.com/ad/"]
-##iframe[src^="http://dgate.joins.com/hc.aspx"]
-##iframe[src^="http://display.ad.daum.net/imp"]
-##iframe[src^="http://etc.gamechosun.co.kr/banner/"]
-##iframe[src^="http://file.osen.co.kr/web2/html/realclick_ad.html"]
-##iframe[src^="http://fs.jtbc.joins.com/common/ui/ad/"]
-##iframe[src^="http://im.obel.kr/file/"]
-##iframe[src^="http://img.sbs.co.kr/news/ad/delay_redirect_mobile.html"]
-##iframe[src^="http://imp.mklaud.com/ad"]
-##iframe[src^="http://imp.sndkorea.co.kr/php/m.php"]
-##iframe[src^="http://joy-adstore.co.kr/ad/"]
-##iframe[src^="http://js.hnscom.com/etc/hns/hnsIframe_"][src$=".html"]
-##iframe[src^="http://longkeyone.co.kr/"]
-##iframe[src^="http://m.chosun.com/tad.html"]
-##iframe[src^="http://m.hankooki.com/ad/"]
-##iframe[src^="http://m.joyninfo.com/yna/yna_m_new.asp"]
-##iframe[src^="http://m.kmib.co.kr/banner/"]
-##iframe[src^="http://m.ytn.co.kr/ad/ad_"][src$=".html"]
-##iframe[src^="http://mktag.mt.co.kr/code.ems/"]
-##iframe[src^="http://mobi.luxad.kr/ad/"]
-##iframe[src^="http://mobi.luxad.net/ad/"]
-##iframe[src^="http://mobs.luxad.kr/media/"]
-##iframe[src^="http://mtab.clickmon.co.kr/pop/"]
-##iframe[src^="http://mymyad.co.kr/"]
-##iframe[src^="http://nad1.mklaud.com/ad"]
-##iframe[src^="http://nads.lumieyes.com/show/media/"]
-##iframe[src^="http://nws.lumieyes.com/"]
-##iframe[src^="http://ojsfile.ohmynews.com/AD_FILE/"]
-##iframe[src^="http://p.lumieyes.com/"]
-##iframe[src^="http://plugin.2beon.co.kr/"]
-##iframe[src^="http://provider.hiadone.com/cgi-bin/conad_hi.fcgi/"]
-##iframe[src^="http://pub.adpnut.com/"]
-##iframe[src^="http://ra.ntwoad.co.kr/"]
-##iframe[src^="http://redir.adap.tv/redir/mobile/mobile-ad-source.html"]
-##iframe[src^="http://res.heraldm.com/iframe/"]
-##iframe[src^="http://rsense-ad.realclick.co.kr/rsense/view_ad_adcrm.html"]
-##iframe[src^="http://sin1.g.adnxs.com/if"]
-##iframe[src^="http://static.joins.com/isplus/ui/ad/"]
-##iframe[src^="http://tab2.clickmon.co.kr/pop/"]
-##iframe[src^="http://www.ad-playstore.com/"]
-##iframe[src^="http://www.dreamsearch.or.kr/ad/"]
-##iframe[src^="http://www.dreamsearch.or.kr/servlet/adBanner"]
-##iframe[src^="http://www.dreamsearch.or.kr/servlet/iadbn"]
-##iframe[src^="http://www.inven.co.kr/ad/"]
-##iframe[src^="http://www.kmib.co.kr/cp/realclick/"]
-##iframe[src^="http://www.koreadaily.com/_ui/ad/"]
-##iframe[src^="http://www.mediamixad.com/ad/liveAd"]
-##iframe[src^="http://www.sunnyworks.co.kr/data/SW"][src$=".html"]
-##ins.adsbygoogle
-##ins.daum_ddn_area
-!-------------------------------------------------------------------------------!
-!------------------ URL filters ------------------------------------------------!
+!------------------ URL Filters ------------------------------------------------!
 !-------------------------------------------------------------------------------!
 !
 ! Section contains list URL filters
 !
+!----------------------------------------------------!
+!------ General URL Filters -------------------------!
+!----------------------------------------------------!
 /about_*_shopbox.
 /mobitree_*.js^
 /nad/media/
 /naon_*.html^
 /naon_*.jsp^
 /NetInsight/$match-case
+!----------------------------------------------------!
+!------ Domain-Specific URL Filters -----------------!
+!----------------------------------------------------!
 ||1.227.58.23/event.ems/
 ||11st.co.kr/MW/html/allianceAd/
 ||115.68.75.10/banner_*.php^
@@ -633,11 +521,129 @@
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
 !-------------------------------------------------------------------------------!
-!------------------ Site Specific Rules ----------------------------------------!
+!------------------ Element hiding rules ---------------------------------------!
 !-------------------------------------------------------------------------------!
 !
-! Section contains list of site specific rules
+! Section contains list of element hiding rules
 !
+!----------------------------------------------------!
+!------ General hiding rules ------------------------!
+!----------------------------------------------------!
+###adbay_adExpandDiv
+###adbay_adExpandIframe
+###adya_area
+###mobitree
+###mobitreeP
+###uniqubeAd_area
+###uniqubeAd_area_iframe
+###uniqubeAd_area_text
+###uniqubeFirstDiv
+###wiseAd
+##div.ezAdsense
+##div.gpt_ad_container
+##div[id^="sbaAbout"]
+##iframe[id^="nad_"]
+##iframe[name="ifrad"]
+##iframe[src*="/RealMedia/ads/"]
+##iframe[src^="//adx-exchange.toast.com/a_request"]
+##iframe[src^="http://a1.dp25.kr/"]
+##iframe[src^="http://ad.ad4989.co.kr/"]
+##iframe[src^="http://ad.adkova.com/media/"]
+##iframe[src^="http://ad.adinc.kr/"]
+##iframe[src^="http://ad.ezday.co.kr/NetInsight/"]
+##iframe[src^="http://ad.ilikesponsorad.co.kr/"]
+##iframe[src^="http://ad.mediafarm.co.kr/mad/"]
+##iframe[src^="http://ad.mediatoday.co.kr/"]
+##iframe[src^="http://ad.naver.com/adshow"]
+##iframe[src^="http://ad.owra.net/"]
+##iframe[src^="http://ad.priel.co.kr/"]
+##iframe[src^="http://ad.xc.nis.nitmus.com/"]
+##iframe[src^="http://ad1.eventmanager.co.kr/"]
+##iframe[src^="http://adc.ohmynews.com/NetInsight/"]
+##iframe[src^="http://adexpert.ad4989.co.kr/"]
+##iframe[src^="http://adexview.new-star.co.kr/"]
+##iframe[src^="http://adin.ad4980.kr/"]
+##iframe[src^="http://adn.inven.co.kr/"]
+##iframe[src^="http://adpingpong1.co.kr/"]
+##iframe[src^="http://ads-optima.com/www/delivery/afr.php"]
+##iframe[src^="http://ads.ecoadproject.co.kr/"]
+##iframe[src^="http://ads.mangouni.com/mad/"]
+##iframe[src^="http://ads.mncmedia.co.kr/"]
+##iframe[src^="http://ads.priel.co.kr/cgi-bin/PelicanC.dll"]
+##iframe[src^="http://ads.realclick.co.kr/ad_headcopy/criteo_rta.html"]
+##iframe[src^="http://ads2.contentabc.com/ads"]
+##iframe[src^="http://adserver.sbtrustmedia.com/"]
+##iframe[src^="http://adstract.adk2x.com/imp"]
+##iframe[src^="http://adsvc2.wisenut.co.kr/"]
+##iframe[src^="http://adtg.widerplanet.com/"]
+##iframe[src^="http://adv.imadrep.co.kr/"]
+##iframe[src^="http://adw.heraldm.com/"]
+##iframe[src^="http://adx.naonmedia.net/adx/"]
+##iframe[src^="http://agate.opap.co.kr/html/"]
+##iframe[src^="http://aitg.widerplanet.com/"]
+##iframe[src^="http://bayabar.com/adworking/"]
+##iframe[src^="http://cadvv.heraldm.com/nbiz/"]
+##iframe[src^="http://candy.ad9.kr/"]
+##iframe[src^="http://care-health.co.kr/"]
+##iframe[src^="http://cas.criteo.com/delivery/"]
+##iframe[src^="http://cdn04.sndkorea.co.kr/"]
+##iframe[src^="http://chie8oo.com/afr.php"]
+##iframe[src^="http://cm.interworksmedia.co.kr/adTagRequest.htm"]
+##iframe[src^="http://cpv.ad.naver.com/adshow"]
+##iframe[src^="http://d.a1comm.co.kr/"]
+##iframe[src^="http://daily.hankooki.com/ad/"]
+##iframe[src^="http://dgate.joins.com/hc.aspx"]
+##iframe[src^="http://display.ad.daum.net/imp"]
+##iframe[src^="http://etc.gamechosun.co.kr/banner/"]
+##iframe[src^="http://file.osen.co.kr/web2/html/realclick_ad.html"]
+##iframe[src^="http://fs.jtbc.joins.com/common/ui/ad/"]
+##iframe[src^="http://im.obel.kr/file/"]
+##iframe[src^="http://img.sbs.co.kr/news/ad/delay_redirect_mobile.html"]
+##iframe[src^="http://imp.mklaud.com/ad"]
+##iframe[src^="http://imp.sndkorea.co.kr/php/m.php"]
+##iframe[src^="http://joy-adstore.co.kr/ad/"]
+##iframe[src^="http://js.hnscom.com/etc/hns/hnsIframe_"][src$=".html"]
+##iframe[src^="http://longkeyone.co.kr/"]
+##iframe[src^="http://m.chosun.com/tad.html"]
+##iframe[src^="http://m.hankooki.com/ad/"]
+##iframe[src^="http://m.joyninfo.com/yna/yna_m_new.asp"]
+##iframe[src^="http://m.kmib.co.kr/banner/"]
+##iframe[src^="http://m.ytn.co.kr/ad/ad_"][src$=".html"]
+##iframe[src^="http://mktag.mt.co.kr/code.ems/"]
+##iframe[src^="http://mobi.luxad.kr/ad/"]
+##iframe[src^="http://mobi.luxad.net/ad/"]
+##iframe[src^="http://mobs.luxad.kr/media/"]
+##iframe[src^="http://mtab.clickmon.co.kr/pop/"]
+##iframe[src^="http://mymyad.co.kr/"]
+##iframe[src^="http://nad1.mklaud.com/ad"]
+##iframe[src^="http://nads.lumieyes.com/show/media/"]
+##iframe[src^="http://nws.lumieyes.com/"]
+##iframe[src^="http://ojsfile.ohmynews.com/AD_FILE/"]
+##iframe[src^="http://p.lumieyes.com/"]
+##iframe[src^="http://plugin.2beon.co.kr/"]
+##iframe[src^="http://provider.hiadone.com/cgi-bin/conad_hi.fcgi/"]
+##iframe[src^="http://pub.adpnut.com/"]
+##iframe[src^="http://ra.ntwoad.co.kr/"]
+##iframe[src^="http://redir.adap.tv/redir/mobile/mobile-ad-source.html"]
+##iframe[src^="http://res.heraldm.com/iframe/"]
+##iframe[src^="http://rsense-ad.realclick.co.kr/rsense/view_ad_adcrm.html"]
+##iframe[src^="http://sin1.g.adnxs.com/if"]
+##iframe[src^="http://static.joins.com/isplus/ui/ad/"]
+##iframe[src^="http://tab2.clickmon.co.kr/pop/"]
+##iframe[src^="http://www.ad-playstore.com/"]
+##iframe[src^="http://www.dreamsearch.or.kr/ad/"]
+##iframe[src^="http://www.dreamsearch.or.kr/servlet/adBanner"]
+##iframe[src^="http://www.dreamsearch.or.kr/servlet/iadbn"]
+##iframe[src^="http://www.inven.co.kr/ad/"]
+##iframe[src^="http://www.kmib.co.kr/cp/realclick/"]
+##iframe[src^="http://www.koreadaily.com/_ui/ad/"]
+##iframe[src^="http://www.mediamixad.com/ad/liveAd"]
+##iframe[src^="http://www.sunnyworks.co.kr/data/SW"][src$=".html"]
+##ins.adsbygoogle
+##ins.daum_ddn_area
+!----------------------------------------------------!
+!------ Domain-Specific hiding rules ----------------!
+!----------------------------------------------------!
 albamon.com###subtopAd
 api.dable.io##div.item-sp
 api.dable.io##td.item-sp
@@ -828,7 +834,6 @@ esports.dailygame.co.kr##iframe[src^="/comment/ad_readclick.php"]
 esports.dailygame.co.kr##iframe[src^="http://www.dailygame.co.kr/ad/dispad_bot.html"]
 esports.dailygame.co.kr##iframe[src^="http://www.dailygame.co.kr/ad/dispad_right.html"]
 esports.dailygame.co.kr##iframe[src^="http://www.dailygame.co.kr/ad/dispad_top.html"]
-
 etnews.com###articleBody > DIV[style$="20px;"]
 etnews.com###articleBody>div[style="margin-top:15px;margin-bottom:5px;"]
 etnews.com###articleBody>div[style="text-align:center"]
@@ -1729,20 +1734,16 @@ www.daum.net#$#.wrap_sub { position: absolute!important; top:252px!important; }
 ! Section contains list of script filtering, 
 ! that are commonly achieved by third party userscripts.
 !
-! anti-adblock neutralizers
+!----- anti-adblock neutralizers --------------------
 baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#var fuckAdBlock = false
-! disable auto scroll
+!----- disable auto scroll --------------------------
 nextdaily.co.kr,rpm9.com$$script[type="text/javascript"][tag-content="scrollTop: position"]
-! context menu enablers
+!----- context menu enablers ------------------------
 snulife.com,tistory.com$$script[tag-content="document.oncontextmenu"]
 snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
 snulife.com#$#*:not(input):not(textarea){ -webkit-touch-callout: auto!important; -webkit-user-select: auto!important; }
 !----------------------------------------------------!
 !------ non-Korean specific rules -------------------!
 !----------------------------------------------------!
-*ads.g.doubleclick.net/pagead/
-||cas.criteo.com/delivery/ajs.php^
-||cdn.adstract.com/adstract/tags/xbanner/xbanner.js^
-!---- LOL ----
 ||counter.adguard.com
