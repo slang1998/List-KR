@@ -1676,6 +1676,7 @@ zdnet.com##section.mpu
 ||dable.io/logs^$third-party
 ||geolook.tvchosun.com:8888
 ||googletagservices.com/tag/$domain=inews24.com
+||heraldcorp.com/tracker^$third-party
 ||humoruniv.com/cpuid
 ||humoruniv.com/images/null.gif
 ||humoruniv.com/pv^
