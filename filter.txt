@@ -1184,6 +1184,11 @@ mediatoday.co.kr###adbnFloating
 mediatoday.co.kr##iframe[src*="/adItem/"]
 mediaus.co.kr##div[style="position:relative;width:250px;height:139px;overflow:hidden;"]
 mediaus.co.kr##iframe[src^="/banner/"]
+metroseoul.co.kr###adop_top_banner
+metroseoul.co.kr##.ad-box
+metroseoul.co.kr##.body-right-box > DIV[style$="eaeaea;"]
+metroseoul.co.kr##.sideADBox
+metroseoul.co.kr##A[href^="http://www.metromall"]
 minitoon.net##div.fixed-top
 minitoon.net##div.g_banner
 minitoon.net##div.m_banner
@@ -1721,6 +1726,7 @@ zdnet.com##section.mpu
 ! Section contains list of CSS injection rules to remove ads or to correct page layout
 !
 i.orbi.kr#$#.crewbi_ootd { background:none!important; }
+metroseoul.co.kr#$#.viewMarginLeft { margin-left: initial!important; }
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
 orbi.kr#$##mainPremiumContainer { height: 306px!important; }
 vod.tvchosun.com#$#.areaTop> div.vod_left.add { padding: 10px 29px 0 10px!important; }
