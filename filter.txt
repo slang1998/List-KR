@@ -331,6 +331,7 @@
 ||cwstatic.heraldm.com/adcont/
 ! Adguard Eng filter contains some similar rules. 
 ||d.a1comm.co.kr^
+||d1hn8mrtxasu7m.cloudfront.net^
 ||dable.io/*checksum^
 ||daily.hankooki.com/ad/
 ||dailygame.co.kr/ad/dispad_bot.html^
@@ -357,6 +358,7 @@
 ||etnews.com/tools/etnews_hns.js^
 ||etnews.com/tools/ict_highlight.js^
 ||etnews.com/tools/ict_terms.js^
+||etnews.com/tools/refresh_script.html^
 ||eto.co.kr/Data/Xml/localuser/adv/
 ||eto.co.kr/adv/
 ||event.liveg.co.kr/banner/$image,third-party
@@ -826,15 +828,21 @@ esports.dailygame.co.kr##iframe[src^="/comment/ad_readclick.php"]
 esports.dailygame.co.kr##iframe[src^="http://www.dailygame.co.kr/ad/dispad_bot.html"]
 esports.dailygame.co.kr##iframe[src^="http://www.dailygame.co.kr/ad/dispad_right.html"]
 esports.dailygame.co.kr##iframe[src^="http://www.dailygame.co.kr/ad/dispad_top.html"]
-etnews.com###RightWingBanner
+
+etnews.com###articleBody > DIV[style$="20px;"]
 etnews.com###articleBody>div[style="margin-top:15px;margin-bottom:5px;"]
 etnews.com###articleBody>div[style="text-align:center"]
+etnews.com###banner250_02
 etnews.com###bannerTopmostBox
 etnews.com###livere_ad
 etnews.com###promotionBanner
 etnews.com###right>div[style="margin-left:0px;"]
+etnews.com###RightWingBanner
 etnews.com###talklink_chatAd
 etnews.com###wingLeftSticky
+etnews.com##.ad1
+etnews.com##.ad2
+etnews.com##.ad3
 etnews.com##div.ad_txt
 etnews.com##div.box_type1
 etnews.com##div.box_type2
@@ -1014,6 +1022,7 @@ kr.celeb.yahoo.com###leftClickButton
 kr.celeb.yahoo.com###rightClickButton
 kr.celeb.yahoo.com##div.yom-ad
 kukinews.com##div[class^="bnr_290_"]
+life.etnews.com##.mainlife_right > .life_news2:first-child
 live.joinsmsn.com##div.shopping_v2
 login.daum.net##div.login_ad
 m.cafe.naver.com##div.area_sa
@@ -1412,6 +1421,10 @@ pressian.com##div.c011_arv_event>div[style="padding-bottom:20px;"]
 pressian.com##div.c011_arv_event>div[style="width:336px; height:280px; float:right; margin-bottom:15px;"]
 pressian.com##iframe[src^="http://ad"]
 reviewstar.hankooki.com##li.ad_plex_a250
+rpm9.com###promotion
+rpm9.com##.ad_bottom728x90
+rpm9.com##.ad_maintextWrap
+rpm9.com##.ad_right300x250
 search.daum.net##div.ad_sch
 search.daum.net##div.wing_sponsor
 search.naver.com##div.ad_section
@@ -1670,6 +1683,7 @@ zdnet.com##section.mpu
 ||las.danawa.com/log/logging.json
 ||static.danawa.com/info/js/adweb_counter_danawa.min.js
 !----- Miscellaneous -----------
+||121.78.90.104:8383/pv?
 ||analysis.afreecatv.com^
 ||analytics.bandi.so^
 ||api.tvple.com/*/stat/send?
@@ -1689,10 +1703,12 @@ zdnet.com##section.mpu
 ||log-aggregator.vcnc.co.kr^
 ||logger.tvchosun.com:8000/InsightTrk/
 ||mywebtrends.co.kr^$third-party
-||recobell.io^$third-party
+||nextdaily.co.kr/tools/article_count*.html
+||recobell.io/rest/log^
 ||tracking.adweb.co.kr/tracking^
 ||tvchosun.com/front/js/tvchosun.js
 ||tvchosun.com/js/daumview.js
+||weblog.greendaily.co.kr^
 !----------------------------------------------------!
 !------ CSS rules -----------------------------------!
 !----------------------------------------------------!
@@ -1716,6 +1732,8 @@ www.daum.net#$#.wrap_sub { position: absolute!important; top:252px!important; }
 ! anti-adblock neutralizers
 baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#var fuckAdBlock = false
+! disable auto scroll
+nextdaily.co.kr,rpm9.com$$script[type="text/javascript"][tag-content="scrollTop: position"]
 ! context menu enablers
 snulife.com,tistory.com$$script[tag-content="document.oncontextmenu"]
 snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
