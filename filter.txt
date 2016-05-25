@@ -635,6 +635,7 @@
 !
 ! Section contains list of site specific rules
 !
+albamon.com###subtopAd
 api.dable.io##div.item-sp
 api.dable.io##td.item-sp
 appleblog.co.kr##ins.adsbygoogle
