@@ -467,7 +467,7 @@
 ||mobs.luxad.kr/media/
 ||mp.mmnneo.com^
 ||mt.co.kr/ad/
-||mtag.mman.kr/js.mezzo/
+||mtag.mman.kr^$third-party
 ||munhwa.com/skin/inc_right/inc_denta_ad_iframe.html^
 ||mydaily.co.kr/news/ad_news*.htm^
 ||mydaily.co.kr/ad/ad_*.php^
