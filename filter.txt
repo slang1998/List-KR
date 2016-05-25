@@ -139,6 +139,7 @@
 /naon_*.jsp^
 /NetInsight/$match-case,domain=ezday.co.kr|ohmynews.com|dcinside.com|newscloud.or.kr|kmib.co.kr
 ||1.227.58.23/event.ems/
+||11st.co.kr/MW/html/allianceAd/
 ||115.68.75.10/banner_*.php^
 ||211.234.119.116/pront/default.asp^
 ||218.153.11.175^
@@ -1091,6 +1092,10 @@ m.ohmynews.com###adDaum
 m.ohmynews.com###adDaum_top
 m.ohmynews.com###ad_box
 m.ohmynews.com##div.ad_box_outline
+m.ppomppu.co.kr###if_bbs_view_bn
+m.ppomppu.co.kr##.ct + DIV[style^="padding-top"]
+m.ppomppu.co.kr##.menu + DIV[style^="text-align"]
+m.ppomppu.co.kr##FORM + DIV[style^="padding-top"]
 m.todayhumor.co.kr##DIV[style$="#e5e5e5"]
 m.todayhumor.co.kr##DIV[style^="margin:10 0 10"]
 m.segye.com###textbanner
