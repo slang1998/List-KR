@@ -1668,6 +1668,7 @@ zdnet.com##section.mpu
 ||las.danawa.com/log/logging.json
 ||static.danawa.com/info/js/adweb_counter_danawa.min.js
 !----- Miscellaneous -----------
+||analysis.afreecatv.com^
 ||analytics.bandi.so^
 ||api.tvple.com/*/stat/send?
 ||at.mklaud.com/at/at_log*.php^
