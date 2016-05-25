@@ -157,7 +157,6 @@
 ||ad.adlike.co.kr^
 ||ad.adnmore.co.kr^
 ||ad.adop.co.kr/mad/
-||ad.applead.co.kr^
 ||ad.cache.newdaily.co.kr/site/banner/
 ||ad.cache.newdaily.co.kr/web/newdaily/bn/
 ||ad.cauly.co.kr*caulyImpress^$third-party
@@ -279,24 +278,34 @@
 ||adver.clickmon.co.kr^
 ||adw.heraldm.com/cgi-bin/conad.fcgi/
 ||adwise.co.kr^$third-party
-!----------------------- reviewed up to here -------------------------------------
 ||adx.naonmedia.net/adx/
 ||adx.turl.co.kr/toast.wif^
 ||adx-exchange.toast.com/a_request^
 ||agate.opap.co.kr/html/
 ||alea.adam.ad.daum.net/mobilead^
+||allblet.net^$third-party
+||allsee.co.kr/js/allsee_banner.js$third-party
 ||ams.rmcnmv.naver.com/item/create/*?ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||amsv2.daum.net/ad/
 ||api.wiseclick.co.kr/api/web_directad/
+||applead.co.kr^$third-party
 ||as.dc.impact-ad.jp^
 ||asiae.co.kr/include/real_ad/
+||asiae.co.kr/js/logging.js^
+||asiae.co.kr/news/include/real_ad/
+||asiae.co.kr/news/include/view_ad/
 ||ask.nate.com/iframe/sponsor.html^
+||auction.co.kr/mail/mailcounter.html^
+||auction.co.kr/wlas_code.html^
 ||bayabar.com/adworking/
-||bdv.bidvertiser.com^
+||betanews.net/banner.html^
 ||biz.chosun.com/ad/
 ||biz.chosun.com/dhtm/js/2012_ad_biz.js^
 ||bizon.kr/bar/adon_banner.js^
 ||bizon.kr/bizon_ad/
+||bizspring.net^$third-party
+||blog.naver.com/AdPostInjectAsync.nhn
+!----------------------- reviewed up to here -------------------------------------
 ||bohumlife.edaily.co.kr/iframe_starin.html^
 ||c.betrad.com/surly.js^
 ||cad.donga.com/netBanners/
