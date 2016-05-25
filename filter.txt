@@ -137,7 +137,7 @@
 /nad/media/
 /naon_*.html^
 /naon_*.jsp^
-/NetInsight/$match-case,domain=ezday.co.kr|ohmynews.com|dcinside.com|newscloud.or.kr|kmib.co.kr
+/NetInsight/$match-case
 ||1.227.58.23/event.ems/
 ||11st.co.kr/MW/html/allianceAd/
 ||115.68.75.10/banner_*.php^
