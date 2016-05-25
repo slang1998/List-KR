@@ -305,6 +305,7 @@
 ||bizon.kr/bizon_ad/
 ||bizspring.net^$third-party
 ||blog.naver.com/AdPostInjectAsync.nhn
+||bloter.net/wp-admin/admin-ajax.php
 !----------------------- reviewed up to here -------------------------------------
 ||bohumlife.edaily.co.kr/iframe_starin.html^
 ||c.betrad.com/surly.js^
@@ -736,11 +737,7 @@ biz.heraldcorp.com,news.heraldcorp.com##iframe#ficm_iframe
 bizn.khan.co.kr##div.topright_bn
 blog.naver.com##._adPost
 blog.naver.com##td.adpost_con
-bloter.net##div.banner-top
-bloter.net##div.bloter-news-ad
-bloter.net##div.bottomad
-bloter.net##div.header-ad-container
-bloter.net##section.fixed-side-banner
+bloter.net##.network-ad__wrapper
 boingboing.net###sidebar>div.ad
 businessweek.com###promo
 cafe.naver.com###ad-banner
