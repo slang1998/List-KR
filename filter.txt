@@ -515,6 +515,7 @@
 ||p.lumieyes.com^
 ||performix.co.kr/cgi-bin/conad.fcgi/
 ||plugin.2beon.co.kr^
+||ppomppu.co.kr/banner/
 ||provider.hiadone.com/cgi-bin/conad_hi.fcgi/
 ||pub.adpnut.com^
 ||pubads.g.doubleclick.net^
@@ -1386,13 +1387,12 @@ pann.nate.com##div.sidebar.ad
 pann.nate.com##div.sidebar_banner
 pann.nate.com##div.view_banner
 ppomppu.co.kr###emart_banner
+ppomppu.co.kr###search_bbsList + DIV
 ppomppu.co.kr###shoppingbox
 ppomppu.co.kr##div.ad
 ppomppu.co.kr##div.banner
 ppomppu.co.kr##div.banner_336
 ppomppu.co.kr##div[id^="pp_ban_"]
-ppomppu.co.kr##iframe[id^="if_"][id$="_bn"]
-ppomppu.co.kr##p.banner_553
 pressian.com###ad1
 pressian.com##div.c011_arv_event>div[style="padding-bottom:20px;"]
 pressian.com##div.c011_arv_event>div[style="width:336px; height:280px; float:right; margin-bottom:15px;"]
