@@ -513,6 +513,7 @@
 ! Section contains list URL exception rules
 !
 ! naver.com
+@@||dicimg.naver.net^
 @@||postfiles*.naver.net^
 @@||searchad.naver.com$generichide,genericblock
 @@||saedu.naver.com$generichide,genericblock
