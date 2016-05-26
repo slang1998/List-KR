@@ -23,7 +23,7 @@ This is a web filter for websites in Korean language, to be used with [Adguard][
 
 This filter aims to filter not only ads, but also known trackers and other scripts which negatively affects user experience(including anti-adblock and disabling context menu).
 
-This filter is optimized for Adguard Windows, Mac, and Android versions. Yet most of rules are following the grammer of [Adblock Plus][], some rules for more difficult filtering utilizes Adguard's advanced filtering methods, and will not be activated in other filtering tools. Also, there are slight differences of filtering methods between Adguard and ABP, and if you use it, you may see blank areas at the place of ads. [ublock origin] is known to be compatible with part of the Adguard syntax, and can be used with this filter.
+This filter is optimized for Adguard Windows, Mac, and Android versions. Yet most of rules are following the grammer of [Adblock Plus][], some rules for more difficult filtering utilizes Adguard's advanced filtering methods, and will not be activated in other filtering tools. Also, there are slight differences in filtering methods between Adguard and ABP, and if you use it, you may see blank areas at the place of ads. [ublock origin] is known to be compatible with part of the Adguard syntax, and can be used with this filter.
 
 This filter is focused on Korean websites, and it is recommended to use this filter together with English filter.
 
