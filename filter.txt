@@ -168,7 +168,7 @@
 ||adwise.co.kr^$third-party
 ||adx.naonmedia.net/adx/
 ||adx.turl.co.kr/toast.wif^
-||adx-exchange.toast.com/a_request^
+||adx-exchange.toast.com/*pub_code=$third-party
 ||agate.opap.co.kr/html/
 ||alea.adam.ad.daum.net/mobilead^
 ||allblet.net^$third-party
@@ -546,7 +546,6 @@
 ##iframe[id^="nad_"]
 ##iframe[name="ifrad"]
 ##iframe[src*="/RealMedia/ads/"]
-##iframe[src^="//adx-exchange.toast.com/a_request"]
 ##iframe[src^="http://a1.dp25.kr/"]
 ##iframe[src^="http://ad.ad4989.co.kr/"]
 ##iframe[src^="http://ad.adkova.com/media/"]
