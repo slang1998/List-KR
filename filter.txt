@@ -242,10 +242,13 @@
 ||edaily.co.kr/adview/
 ||esports.dailygame.co.kr/comment/ad_realclick.php^
 ||etc.gamechosun.co.kr/banner/
+||etnews.com/*tools/article_count*.html
 ||etnews.com/ek_js/detail_ad_combinepop.js^
+||etnews.com//mobile/admin/php/ajax.getIp.php
 ||etnews.com/tools/etnews_hns.js^
 ||etnews.com/tools/ict_highlight.js^
 ||etnews.com/tools/ict_terms.js^
+||etnews.com/tools/reflesh_top.html^
 ||etnews.com/tools/refresh_script.html^
 ||eto.co.kr/Data/Xml/localuser/adv/
 ||eto.co.kr/adv/
@@ -402,6 +405,7 @@
 ||newsway.kr/banner/left_banner.html^
 ||newsway.kr/banner/overture.html^
 ||newsway.kr/bannerManager/
+||nextdaily.co.kr/*/article_count*.html 
 ||nocutnews.co.kr/banner/2012/ad_right_*.asp^
 ||npian.com/nbox/ad*.swf^
 ||nscreen.neoebiz.co.kr/xJqScreen.php^
@@ -1026,15 +1030,8 @@ m.dcinside.com###lguplus_ad_banner
 m.dcinside.com###mmaDisplay
 m.dcinside.com##div[data-adam-elem="banner_wrapper"]
 m.esports.dailygame.co.kr##div.banner-wrap
-m.etnews.com###bottomBigBanner
-m.etnews.com###boxContent>div[style="margin-top:20px;border:0;"]
-m.etnews.com##div.inlineAdBanner
-m.etnews.com##div.newsView>div[style="margin-top:10px;"]
-m.etnews.com##section.relBottom>section>div.defNewList>div[style="margin:4px 0 4px 0px;padding:0px;height:99px;border:0px;overflow:hidden;"]
-m.etnews.com##section.relBottom>section[style="margin-left:8px;margin-right:8px;margin-top:7px;background-color:#fff;"]
-m.etoday.co.kr###Share_bn
-m.etoday.co.kr##div.news_adinn
-m.etoday.co.kr##div.title_ad
+m.etnews.com##.brickHouse + SECTION[style]
+m.etnews.com##.clfix + DIV[style$=":100%"]
 m.focus.kr###article_Content>div[style="margin-top:20px;"]
 m.focus.kr##iframe[id^="adv_banner"]
 m.gamechosun.co.kr##div.ad_com_bener
@@ -1728,7 +1725,7 @@ nextdaily.co.kr,rpm9.com$$script[type="text/javascript"][tag-content="scrollTop:
 !----- context menu enablers ------------------------
 snulife.com,tistory.com$$script[tag-content="document.oncontextmenu"]
 snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
-snulife.com#$#*:not(input):not(textarea){ -webkit-touch-callout: auto!important; -webkit-user-select: auto!important; }
+snulife.com,m.etnews.com#$#*:not(input):not(textarea){ -webkit-touch-callout: auto!important; -webkit-user-select: auto!important; }
 !----------------------------------------------------!
 !------ non-Korean specific rules -------------------!
 !----------------------------------------------------!
