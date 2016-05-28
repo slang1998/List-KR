@@ -1614,6 +1614,7 @@ zdnet.com##section.mpu
 ||121.78.90.104:8383/pv?
 ||analysis.afreecatv.com^
 ||analytics.bandi.so^
+||analytics-event.kakao.com^
 ||api.tvple.com/*/stat/send?
 ||at.mklaud.com/at/at_log*.php^
 ||chosun.com/dhtm/js/common/collecter.js
