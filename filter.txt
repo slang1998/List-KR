@@ -23,6 +23,7 @@
 /naon_*.html^
 /naon_*.jsp^
 /NetInsight/$match-case
+/skin/images/adblockblock.js$domain=ruinses.tistory.com
 !----------------------------------------------------!
 !------ Domain-Specific URL Filters -----------------!
 !----------------------------------------------------!
@@ -1720,6 +1721,7 @@ www.daum.net#$#.wrap_sub { position: absolute!important; top:252px!important; }
 !----- anti-adblock neutralizers --------------------
 baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#var fuckAdBlock = false
+ruinses.tistory.com#%#Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } }); 
 !----- disable auto scroll --------------------------
 nextdaily.co.kr,rpm9.com$$script[type="text/javascript"][tag-content="scrollTop: position"]
 !----- context menu enablers ------------------------
