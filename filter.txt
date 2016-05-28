@@ -1086,6 +1086,7 @@ marumaru.in###widget__insert_html
 marumaru.in##div.mobfloat
 mbiz.heraldcorp.com###adsmnctext
 mbiz.heraldcorp.com##.ad
+mbiz.heraldcorp.com##.story
 mbiz.heraldcorp.com##DIV[class^="photoAd"]
 mbiz.heraldcorp.com##SPAN[id^="adintext"]
 mbiz.heraldcorp.com##SPAN[id^="mfarm"]
