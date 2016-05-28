@@ -1084,15 +1084,13 @@ manaa.space##.ad-box
 marumaru.in###responsive-banner
 marumaru.in###widget__insert_html
 marumaru.in##div.mobfloat
-mbiz.heraldcorp.com##div.ad_2
-mbiz.heraldcorp.com##div.ad_4
-mbiz.heraldcorp.com##li[id^="adsmnc_t_"]
-mbiz.heraldcorp.com##li[id^="suscat_t_"]
-mbiz.heraldcorp.com##span#lumiText1
+mbiz.heraldcorp.com###adsmnctext
+mbiz.heraldcorp.com##.ad
+mbiz.heraldcorp.com##DIV[class^="photoAd"]
+mbiz.heraldcorp.com##SPAN[id^="adintext"]
+mbiz.heraldcorp.com##SPAN[id^="mfarm"]
+mbiz.heraldcorp.com##SPAN[id^="lumiText"]
 mbiz.heraldcorp.com##span[id^="adsmnc_t_"]
-mbiz.heraldcorp.com##span[id^="suscat_t_"]
-mbiz.heraldcorp.com##ul#adsmnctext
-mbiz.heraldcorp.com##ul.text_ad
 mbn.mk.co.kr###bottom_ad
 mbn.mk.co.kr##div.ad1
 mbn.mk.co.kr##div.relation_ad
@@ -1637,6 +1635,7 @@ zdnet.com##section.mpu
 ||tracking.adweb.co.kr/tracking^
 ||tvchosun.com/front/js/tvchosun.js
 ||tvchosun.com/js/daumview.js
+||vlog.heraldcorp.com/tracker
 ||weblog.greendaily.co.kr^
 !----------------------------------------------------!
 !------ CSS rules -----------------------------------!
