@@ -499,8 +499,8 @@
 ||viewsnnews.com/image/advert/
 ||web.n2s.co.kr^
 ||wec.co.kr/banner/
-||wikitree.co.kr/_tpl/default/ad/
-||wikitree.co.kr/ad/
+! combining ||wikitree.co.kr/_tpl/default/_images/ad/, ||wikitree.co.kr/_tpl/default/ad/, ||wikitree.co.kr/ad/
+||wikitree.co.kr*/ad/
 ||winktv.co.kr/banner/$image
 ||wizard2.sbs.co.kr/w3/common/common_ad.jsp^
 ||wowtv.co.kr/AD/
@@ -1124,6 +1124,12 @@ m.star.mt.co.kr###content>div[style="text-align:center;"]
 m.star.mt.co.kr###content>div[style="text-align:center; background:#fff"]
 m.star.mt.co.kr##section.bxcn4>div[style="width:300px;height:250px;position:relative;margin:0 auto;"]
 m.star.mt.co.kr##ul#flick-ad
+m.wikitree.co.kr###contentMidBanner
+m.wikitree.co.kr##.ad50
+m.wikitree.co.kr##.ad60
+m.wikitree.co.kr##.ad70
+m.wikitree.co.kr##.ad80
+m.wikitree.co.kr##.contBanner
 m.yna.co.kr##aside.section-article-add>div.section-ad
 m.yna.co.kr##div.ad-Cauly-wrap
 m.yna.co.kr##div.section-txt>div[style="display:inline-block;width:150px;height:150px;float:right;margin-left:10px;border:1px solid #f2ebd6"]
@@ -1708,6 +1714,7 @@ metroseoul.co.kr#$#.viewMarginLeft { margin-left: initial!important; }
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
 orbi.kr#$##mainPremiumContainer { height: 306px!important; }
 vod.tvchosun.com#$#.areaTop> div.vod_left.add { padding: 10px 29px 0 10px!important; }
+wikitree.co.kr#$#.middle > DIV.logo { position:absolute!important; left: 362px!important; width: auto!important; }
 www.daum.net#$#.cont_sub, .article_daum { display: initial!important; }
 www.daum.net#$#.wrap_main { margin-right: initial!important; margin-left: 5px!important; }
 www.daum.net#$#.wrap_sub { position: absolute!important; top:252px!important; }
