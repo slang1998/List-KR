@@ -1672,6 +1672,10 @@ snulife.com,tistory.com$$script[tag-content="document.oncontextmenu"]
 snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
 snulife.com,m.etnews.com#$#*:not(input):not(textarea){ -webkit-touch-callout: auto!important; -webkit-user-select: auto!important; }
 !----------------------------------------------------!
-!------ non-Korean specific rules -------------------!
+!------ TEMP ----------------------------------------!
 !----------------------------------------------------!
 ||counter.adguard.com
+! Misc trackers
+||pipe.aria.microsoft.com/Collector/$empty
+||visualstudio.com/v*/track$empty
+||play.googleapis.com/log$empty
