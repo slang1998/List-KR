@@ -225,6 +225,7 @@
 ||dailygame.co.kr/ad/dispad_bot.html^
 ||dailygame.co.kr/ad/dispad_right.html^
 ||dailygame.co.kr/ad/dispad_top.html^
+||dcd.adotsolution.com/dcd/
 ||dgate.*/hc.aspx^
 ||dgate.*/hciw.aspx^
 ||display.ad.daum.net/imp^
