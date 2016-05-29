@@ -103,7 +103,7 @@
 ||adcreative.hani.naver.net/ad
 ||adcrm.co.kr/md/
 ||adday.co.kr^$third-party
-||adddn.adotsolution.com/contents/sdk/js/tad.min.js^
+||adddn.adotsolution.com/contents/
 ||adecorp.co.kr^$domain=~sony.co.kr,third-party
 ||adexview.neoebiz.co.kr^
 ||adexview.new-star.co.kr^
