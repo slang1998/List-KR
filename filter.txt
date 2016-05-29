@@ -171,6 +171,7 @@
 ||adx-exchange.toast.com/*pub_code=$third-party
 ||agate.opap.co.kr/html/
 ||alea.adam.ad.daum.net/mobilead^
+||alea.adam.daum.net/imp
 ||allblet.net^$third-party
 ||allsee.co.kr/js/allsee_banner.js$third-party
 ||ams.rmcnmv.naver.com/item/create/*?ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
