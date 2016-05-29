@@ -538,6 +538,7 @@
 ###adbay_adExpandDiv
 ###adbay_adExpandIframe
 ###adya_area
+###livere_ad
 ###mobitree
 ###mobitreeP
 ###uniqubeAd_area
