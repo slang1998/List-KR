@@ -424,6 +424,7 @@
 ||performix.co.kr/cgi-bin/conad.fcgi/
 ||plugin.2beon.co.kr^
 ||ppomppu.co.kr/banner/
+||prism.pandora.tv^
 ||provider.hiadone.com/cgi-bin/conad_hi.fcgi/
 ||pub.adpnut.com^
 ||pubads.g.doubleclick.net^
@@ -895,6 +896,7 @@ isplus.joinsmsn.com###topTextAd
 isplus.joinsmsn.com##div[class^="biz_link_area"]
 isplus.joinsmsn.com##div[class^="sponsor_link_area"]
 ittoday.co.kr##dl[class$="top-banner"]
+jobplanet.co.kr###prism_displayAD
 joins.com###divArticleAdnetworkBanner
 joins.com###gnb_banner
 joins.com###shoppingnews
