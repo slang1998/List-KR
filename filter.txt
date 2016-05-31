@@ -30,6 +30,7 @@
 ||1.227.58.23/event.ems/
 ||11st.co.kr/MW/html/allianceAd/
 ||115.68.75.10/banner_*.php^
+||211.233.4.20^$third-party
 ||211.234.119.116/pront/default.asp^
 ||218.153.11.175^
 ||2cpu.co.kr/ad_board.php
@@ -263,6 +264,7 @@
 ||fnnews.com/include2011/section/google.jsp^
 ||fs.jtbc.co.kr/common/ui/ad/
 ||fs.jtbc.joins.com/common/ui/ad/
+||fun-adstore.co.kr/ad/
 ||gaihn.co.kr/eventbanner/
 ||gall.dcinside.com/dc_ad_*_JH.php^
 ||get.keywordsconnect.com^
@@ -342,7 +344,7 @@
 ||mbn.mk.co.kr/pages/ad/
 ||mediamixad.com/ad/liveAd^
 ||mediamixad.com/ad/webad^
-||mediarichad.com/adbanner/
+||mediawise.co.kr/banner/script/
 ||mediaus.co.kr/bannerManager/inc/
 ||mediaview.co.kr/ad_Viewer.js^
 ||mediaview.co.kr/ad_Viewer2.php^
@@ -443,6 +445,7 @@
 ||scr.nsmartad.com/admixer/admixer.js^
 ||script.adsquare.co.kr/script/
 ||script.keywordlink.co.kr^
+||script.nowcall.co.kr/nowsence/
 ||scripts.chitika.net^
 ||search.n2s.co.kr/_n2s_adop_adinfo.php^
 ||segye.com/Articles/Components/Ad/
@@ -703,19 +706,13 @@ ddanzi.com##div.right_banner
 deviantart.com##div.squareBrowsead
 diodeo.com###newsFloatingBanner
 dkbnews.donga.com###idol_ban
-dt.co.kr###box_01
-dt.co.kr###dt_banner_layout
 dt.co.kr###gisa>table
-dt.co.kr###popup
-dt.co.kr###premiumlink
 dt.co.kr###side_content>div[style="margin-top:10px;"]
 dt.co.kr###side_content>div[style="margin-top:20px;"]
 dt.co.kr##div.cntWrap>div[style="margin-top:10px;"]
 dt.co.kr##div.cntWrap>div[style="padding-top:10px "]
 dt.co.kr##div.cntWrap>div[style="padding-top:10px;"]
 dt.co.kr##div.cntWrap>div[style="text-align:left;margin-left:5px;"]
-dt.co.kr##div.enter_group3
-dt.co.kr##table#tabTable1
 economy.hankooki.com###ad2uShop
 economy.hankooki.com###ad690100
 economy.hankooki.com###ad690120
