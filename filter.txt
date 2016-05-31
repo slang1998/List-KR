@@ -322,6 +322,7 @@
 ||js.theprimead.co.kr^
 ||js2.keywordsconnect.com^
 ||jshoppingbox.joinsmsn.com^
+||jssearch.net^$third-party
 ||jtbc.joins.com/common/json2XMLvast.aspx^
 ||khan.co.kr/ad/
 ||kmib.co.kr/cp/realclick/
@@ -969,6 +970,7 @@ m.etnews.com##.brickHouse + SECTION[style]
 m.etnews.com##.clfix + DIV[style$=":100%"]
 m.focus.kr###article_Content>div[style="margin-top:20px;"]
 m.focus.kr##iframe[id^="adv_banner"]
+m.game.xportsnews.com##.in_200_200
 m.gamechosun.co.kr##div.ad_com_bener
 m.gamechosun.co.kr##div.banner_wrap
 m.gamechosun.co.kr##div.left_menuAd
