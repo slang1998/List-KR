@@ -1081,6 +1081,7 @@ m.yna.co.kr##section.section-add
 m.ytn.co.kr##div.newsview_ad
 m.ytn.co.kr##div.newsview_ad_bnr
 m.ytn.co.kr##div.photo_bottom_ad
+m.zdnet.co.kr##.sub_view_cont > DIV[style*="200px"]
 mangafox.me##div.ad
 mangaumaru.com,shencomics.com,yuncomics.com##aside.EzAdsWidget
 mangaumaru.com,shencomics.com,yuncomics.com###fbanner
@@ -1630,6 +1631,7 @@ zdnet.com##section.mpu
 ||geolook.tvchosun.com:8888
 ||googletagservices.com/tag/$domain=inews24.com
 ||heraldcorp.com/tracker^$third-party
+||hits.zdnet.co.kr/hits.asp^
 ||humoruniv.com/cpuid
 ||humoruniv.com/images/null.gif
 ||humoruniv.com/pv^
@@ -1645,6 +1647,7 @@ zdnet.com##section.mpu
 ||tvchosun.com/js/daumview.js
 ||vlog.heraldcorp.com/tracker
 ||weblog.greendaily.co.kr^
+||weblog.meganews.co.kr/wlo/Logging?
 !----------------------------------------------------!
 !------ CSS rules -----------------------------------!
 !----------------------------------------------------!
