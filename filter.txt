@@ -137,8 +137,6 @@
 ||adpingpong1.co.kr^
 ||adpnut.com^$third-party
 ||ads-by.yieldselect.com^
-||ads-optima.com/www/delivery/afr.php^
-||ads-optima.com/www/delivery/ajs.php^
 ||ads.adop.kr^
 ||ads.contextweb.com/TagPublish/GetAd.aspx^
 ||ads.gamemeca.com^
@@ -279,7 +277,6 @@
 ||humor.hani.co.kr/common/banner.html^
 ||hungryapp.co.kr/banner/banner_*.php^
 ||ichannela.com/ch/*adpost*
-||iicdn.com/www/delivery/afr.php^
 ||ilbe.com/layouts/elkha_ilbe/js/board_top.js^
 ||ilbe.com/layouts/elkha_ilbe/js/new_comment.js^
 ||ilbe.com/layouts/elkha_ilbe/js/new_sky.js^
