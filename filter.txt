@@ -424,6 +424,7 @@
 ||performix.co.kr/cgi-bin/conad.fcgi/
 ||plugin.2beon.co.kr^
 ||ppomppu.co.kr/banner/
+||pressmarket.co.kr/ShareMaxBanner.php
 ||prism.pandora.tv^
 ||provider.hiadone.com/cgi-bin/conad_hi.fcgi/
 ||pub.adpnut.com^
