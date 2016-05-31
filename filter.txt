@@ -963,6 +963,7 @@ m.dcinside.com###div_adnmore_area
 m.dcinside.com###lguplus_ad_banner
 m.dcinside.com###mmaDisplay
 m.dcinside.com##div[data-adam-elem="banner_wrapper"]
+m.dt.co.kr###nav2 > NAV > DIV[style$="270px;"]
 m.esports.dailygame.co.kr##div.banner-wrap
 m.etnews.com##.brickHouse + SECTION[style]
 m.etnews.com##.clfix + DIV[style$=":100%"]
