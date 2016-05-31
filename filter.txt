@@ -311,6 +311,7 @@
 ||inven.co.kr/common/lib/js/ad.slot.js^
 ||inven.co.kr/common/lib/js/adns.js^
 ||jboa24.com?u^
+||jjan.kr/popupManager*/js/
 ||jjanglive.com/flash/AdShowClient.swf^
 ||jjanglive.com/flash/webClient.swf^
 ||joinsmsn.com/_ui/ad/
@@ -896,6 +897,7 @@ isplus.joinsmsn.com###topTextAd
 isplus.joinsmsn.com##div[class^="biz_link_area"]
 isplus.joinsmsn.com##div[class^="sponsor_link_area"]
 ittoday.co.kr##dl[class$="top-banner"]
+jjan.kr###livereContentsContainer ~ TABLE
 jobplanet.co.kr###prism_displayAD
 joins.com###divArticleAdnetworkBanner
 joins.com###gnb_banner
@@ -1673,7 +1675,7 @@ baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#var fuckAdBlock = false
 ruinses.tistory.com#%#Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } }); 
 !----- disable auto scroll --------------------------
-nextdaily.co.kr,rpm9.com$$script[type="text/javascript"][tag-content="scrollTop: position"]
+jjan.kr,nextdaily.co.kr,rpm9.com$$script[type="text/javascript"][tag-content="scrollTop: position"]
 !----- context menu enablers ------------------------
 snulife.com,tistory.com$$script[tag-content="document.oncontextmenu"]
 snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
