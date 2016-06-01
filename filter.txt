@@ -1524,6 +1524,7 @@ wowtv.co.kr##div[class^="common_AD"]
 xportsnews.hankyung.com##div.btn_event
 xportsnews.hankyung.com##div[class^="adBox"]
 xportsnews.hankyung.com##iframe[id^="google_ads"]
+yes24.com##.yPartnerPop
 yonhapnews.co.kr##div.aside-banner
 yonhapnews.co.kr##div.aside-top-banner
 yonhapnews.co.kr##div.goolge-banner
@@ -1641,6 +1642,8 @@ zdnet.com##section.mpu
 ||vlog.heraldcorp.com/tracker
 ||weblog.greendaily.co.kr^
 ||weblog.meganews.co.kr/wlo/Logging?
+||yes24.com//javascript/wlo.js
+||yes24.com/wlo/*Logging?
 !----------------------------------------------------!
 !------ CSS rules -----------------------------------!
 !----------------------------------------------------!
