@@ -548,16 +548,17 @@
 ##div.ezAdsense
 ##div.gpt_ad_container
 ##div[id^="sbaAbout"]
+##ins.daum_ddn_area
+!----- Common iframes (dinamically generated) -----
 ##iframe[id^="nad_"]
 ##iframe[name="ifrad"]
 ##iframe[src^="http://ad1.eventmanager.co.kr/"]
 ##iframe[src^="http://adc.ohmynews.com/NetInsight/"]
+##iframe[src^="http://ads-optima.com/www/delivery/afr.php"]
 ##iframe[src^="http://ads.ecoadproject.co.kr/"]
 ##iframe[src^="http://cadvv.heraldm.com/nbiz/"]
 ##iframe[src^="http://cpv.ad.naver.com/adshow"]
 ##iframe[src^="http://dgate.joins.com/hc.aspx"]
-##iframe[src^="http://www.ad-playstore.com/"]
-##ins.daum_ddn_area
 !----------------------------------------------------!
 !------ Domain-Specific hiding rules ----------------!
 !----------------------------------------------------!
