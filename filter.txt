@@ -1603,6 +1603,7 @@ zdnet.com##section.mpu
 ||las.danawa.com/log/logging.json
 ||static.danawa.com/info/js/adweb_counter_danawa.min.js
 !----- Miscellaneous -----------
+||121.78.247.110/$empty
 ||121.78.90.104:8383/pv?
 ||14.63.228.14/log.js
 ||analysis.afreecatv.com^
@@ -1678,6 +1679,6 @@ snulife.com,m.etnews.com#$#*:not(input):not(textarea){ -webkit-touch-callout: au
 !----------------------------------------------------!
 ||counter.adguard.com
 ! Misc trackers
-||pipe.aria.microsoft.com/Collector/$empty
+||pipe.aria.microsoft.com/$empty
 ||visualstudio.com/v*/track$empty
 ||play.googleapis.com/log$empty
