@@ -713,9 +713,7 @@ economy.hankooki.com##div[class^="ad_line"]
 economy.hankooki.com##div[id^="ad2LineText"]
 economy.hankooki.com##span#AD_GISA_PHOTO_LINE
 economy.hankooki.com##span#AD_GISA_TEXT_LINE
-econovill.com##td#articleBody>div[style="float:right; margin-left: 10px; margin-bottom: 5px;"]
-econovill.com##ul#floating_banner_left
-econovill.com##ul#floating_banner_right
+econovill.com##TR > TD > DIV > DIV[style*="height:250px"]
 edaily.co.kr##div.topbanner
 edaily.co.kr##div[class^="viewcontent_ad"]
 edaily.co.kr##iframe[src^="/adview/"]
@@ -1614,7 +1612,7 @@ zdnet.com##section.mpu
 ||cloudfront.net$domain=inews24.com
 ||collector*.afreecatv.com/$empty
 ||counter*joins.com/bin/
-||dable.io/logs^$third-party
+||dable.io/logs^
 ||geolook.tvchosun.com:8888
 ||googletagservices.com/tag/$domain=inews24.com
 ||heraldcorp.com/tracker^$third-party
