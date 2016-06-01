@@ -183,6 +183,7 @@
 ||asiae.co.kr/news/include/real_ad/
 ||asiae.co.kr/news/include/view_ad/
 ||ask.nate.com/iframe/sponsor.html^
+||astg.widerplanet.com^
 ||auction.co.kr/mail/mailcounter.html^
 ||auction.co.kr/wlas_code.html^
 ||bayabar.com/adworking/
@@ -448,6 +449,7 @@
 ||sgate.opap.co.kr/view/
 ||shop.nate.com/shopbox/news.htm^
 ||shoppingbox.joinsmsn.com^
+||showget.co.kr/*.php?
 ||smartposting.net/keyword/api/
 ||sndkorea.nowcdn.co.kr/emart/
 ||sndkorea.nowcdn.co.kr/media/
@@ -1612,7 +1614,9 @@ zdnet.com##section.mpu
 ||cloudfront.net$domain=inews24.com
 ||collector*.afreecatv.com/$empty
 ||counter*joins.com/bin/
+||countory.com/counterService/serviceAPI.asp?
 ||dable.io/logs^
+||dmcf1.com^$third-party
 ||geolook.tvchosun.com:8888
 ||googletagservices.com/tag/$domain=inews24.com
 ||heraldcorp.com/tracker^$third-party
@@ -1620,6 +1624,8 @@ zdnet.com##section.mpu
 ||humoruniv.com/cpuid
 ||humoruniv.com/images/null.gif
 ||humoruniv.com/pv^
+||krtarget.co.kr/tracker/
+||livelog.co.kr/js/*.php?
 ||log.2beon.co.kr^
 ||log.news.joins.com^
 ||log-aggregator.vcnc.co.kr^
@@ -1627,6 +1633,7 @@ zdnet.com##section.mpu
 ||mywebtrends.co.kr^$third-party
 ||nextdaily.co.kr/tools/article_count*.html
 ||recobell.io/rest/log^
+||recopick.com^$third-party
 ||tracking.adweb.co.kr/tracking^
 ||tvchosun.com/front/js/tvchosun.js
 ||tvchosun.com/js/daumview.js
