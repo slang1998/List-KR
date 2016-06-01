@@ -625,13 +625,8 @@ bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net##div.side_bnr
 bgmstore.net##div.adBox
 biz.chosun.com###ad1
 biz.chosun.com###ad2
-biz.chosun.com###Google
+biz.chosun.com###CENTER_340_ad
 biz.chosun.com###TopBanner
-biz.chosun.com###left_AD2011
-biz.chosun.com###right_AD2011
-biz.chosun.com##div.h_banner
-biz.chosun.com##div[id^="realclick"]
-biz.chosun.com##div[style="margin:0px 0 0px 0px;width:100%; text-align:center;"]
 biz.chosun.com##div[style="padding:20px 0 0 0; width:298px;text-align:center;"]
 biz.heraldcorp.com,news.heraldcorp.com###HB_COMMOM_TOPINT001
 biz.heraldcorp.com,news.heraldcorp.com###HB_LEFTSLIDER001
@@ -1609,6 +1604,7 @@ zdnet.com##section.mpu
 ||static.danawa.com/info/js/adweb_counter_danawa.min.js
 !----- Miscellaneous -----------
 ||121.78.90.104:8383/pv?
+||14.63.228.14/log.js
 ||analysis.afreecatv.com^
 ||analytics.bandi.so^
 ||analytics-event.kakao.com^$empty
