@@ -292,6 +292,7 @@
 ||img.appstory.co.kr/@files/human_banner/
 ||img.asiatoday.co.kr/adver/
 ||img.dt.co.kr/unse/
+||img.newspim.com/banner/$image
 ||img.sbs.co.kr/news/ad/delay_redirect_mobile.html^
 ||img.soramall.kr/banner/$image
 ||img.zzamtoon.com/upload/banner$third-party,image
@@ -395,6 +396,7 @@
 ||news.sportsseoul.com/public_new4/ad/
 ||news1.kr/iframe/ad/
 ||newscomm.nate.com/Etc/SocialAD^
+||newspim.com/js/bizspring.js
 ||newswave.kr/ad/
 ||newsway.kr/ad/
 ||newsway.kr/banner/banner_110323.html^
@@ -1274,13 +1276,8 @@ newshankuk.com##div.bannerBottomR
 newshankuk.com##div.bannerTopR
 newsis.com###div_ad1
 newsis.com###div_ad2
-newspim.com##body>div[style="position:absolute; top:170px; z-index:1000; margin-left:500px; left:50%;"]
-newspim.com##body>div[style="position:absolute; top:180px; z-index:1000; margin-left:-620px; left:50%;"]
-newspim.com##body>div[style="position:absolute; top:780px; z-index:1000; margin-left:500px; left:50%;"]
-newspim.com##body>div[style="width:120px; height:600px;position:absolute; top:790px; z-index:1000; margin-left:-620px; left:50%;"]
-newspim.com###newscenter_wrap2>div[style="width:300px; height:250px; margin-left:25px; float:left;"]
-newspim.com###newscenter_wrap2>div[style="width:300px; height:250px; margin-right:25px; float:right;"]
-newspim.com###topview_allwrap>div[style="text-align:center; float:left; width:100%;"]
+newspim.com##.bodynews > DIV[style^="width:455px;"]
+newspim.com##.side_wrap > DIV[style^="height:300px"]
 newsway.kr###float_1002
 newsway.kr###google_banner
 newsway.kr##div[id^="NMN_BANNER_WIDGET_"]
@@ -1603,6 +1600,7 @@ zdnet.com##section.mpu
 ||las.danawa.com/log/logging.json
 ||static.danawa.com/info/js/adweb_counter_danawa.min.js
 !----- Miscellaneous -----------
+||121.254.169.8^$third-party
 ||121.78.247.110/$empty
 ||121.78.90.104:8383/pv?
 ||14.63.228.14/log.js
