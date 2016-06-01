@@ -1092,7 +1092,8 @@ mbn.mk.co.kr##div.ad1
 mbn.mk.co.kr##div.relation_ad
 media.daum.net###banner250
 media.daum.net###daum-ad-root
-media.daum.net##iframe#daum-ad-root-ifrm
+media.daum.net###daum-ad-root-ifrm
+media.daum.net###EXTENSIBLE_WING_WRAP
 mediatoday.co.kr###adbnFloating
 mediatoday.co.kr##iframe[src*="/adItem/"]
 mediaus.co.kr##div[style="position:relative;width:250px;height:139px;overflow:hidden;"]
