@@ -477,6 +477,7 @@
 ||sports.hankooki.com/ad/
 ||srv.bebi.com/public/js/bebi_v1.js^
 ||st.keywordsconnect.com^
+||static.instiz.net/images/bg_capture.png
 ||static.joins.com/isplus/ui/ad/
 ||static.joinsmsn.com/common/ui/ad/
 ||sunnyworks.co.kr/data/SW*.html^
