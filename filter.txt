@@ -168,6 +168,7 @@
 ||adx.naonmedia.net/adx/
 ||adx.turl.co.kr/toast.wif^
 ||adx-exchange.toast.com/*pub_code=$third-party
+||adxv.zum.com^
 ||agate.opap.co.kr/html/
 ||alea.adam.ad.daum.net/mobilead^
 ||alea.adam.daum.net/imp
@@ -731,6 +732,7 @@ econovill.com##TR > TD > DIV > DIV[style*="height:250px"]
 edaily.co.kr##div.topbanner
 edaily.co.kr##div[class^="viewcontent_ad"]
 edaily.co.kr##iframe[src^="/adview/"]
+egloos.com##DIV[class^="main_banner_wrap"]
 ent.joseilbo.com##div.adplus_banner
 ent.joseilbo.com##div.news_txt_banner
 ent.joseilbo.com##div.read_banner
@@ -1629,6 +1631,7 @@ zdnet.com##section.mpu
 ||countory.com/counterService/serviceAPI.asp?
 ||dable.io/logs^
 ||dmcf1.com^$third-party
+||estat.zum.com^
 ||geolook.tvchosun.com:8888
 ||googletagservices.com/tag/$domain=inews24.com
 ||heraldcorp.com/tracker^$third-party
@@ -1646,6 +1649,7 @@ zdnet.com##section.mpu
 ||nextdaily.co.kr/tools/article_count*.html
 ||recobell.io/rest/log^
 ||recopick.com^$third-party
+||statweb.egloos.com^
 ||tracking.adweb.co.kr/tracking^
 ||tvchosun.com/front/js/tvchosun.js
 ||tvchosun.com/js/daumview.js
