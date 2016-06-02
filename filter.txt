@@ -42,6 +42,7 @@
 ||ad*.inews24.com^
 ||ad*.netshelter.net/adj/
 ||ad-first.co.kr^$third-party
+||ad.ad-ya.net^
 ||ad.adinc.kr^
 ||ad.adkova.com/media/
 ||ad.adlike.co.kr^
