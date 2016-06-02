@@ -1588,7 +1588,6 @@ zdnet.com##section.mpu
 ! Section contains list of urls spying over user's information
 !
 !----- naver.com ---------------
-||cc.naver.com/cc^
 ||l.m.naver.
 ||lcs.naver.
 ||lcs.naver.com/m^$domain=naver.com
