@@ -1010,6 +1010,8 @@ m.kmib.co.kr##div.dw_cnt>div.ban
 m.kmib.co.kr##div.kmib_txbnr
 m.kmib.co.kr##div.tp_cnt>div[style="margin:0 auto;text-align:center;overflow:hidden;padding:10px 0;border-bottom:1px solid #ebebeb;"]
 m.kmib.co.kr##div.vw_txad
+m.media.daum.net###daumAd
+m.media.daum.net##.bnr_service
 m.mydaily.co.kr##body>div>div[style="background:#fff; padding-top:10px; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; margin:10px 0"]
 m.mydaily.co.kr##body>div>div[style="border-bottom:1px dashed #ccc; padding:10px;"]
 m.mydaily.co.kr##body>div[align="center"][style="background:#fff; padding-top:10px; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; margin:10px 0;"]
