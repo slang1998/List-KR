@@ -175,6 +175,8 @@
 ||allsee.co.kr/js/allsee_banner.js$third-party
 ||ams.rmcnmv.naver.com/item/create/*?ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||amsv2.daum.net/ad/
+||anewsa.com/_ad/real/
+||anewsa.com/img/mainBanner
 ||api.wiseclick.co.kr/api/web_directad/
 ||applead.co.kr^$third-party
 ||as.dc.impact-ad.jp^
@@ -563,6 +565,13 @@
 !------ Domain-Specific hiding rules ----------------!
 !----------------------------------------------------!
 albamon.com###subtopAd
+anewsa.com###contents_body > DIV[style$="330px;"]
+anewsa.com###ir_bnr2 + DIV[style$="x;"]
+anewsa.com##.sub_top_banner
+anewsa.com##.viewAddW
+anewsa.com##DIV[id^="ir_bnr"]
+anewsa.com##DIV[id^="subBanner"]
+anewsa.com##DIV[itemprop="articleBody"] > DIV > DIV[style^="padding:0"]
 api.dable.io##div.item-sp
 api.dable.io##td.item-sp
 artsnews.mk.co.kr###IDFloatingNZ99
@@ -1651,6 +1660,7 @@ zdnet.com##section.mpu
 !
 ! Section contains list of CSS injection rules to remove ads or to correct page layout
 !
+anewsa.com#$##mainSec0405 { margin-top: initial!important; }
 i.orbi.kr#$#.crewbi_ootd { background:none!important; }
 m.inven.co.kr#$##mainSlider { padding-bottom: initial!important; }
 metroseoul.co.kr#$#.viewMarginLeft { margin-left: initial!important; }
@@ -1673,7 +1683,7 @@ baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#var fuckAdBlock = false
 ruinses.tistory.com#%#Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } }); 
 !----- disable auto scroll --------------------------
-jjan.kr,nextdaily.co.kr,rpm9.com$$script[type="text/javascript"][tag-content="scrollTop: position"]
+anews.com,jjan.kr,nextdaily.co.kr,rpm9.com$$script[type="text/javascript"][tag-content="scrollTop: position"]
 !----- context menu enablers ------------------------
 snulife.com,tistory.com$$script[tag-content="document.oncontextmenu"]
 snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
