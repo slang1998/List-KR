@@ -1647,6 +1647,7 @@ zdnet.com##section.mpu
 ||log.2beon.co.kr^
 ||log.news.joins.com^
 ||log-aggregator.vcnc.co.kr^
+||logapi.tvcast.naver.com/api/
 ||logger.tvchosun.com:8000/InsightTrk/
 ||mywebtrends.co.kr^$third-party
 ||nextdaily.co.kr/tools/article_count*.html
