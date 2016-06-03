@@ -1343,6 +1343,9 @@ pann.nate.com###psypannAd
 pann.nate.com##div.sidebar.ad
 pann.nate.com##div.sidebar_banner
 pann.nate.com##div.view_banner
+phpschool.com##.banner_title
+phpschool.com##.main_job
+phpschool.com##.right_banner
 ppomppu.co.kr###emart_banner
 ppomppu.co.kr###search_bbsList + DIV
 ppomppu.co.kr###shoppingbox
@@ -1674,6 +1677,7 @@ m.inven.co.kr#$##mainSlider { padding-bottom: initial!important; }
 metroseoul.co.kr#$#.viewMarginLeft { margin-left: initial!important; }
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
 orbi.kr#$##mainPremiumContainer { height: 306px!important; }
+phpschool.com#$##main_banner { border : 1px solid rgba(0,0,0,0)!important; background-color: transparent!important; }
 vod.tvchosun.com#$#.areaTop> div.vod_left.add { padding: 10px 29px 0 10px!important; }
 wikitree.co.kr#$#.middle > DIV.logo { position:absolute!important; left: 362px!important; width: auto!important; }
 www.daum.net#$#.cont_sub, .article_daum { display: initial!important; }
