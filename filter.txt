@@ -1635,7 +1635,7 @@ zdnet.com##section.mpu
 ||at.mklaud.com/at/at_log*.php^
 ||chosun.com/dhtm/js/common/collecter.js
 ||cloudfront.net$domain=inews24.com
-||collector*.afreecatv.com/$empty
+||collector*.afreecatv.com/gather$empty
 ||counter*joins.com/bin/
 ||countory.com/counterService/serviceAPI.asp?
 ||dable.io/logs^
