@@ -136,6 +136,7 @@
 ||adnmore.co.kr^$third-party
 ||adop.kr^$third-party
 ||adotsolution.com^$third-party
+||adp.adpies.com/adp/$empty
 ||adpingpong1.co.kr^
 ||adpnut.com^$third-party
 ||ads-by.yieldselect.com^
@@ -342,6 +343,7 @@
 ||m.news1.kr/ads/
 ||m.ytn.co.kr/ad/ad_*.html^
 ||m1.daumcdn.net/adtc/js/mobilead.js^
+||mat.adpies.com/mat/$empty
 ||maxmovie.com/banner/img/lotte630x88.jpg^
 ||mbn.mk.co.kr/pages/ad/
 ||mediamixad.com/ad/liveAd^
@@ -441,6 +443,7 @@
 ||res.heraldm.com/iframe/
 ||res.heraldm.com/js/ad/
 ||reviewstar.hankooki.com/ad/
+||rsc.adpies.com/js/
 ||s.pubmine.com/adj/
 ||s*.algovid.com/player/gpv^
 ||scr.nsmartad.com/admixer/admixer.js^
@@ -1343,6 +1346,9 @@ pann.nate.com###psypannAd
 pann.nate.com##div.sidebar.ad
 pann.nate.com##div.sidebar_banner
 pann.nate.com##div.view_banner
+phpschool.com##.banner_title
+phpschool.com##.main_job
+phpschool.com##.right_banner
 ppomppu.co.kr###emart_banner
 ppomppu.co.kr###search_bbsList + DIV
 ppomppu.co.kr###shoppingbox
@@ -1629,7 +1635,7 @@ zdnet.com##section.mpu
 ||at.mklaud.com/at/at_log*.php^
 ||chosun.com/dhtm/js/common/collecter.js
 ||cloudfront.net$domain=inews24.com
-||collector*.afreecatv.com/$empty
+||collector*.afreecatv.com/gather$empty
 ||counter*joins.com/bin/
 ||countory.com/counterService/serviceAPI.asp?
 ||dable.io/logs^
@@ -1647,6 +1653,7 @@ zdnet.com##section.mpu
 ||log.2beon.co.kr^
 ||log.news.joins.com^
 ||log-aggregator.vcnc.co.kr^
+||logapi.tvcast.naver.com/api/
 ||logger.tvchosun.com:8000/InsightTrk/
 ||mywebtrends.co.kr^$third-party
 ||nextdaily.co.kr/tools/article_count*.html
@@ -1673,6 +1680,7 @@ m.inven.co.kr#$##mainSlider { padding-bottom: initial!important; }
 metroseoul.co.kr#$#.viewMarginLeft { margin-left: initial!important; }
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
 orbi.kr#$##mainPremiumContainer { height: 306px!important; }
+phpschool.com#$##main_banner { border : 1px solid rgba(0,0,0,0)!important; background-color: transparent!important; }
 vod.tvchosun.com#$#.areaTop> div.vod_left.add { padding: 10px 29px 0 10px!important; }
 wikitree.co.kr#$#.middle > DIV.logo { position:absolute!important; left: 362px!important; width: auto!important; }
 www.daum.net#$#.cont_sub, .article_daum { display: initial!important; }
