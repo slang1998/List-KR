@@ -136,6 +136,7 @@
 ||adnmore.co.kr^$third-party
 ||adop.kr^$third-party
 ||adotsolution.com^$third-party
+||adp.adpies.com/adp/$empty
 ||adpingpong1.co.kr^
 ||adpnut.com^$third-party
 ||ads-by.yieldselect.com^
@@ -342,6 +343,7 @@
 ||m.news1.kr/ads/
 ||m.ytn.co.kr/ad/ad_*.html^
 ||m1.daumcdn.net/adtc/js/mobilead.js^
+||mat.adpies.com/mat/$empty
 ||maxmovie.com/banner/img/lotte630x88.jpg^
 ||mbn.mk.co.kr/pages/ad/
 ||mediamixad.com/ad/liveAd^
@@ -441,6 +443,7 @@
 ||res.heraldm.com/iframe/
 ||res.heraldm.com/js/ad/
 ||reviewstar.hankooki.com/ad/
+||rsc.adpies.com/js/
 ||s.pubmine.com/adj/
 ||s*.algovid.com/player/gpv^
 ||scr.nsmartad.com/admixer/admixer.js^
