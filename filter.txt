@@ -1648,6 +1648,7 @@ zdnet.com##section.mpu
 ||humoruniv.com/cpuid
 ||humoruniv.com/images/null.gif
 ||humoruniv.com/pv^
+||ilbe.com/layouts/elkha_ilbe/js/ilbe_analytics.js
 ||krtarget.co.kr/tracker/
 ||livelog.co.kr/js/*.php?
 ||log.2beon.co.kr^
