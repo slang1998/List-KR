@@ -360,6 +360,7 @@
 ||miz-diet.co.kr/cnb.html^
 ||miz-diet.co.kr/jose.html^
 ||miz-diet.co.kr/view*.html^
+||mk.co.kr/index_ad.mk^
 ||mktag.mt.co.kr/code.ems/
 ||mktag.mt.co.kr/event.ems/
 ||mobi.luxad.kr/ad/
@@ -424,6 +425,7 @@
 ||p.jwpcdn.com/*/vast.js^
 ||p.lumieyes.com^
 ||performix.co.kr/cgi-bin/conad.fcgi/
+||popin.cc^$third-party 
 ||plugin.2beon.co.kr^
 ||ppomppu.co.kr/banner/
 ||pressmarket.co.kr/ShareMaxBanner.php
@@ -1017,6 +1019,7 @@ m.kmib.co.kr##div.tp_cnt>div[style="margin:0 auto;text-align:center;overflow:hid
 m.kmib.co.kr##div.vw_txad
 m.media.daum.net###daumAd
 m.media.daum.net##.bnr_service
+m.mk.co.kr##DIV[id^="mainAdSlot"]
 m.mydaily.co.kr##body>div>div[style="background:#fff; padding-top:10px; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; margin:10px 0"]
 m.mydaily.co.kr##body>div>div[style="border-bottom:1px dashed #ccc; padding:10px;"]
 m.mydaily.co.kr##body>div[align="center"][style="background:#fff; padding-top:10px; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; margin:10px 0;"]
