@@ -1628,6 +1628,7 @@ zdnet.com##section.mpu
 ||121.78.90.104:8383/pv?
 ||14.63.228.14/log.js
 ||183.111.148.37/$empty
+||ad*-kant.kakao.com/web/track.gif?
 ||analysis.afreecatv.com^
 ||analytics.bandi.so^
 ||analytics-event.kakao.com^$empty
