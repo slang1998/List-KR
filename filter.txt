@@ -1020,6 +1020,8 @@ m.kmib.co.kr##div.vw_txad
 m.media.daum.net###daumAd
 m.media.daum.net##.bnr_service
 m.mk.co.kr##DIV[id^="mainAdSlot"]
+m.mk.co.kr##.new_ad
+m.mk.co.kr##.new_ad2
 m.mydaily.co.kr##body>div>div[style="background:#fff; padding-top:10px; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; margin:10px 0"]
 m.mydaily.co.kr##body>div>div[style="border-bottom:1px dashed #ccc; padding:10px;"]
 m.mydaily.co.kr##body>div[align="center"][style="background:#fff; padding-top:10px; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; margin:10px 0;"]
