@@ -1311,10 +1311,11 @@ nocutnews.co.kr##div.ad_view
 nocutnews.co.kr##div.head_adl
 nocutnews.co.kr##div.head_adr2
 nocutnews.co.kr##div.view_ban
-nownews.seoul.co.kr###articleContent>table[width="250px"][height="250px"]
+nownews.seoul.co.kr##.cnt_footer + p[style] 
+nownews.seoul.co.kr##.newest + p[style]
 nownews.seoul.co.kr##div.Rad
 nownews.seoul.co.kr##div[style="float:left; width:675px; height:154px;"]
-nownews.seoul.co.kr##iframe#ifrm_photolink
+nownews.seoul.co.kr##DIV[style^="clear:both"] + p[style]
 nyaa.se###main>div[style="float:left;margin-bottom:6px;"]
 nyaa.se###main>div[style="float:left;width:100%;"]
 nyaa.se###main>div[style="float:right;margin-top:4px;width:12%;"]
@@ -1376,22 +1377,21 @@ segye.com##div[id^="ClickStory_ViewAD"]
 segye.com##div[id^="ClickStory_ViewRightAD"]
 segye.com##ul.hotnewsAD
 seiyon.net###desktop-container > .index_row:nth-child(2)
+seoul.co.kr###articleContent>table[width^="250"][height^="250"]
 seoul.co.kr###CLink
 seoul.co.kr###criteo_div
 seoul.co.kr###eMartDiv
 seoul.co.kr###seoulAdTable
+seoul.co.kr###withpang_p 
+seoul.co.kr##a[href="http://empire.seoul.co.kr"]
+seoul.co.kr##DIV[style*="320px"][style*="250px"]
 seoul.co.kr##div.aside>div[style="margin-bottom:20px"]
 seoul.co.kr##div.atic_banner
 seoul.co.kr##div.atic_cnt>div[style="clear:both;width:545px;float:right;margin-top:10px;"]
 seoul.co.kr##div.atic_cnt>div[style="float:right;margin-bottom:20px;"]
 seoul.co.kr##div.atic_cnt>div[style="margin-bottom:20px;float:right;"]
-seoul.co.kr##div.cnt_footer
 seoul.co.kr##div.content>table[style="margin-top:10px;"]
 seoul.co.kr##div.hed_ad
-seoul.co.kr##iframe#InbnetInspaceAdFrame
-seoul.co.kr##iframe#iwm_expand_iframe
-seoul.co.kr##iframe[src^="/ad/"]
-seoul.co.kr##iframe[src^="/news/datawaveAD.php"]
 sisainlive.com###TopBanners2
 sisainlive.com###layerBanner
 sisainlive.com##td#articleBody>table[align="right"][width="320"][height="265"]
@@ -1659,6 +1659,7 @@ zdnet.com##section.mpu
 ||nextdaily.co.kr/tools/article_count*.html
 ||recobell.io/rest/log^
 ||recopick.com^$third-party
+||seoul.co.kr/weblog^
 ||statweb.egloos.com^
 ||tracking.adweb.co.kr/tracking^
 ||tvchosun.com/front/js/tvchosun.js
@@ -1668,6 +1669,7 @@ zdnet.com##section.mpu
 ||weblog.meganews.co.kr/wlo/Logging?
 ||yes24.com//javascript/wlo.js
 ||yes24.com/wlo/*Logging?
+||z.o00.kr^
 !----------------------------------------------------!
 !------ CSS rules -----------------------------------!
 !----------------------------------------------------!
