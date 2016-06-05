@@ -987,6 +987,7 @@ m.etnews.com##.clfix + DIV[style$=":100%"]
 m.focus.kr###article_Content>div[style="margin-top:20px;"]
 m.focus.kr###article_Contet > DIV[style*="height:"]
 m.focus.kr##.inner_article_banner
+m.focus.kr##.left_wrapper > DIV[style*="height:70"]
 m.focus.kr##iframe[id^="adv_banner"]
 m.game.xportsnews.com##.in_200_200
 m.gamechosun.co.kr##div.ad_com_bener
