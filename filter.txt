@@ -1024,6 +1024,7 @@ m.khan.co.kr##div.ad_thumb_btm
 m.khan.co.kr##div.contBn
 m.khan.co.kr##div.contBn_foot
 m.kmib.co.kr##.ftbnr_margin
+m.kmib.co.kr##.tp_cnt>div[style*="padding:10px"]:first-child
 m.kmib.co.kr##body>div[style="wdith:100%;height:50px;"]
 m.kmib.co.kr##DIV[class^="bnr_cmain"]
 m.kmib.co.kr##div.css_remon_wiki1
