@@ -999,8 +999,8 @@ m.hankooki.com##div[class^="ads_"]
 m.huffpost.com##div.advertisement.mobileweb_article_bottom_refresh div.trc_rbox_container div.trc_rbox_outer div.syndicatedItem
 m.huffpost.com##div.advertisement.mobileweb_taboola
 m.huffpost.com##div.advertisement.mobileweb_top
-m.humoruniv.com##DIV[style$="#38B5D5;"]
 m.humoruniv.com###about_ad
+m.humoruniv.com###ad_320x50
 m.humoruniv.com###cauly_ad
 m.humoruniv.com###cauly_nad_list
 m.humoruniv.com###cauly_nad
