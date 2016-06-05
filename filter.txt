@@ -201,13 +201,20 @@
 ||bloter.net/wp-admin/admin-ajax.php
 !----------------------- reviewed up to here -------------------------------------
 ||bohumlife.edaily.co.kr/iframe_starin.html^
+||bridgelab.co.kr^$third-party
+||bringback.co.kr^$third-party
+||busan.com/bizspring/
+||busan.com/images/sub_banner/
+||busan.com/w2010/$subdocument
 ||c.betrad.com/surly.js^
 ||cad.donga.com/netBanners/
 ||cadvv.heraldm.com/hb/imad/
 ||candy.ad9.kr^
 ||care-health.co.kr^
+||cast.wowtv.co.kr/xml_imad.html
+||cast.wowtv.co.kr/xml_imadrep_right.html
 ||castbox.shopping.naver.com/index.nhn^
-||cdn.carbonads.com/carbon.js^
+||cdn.pandora.tv/_adv_img/
 ||cdn03.sndkorea.co.kr^
 ||cdn04.sndkorea.co.kr^
 ||celeb.nann.co.kr^
@@ -265,6 +272,8 @@
 ||file.thisisgame.com/inc/PBPage*.js^
 ||fnnews.com/control^
 ||fnnews.com/include2011/section/google.jsp^
+||focus.kr/_lib/_counter_check*.php^
+||focus.kr/images/banner/$image
 ||fs.jtbc.co.kr/common/ui/ad/
 ||fs.jtbc.joins.com/common/ui/ad/
 ||fun-adstore.co.kr/ad/
@@ -297,6 +306,7 @@
 ||img.appstory.co.kr/@files/human_banner/
 ||img.asiatoday.co.kr/adver/
 ||img.dt.co.kr/unse/
+||img.focus.kr/mnt/webdata/banner/$image
 ||img.newspim.com/banner/$image
 ||img.sbs.co.kr/news/ad/delay_redirect_mobile.html^
 ||img.soramall.kr/banner/$image
@@ -975,6 +985,9 @@ m.esports.dailygame.co.kr##div.banner-wrap
 m.etnews.com##.brickHouse + SECTION[style]
 m.etnews.com##.clfix + DIV[style$=":100%"]
 m.focus.kr###article_Content>div[style="margin-top:20px;"]
+m.focus.kr###article_Contet > DIV[style*="height:"]
+m.focus.kr##.inner_article_banner
+m.focus.kr##.left_wrapper > DIV[style*="height:70"]
 m.focus.kr##iframe[id^="adv_banner"]
 m.game.xportsnews.com##.in_200_200
 m.gamechosun.co.kr##div.ad_com_bener
@@ -986,8 +999,8 @@ m.hankooki.com##div[class^="ads_"]
 m.huffpost.com##div.advertisement.mobileweb_article_bottom_refresh div.trc_rbox_container div.trc_rbox_outer div.syndicatedItem
 m.huffpost.com##div.advertisement.mobileweb_taboola
 m.huffpost.com##div.advertisement.mobileweb_top
-m.humoruniv.com##DIV[style$="#38B5D5;"]
 m.humoruniv.com###about_ad
+m.humoruniv.com###ad_320x50
 m.humoruniv.com###cauly_ad
 m.humoruniv.com###cauly_nad_list
 m.humoruniv.com###cauly_nad
@@ -995,6 +1008,7 @@ m.humoruniv.com###cauly_nad2
 m.humoruniv.com###cauly_nad3
 m.humoruniv.com###out_banner
 m.humoruniv.com###uad_iframe
+m.humoruniv.com##TABLE[bgcolor] > tbody > tr > td > DIV[style*="height:50px"]
 m.inews24.com###bn
 m.inews24.com##[style$="#ebebeb;"]
 m.inews24.com##.ad-container
@@ -1010,12 +1024,14 @@ m.khan.co.kr##div.ad_area
 m.khan.co.kr##div.ad_thumb_btm
 m.khan.co.kr##div.contBn
 m.khan.co.kr##div.contBn_foot
+m.kmib.co.kr##.ftbnr_margin
+m.kmib.co.kr##.tp_cnt>div[style*="padding:10px"]:first-child
 m.kmib.co.kr##body>div[style="wdith:100%;height:50px;"]
+m.kmib.co.kr##DIV[class^="bnr_cmain"]
 m.kmib.co.kr##div.css_remon_wiki1
 m.kmib.co.kr##div.dw_cnt>div.ban
 m.kmib.co.kr##div.kmib_txbnr
-m.kmib.co.kr##div.tp_cnt>div[style="margin:0 auto;text-align:center;overflow:hidden;padding:10px 0;border-bottom:1px solid #ebebeb;"]
-m.kmib.co.kr##div.vw_txad
+m.kmib.co.kr##iframe[src^="http://www.dreamsearch.or.kr"]
 m.media.daum.net###daumAd
 m.media.daum.net##.bnr_service
 m.mk.co.kr##DIV[id^="mainAdSlot"]
@@ -1627,6 +1643,8 @@ zdnet.com##section.mpu
 ||las.danawa.com/log/logging.json
 ||static.danawa.com/info/js/adweb_counter_danawa.min.js
 !----- Miscellaneous -----------
+/wlo/Logging^
+/wlo/UserLogging^
 ||121.254.169.8^$third-party
 ||121.78.247.110/$empty
 ||121.78.90.104:8383/pv?
@@ -1663,8 +1681,10 @@ zdnet.com##section.mpu
 ||logger.tvchosun.com:8000/InsightTrk/
 ||mywebtrends.co.kr^$third-party
 ||nextdaily.co.kr/tools/article_count*.html
+||pathfinder.lotte.com^
 ||recobell.io/rest/log^
 ||recopick.com^$third-party
+||saas.recobell.com/srv/*/track/rblog.js^
 ||seoul.co.kr/weblog^
 ||statweb.egloos.com^
 ||tracking.adweb.co.kr/tracking^
@@ -1672,9 +1692,7 @@ zdnet.com##section.mpu
 ||tvchosun.com/js/daumview.js
 ||vlog.heraldcorp.com/tracker
 ||weblog.greendaily.co.kr^
-||weblog.meganews.co.kr/wlo/Logging?
 ||yes24.com//javascript/wlo.js
-||yes24.com/wlo/*Logging?
 ||z.o00.kr^
 !----------------------------------------------------!
 !------ CSS rules -----------------------------------!
