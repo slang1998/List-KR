@@ -201,13 +201,20 @@
 ||bloter.net/wp-admin/admin-ajax.php
 !----------------------- reviewed up to here -------------------------------------
 ||bohumlife.edaily.co.kr/iframe_starin.html^
+||bridgelab.co.kr^$third-party
+||bringback.co.kr^$third-party
+||busan.com/bizspring/
+||busan.com/images/sub_banner/
+||busan.com/w2010/$subdocument
 ||c.betrad.com/surly.js^
 ||cad.donga.com/netBanners/
 ||cadvv.heraldm.com/hb/imad/
 ||candy.ad9.kr^
 ||care-health.co.kr^
+||cast.wowtv.co.kr/xml_imad.html
+||cast.wowtv.co.kr/xml_imadrep_right.html
 ||castbox.shopping.naver.com/index.nhn^
-||cdn.carbonads.com/carbon.js^
+||cdn.pandora.tv/_adv_img/
 ||cdn03.sndkorea.co.kr^
 ||cdn04.sndkorea.co.kr^
 ||celeb.nann.co.kr^
