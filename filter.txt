@@ -688,8 +688,6 @@ bizn.khan.co.kr##div.topright_bn
 blog.naver.com##._adPost
 blog.naver.com##td.adpost_con
 bloter.net##.network-ad__wrapper
-boingboing.net###sidebar>div.ad
-businessweek.com###promo
 clien.net###Recent>div.RecentWrap[style="text-align:center;margin:0 auto;"]
 clien.net##div.aside_sponser
 clien.net##div.board_main div[style="clear:both;width:780px; height:115px; padding:0px; text-align:center;padding-left:5px;"]
@@ -699,7 +697,6 @@ comic.naver.com###adpostArea
 comic.naver.com###webtoon_ad_section
 comic.naver.com##.ads_sc
 consumernews.co.kr##span.brn
-coolsoft.altervista.org##div._pb
 dailian.co.kr##div[class^="banner"]
 dailian.co.kr##iframe[name="adv"]
 daily.hankooki.com###MobileLink
@@ -720,7 +717,6 @@ daum.net##div.ad_rightbtm
 dcinside.com###dgn_content_de>div[style="padding-top: 16px;padding-bottom:30px;text-align: center"]
 ddanzi.com##div.left_banner
 ddanzi.com##div.right_banner
-deviantart.com##div.squareBrowsead
 diodeo.com###newsFloatingBanner
 dkbnews.donga.com###idol_ban
 dt.co.kr###gisa>table
@@ -1292,9 +1288,6 @@ nownews.seoul.co.kr##.newest + p[style]
 nownews.seoul.co.kr##div.Rad
 nownews.seoul.co.kr##div[style="float:left; width:675px; height:154px;"]
 nownews.seoul.co.kr##DIV[style^="clear:both"] + p[style]
-nyaa.se###main>div[style="float:left;margin-bottom:6px;"]
-nyaa.se###main>div[style="float:left;width:100%;"]
-nyaa.se###main>div[style="float:right;margin-top:4px;width:12%;"]
 ohmynews.com##div.ad_area620
 ohmynews.com##div.ad_scroll
 ohmynews.com##div.ad_scroll_rt
