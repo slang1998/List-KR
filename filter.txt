@@ -1634,6 +1634,7 @@ zdnet.com##section.mpu
 ||pathfinder.lotte.com^
 ||recobell.io/rest/log^
 ||recopick.com^$third-party
+||res.heraldm.com/js/logcollectscript_*.js^
 ||saas.recobell.com/srv/*/track/rblog.js^
 ||sc*.cpcguard.com/*.asp
 ||seoul.co.kr/weblog^
