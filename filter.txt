@@ -199,7 +199,6 @@
 ||bizspring.net^$third-party
 ||blog.naver.com/AdPostInjectAsync.nhn
 ||bloter.net/wp-admin/admin-ajax.php
-!----------------------- reviewed up to here -------------------------------------
 ||bohumlife.edaily.co.kr/iframe_starin.html^
 ||bridgelab.co.kr^$third-party
 ||bringback.co.kr^$third-party
@@ -274,6 +273,7 @@
 ||ex.mdtoday.co.kr^
 ||exttag.about.co.kr^$third-party
 ||feeldmc.com^$third-party
+!----------------------- reviewed up to here -------------------------------------
 ||feeltong.hani.co.kr/common/banner.html^
 ||file.osen.co.kr/web2/html/realclick_ad.html^
 ||file.thisisgame.com/inc/PBPage*.js^
