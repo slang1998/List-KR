@@ -199,7 +199,6 @@
 ||bizspring.net^$third-party
 ||blog.naver.com/AdPostInjectAsync.nhn
 ||bloter.net/wp-admin/admin-ajax.php
-!----------------------- reviewed up to here -------------------------------------
 ||bohumlife.edaily.co.kr/iframe_starin.html^
 ||bridgelab.co.kr^$third-party
 ||bringback.co.kr^$third-party
@@ -274,6 +273,7 @@
 ||ex.mdtoday.co.kr^
 ||exttag.about.co.kr^$third-party
 ||feeldmc.com^$third-party
+!----------------------- reviewed up to here -------------------------------------
 ||feeltong.hani.co.kr/common/banner.html^
 ||file.osen.co.kr/web2/html/realclick_ad.html^
 ||file.thisisgame.com/inc/PBPage*.js^
@@ -295,6 +295,7 @@
 ||hankooki.com/common/mobilelink/mobile_hk.htm^
 ||hankooki.com/common/mobilelink/mobile_sk.htm^
 ||hankyung.com/m/inc/fixed_mobile_ad_area_view.html^
+||heraldcorp.com/home/herald_*.html?
 ||humor.hani.co.kr/common/banner.html^
 ||hungryapp.co.kr/banner/banner_*.php^
 ||ichannela.com/ch/*adpost*
@@ -552,6 +553,7 @@
 @@||static.post.naver.net/
 !
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
+@@||betanews.heraldcorp.com/js/ad.js
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
 !-------------------------------------------------------------------------------!
 !------------------ Element hiding rules ---------------------------------------!
@@ -662,6 +664,7 @@ bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net##div.bnr_mobile
 bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net##div.box_banner
 bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net##div.lnb_bnr
 bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net##div.side_bnr
+betanews.heraldcorp.com##iframe[src*="?refData"]
 bgmstore.net##div.adBox
 biz.chosun.com###ad1
 biz.chosun.com###ad2
@@ -1568,6 +1571,7 @@ zdnet.com##section.mpu
 ||wcs.naver.com/m^$domain=naver.com
 !----- naver.com search --------
 ||er.search.naver.com^
+||event.impression-neo.naver.com/api/*/events/naver_search/impression?
 ||mac.search.naver.com^
 ||s.search.naver.com^
 ||sp.naver.com^
@@ -1619,6 +1623,7 @@ zdnet.com##section.mpu
 ||humoruniv.com/images/null.gif
 ||humoruniv.com/pv^
 ||ilbe.com/layouts/elkha_ilbe/js/ilbe_analytics.js
+||js.nx.com/*/da/playlog.*min.js
 ||krtarget.co.kr/tracker/
 ||livelog.co.kr/js/*.php?
 ||log.2beon.co.kr^
@@ -1631,7 +1636,10 @@ zdnet.com##section.mpu
 ||pathfinder.lotte.com^
 ||recobell.io/rest/log^
 ||recopick.com^$third-party
+||res.heraldm.com/js/logcollectscript_*.js^
 ||saas.recobell.com/srv/*/track/rblog.js^
+||sbs.co.kr/log/clip_log.jsp^
+||sbs.co.kr/mod_pagespeed_beacon^
 ||sc*.cpcguard.com/*.asp
 ||seoul.co.kr/weblog^
 ||statweb.egloos.com^
@@ -1672,7 +1680,7 @@ baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#var fuckAdBlock = false
 ruinses.tistory.com#%#Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } }); 
 !----- disable auto scroll --------------------------
-anews.com,jjan.kr,nextdaily.co.kr,rpm9.com$$script[type="text/javascript"][tag-content="scrollTop: position"]
+anews.com,betanews.heraldcorp.com,jjan.kr,nextdaily.co.kr,rpm9.com$$script[type="text/javascript"][tag-content="scrollTop: position"]
 !----- context menu enablers ------------------------
 snulife.com,tistory.com$$script[tag-content="document.oncontextmenu"]
 snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
