@@ -1009,6 +1009,9 @@ m.inews24.com###bn
 m.inews24.com##[style$="#ebebeb;"]
 m.inews24.com##.ad-container
 m.inews24.com##.ad_myadcom
+m.insight.co.kr##.ad-google-0
+m.insight.co.kr##.page-detail-text-ad
+m.insight.co.kr##.page-more-ad
 m.inven.co.kr###boardPart > [style$="50px;"]
 m.inven.co.kr###mobileTailAd_Layer
 m.inven.co.kr###mobileTailAd_LayerDummy
