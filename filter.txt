@@ -1614,6 +1614,7 @@ zdnet.com##section.mpu
 ||diycounter.com/?
 ||dmcf1.com^$third-party
 ||estat.zum.com^
+||event.impression-neo.naver.com/api/*/events/naver_search/impression?
 ||geolook.tvchosun.com:8888
 ||googletagservices.com/tag/$domain=inews24.com
 ||heraldcorp.com/tracker^$third-party
