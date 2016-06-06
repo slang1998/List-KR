@@ -286,6 +286,7 @@
 ||fun-adstore.co.kr/ad/
 ||gaihn.co.kr/eventbanner/
 ||gall.dcinside.com/dc_ad_*_JH.php^
+||gametoc.hankyung.com/banner/*rbanner
 ||get.keywordsconnect.com^
 ||get2.keywordsconnect.com^
 ||gsad.gameshot.net^
@@ -1615,8 +1616,10 @@ zdnet.com##section.mpu
 ||diycounter.com/?
 ||dmcf1.com^$third-party
 ||estat.zum.com^
+||gather.hankyung.com:8003/?
 ||geolook.tvchosun.com:8888
 ||googletagservices.com/tag/$domain=inews24.com
+||hankyung.com*/js/acecounter/
 ||heraldcorp.com/tracker^$third-party
 ||hits.zdnet.co.kr/hits.asp^
 ||humoruniv.com/cpuid
