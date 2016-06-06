@@ -1637,6 +1637,7 @@ zdnet.com##section.mpu
 ||recopick.com^$third-party
 ||res.heraldm.com/js/logcollectscript_*.js^
 ||saas.recobell.com/srv/*/track/rblog.js^
+||sbs.co.kr/mod_pagespeed_beacon^
 ||sc*.cpcguard.com/*.asp
 ||seoul.co.kr/weblog^
 ||statweb.egloos.com^
