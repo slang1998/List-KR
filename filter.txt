@@ -226,6 +226,8 @@
 ||cm.keywordsconnect.com^
 ||cm2.cjmooter.com^
 ||contentlink.co.kr^$third-party
+||contentsbridge.com^$third-party
+||crossmedia.co.kr^$third-party
 ||cwdata.itplay.co.kr/ol/
 ||cwdata.itsearch.co.kr^
 ||cwstatic.heraldm.com/adcont/
@@ -233,9 +235,8 @@
 ||d.a1comm.co.kr^
 ||d1hn8mrtxasu7m.cloudfront.net^
 ||dable.io/*checksum^
-||dailygame.co.kr/ad/dispad_bot.html^
-||dailygame.co.kr/ad/dispad_right.html^
-||dailygame.co.kr/ad/dispad_top.html^
+||dailygame.co.kr/ad/
+||dailymail.kr/data/banner/
 ||dcd.adotsolution.com/dcd/
 ||dgate.*/hc.aspx^
 ||dgate.*/hciw.aspx^
@@ -243,6 +244,7 @@
 ||dlv.hooniad.com^
 ||dn.naver.com/ad3/*.mp4$mp4
 ||dp25.kr^
+||drbig.co.kr^$third-party
 ||dreamsearch.or.kr/ad/
 ||dreamsearch.or.kr/adnet/
 ||dreamsearch.or.kr/servlet/adBanner^
@@ -250,7 +252,10 @@
 ||dreamsearch.or.kr/servlet/adbn*
 ||dreamsearch.or.kr/servlet/iadbn^
 ||dreamsearch.or.kr/servlet/sadbn^
+||ecoadproject.co.kr^$third-party
 ||edaily.co.kr/adview/
+||emforce.co.kr^$third-party
+||emnet.co.kr^$third-party
 ||esports.dailygame.co.kr/comment/ad_realclick.php^
 ||etc.gamechosun.co.kr/banner/
 ||etnews.com/*tools/article_count*.html
@@ -265,8 +270,10 @@
 ||eto.co.kr/adv/
 ||event.liveg.co.kr/banner/$image,third-party
 ||event.mtoon.com/banner/$image,third-party
+||eventmanager.co.kr^$third-party
 ||ex.mdtoday.co.kr^
 ||exttag.about.co.kr^$third-party
+||feeldmc.com^$third-party
 ||feeltong.hani.co.kr/common/banner.html^
 ||file.osen.co.kr/web2/html/realclick_ad.html^
 ||file.thisisgame.com/inc/PBPage*.js^
@@ -1588,6 +1595,7 @@ zdnet.com##section.mpu
 ||121.78.90.104:8383/pv?
 ||14.63.228.14/log.js
 ||183.111.148.37/$empty
+||a*.smlog.co.kr^
 ||ad*-kant.kakao.com/web/track.gif?
 ||analysis.afreecatv.com^
 ||analytics.bandi.so^
@@ -1600,6 +1608,7 @@ zdnet.com##section.mpu
 ||counter*joins.com/bin/
 ||countory.com/counterService/serviceAPI.asp?
 ||dable.io/logs^
+||diycounter.com/?
 ||dmcf1.com^$third-party
 ||estat.zum.com^
 ||geolook.tvchosun.com:8888
@@ -1623,6 +1632,7 @@ zdnet.com##section.mpu
 ||recobell.io/rest/log^
 ||recopick.com^$third-party
 ||saas.recobell.com/srv/*/track/rblog.js^
+||sc*.cpcguard.com/*.asp
 ||seoul.co.kr/weblog^
 ||statweb.egloos.com^
 ||tracking.adweb.co.kr/tracking^
