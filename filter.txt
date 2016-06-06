@@ -970,6 +970,7 @@ m.chosun.com##div.txt_ad_box
 m.comic.naver.com##body > div.viewer.cuttoon > div[class^=ly_dim].on
 m.comic.naver.com##div[class="ly_wrap viewer_da_ly"]
 m.comic.naver.com$$li[tag-content="AD_WEBTOON_MOBILEWEB_UP"][max-length="512"]
+m.comic.sportsseoul.com##.comics > .f9 + DIV[style$="10px;"]
 m.daum.net##.box_bnr
 m.daum.net##.float_acm_banner
 m.dcinside.com###div_adnmore_area
@@ -1059,6 +1060,7 @@ m.nocutnews.co.kr##div.con_b>div.ct_box
 m.ohmynews.com###adDaum
 m.ohmynews.com###adDaum_top
 m.ohmynews.com##div.ad_box_outline
+m.photo.sportsseoul.com###container > DIV[style^="background:"]
 m.ppomppu.co.kr###if_bbs_view_bn
 m.ppomppu.co.kr##.ct + DIV[style^="padding-top"]
 m.ppomppu.co.kr##.menu + DIV[style^="text-align"]
@@ -1081,6 +1083,10 @@ m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;m
 m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;margin-bottom:20px;float:left;"]
 m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;margin-bottom:20px;float:left;overflow-x:hidden;"]
 m.seoul.co.kr##div.react_right_v>div:not([alt]):not([class])[style="width:100%;margin-bottom:20px;float:left;text-align:center;"]
+m.sportsseoul.com###container > DIV[style^="margin-top:5px;"]
+m.sportsseoul.com##[id^="ad_"]
+m.sportsseoul.com###photoINAD_area
+m.sportsseoul.com###wrap > #footer + DIV[style$="4px;"]
 m.star.mt.co.kr##body>div[style="height:80px; background:#424242"]
 m.star.mt.co.kr###ad_lumieyes_new
 m.star.mt.co.kr###ad_sclist
@@ -1654,6 +1660,7 @@ zdnet.com##section.mpu
 ||sbs.co.kr/mod_pagespeed_beacon^
 ||sc*.cpcguard.com/*.asp
 ||seoul.co.kr/weblog^
+||sportsseoul.com/news/site_log/?
 ||statweb.egloos.com^
 ||tracking.adweb.co.kr/tracking^
 ||tvchosun.com/front/js/tvchosun.js
