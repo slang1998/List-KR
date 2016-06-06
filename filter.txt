@@ -1571,6 +1571,7 @@ zdnet.com##section.mpu
 ||wcs.naver.com/m^$domain=naver.com
 !----- naver.com search --------
 ||er.search.naver.com^
+||event.impression-neo.naver.com/api/*/events/naver_search/impression?
 ||mac.search.naver.com^
 ||s.search.naver.com^
 ||sp.naver.com^
@@ -1614,7 +1615,6 @@ zdnet.com##section.mpu
 ||diycounter.com/?
 ||dmcf1.com^$third-party
 ||estat.zum.com^
-||event.impression-neo.naver.com/api/*/events/naver_search/impression?
 ||geolook.tvchosun.com:8888
 ||googletagservices.com/tag/$domain=inews24.com
 ||heraldcorp.com/tracker^$third-party
