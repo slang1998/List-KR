@@ -970,7 +970,8 @@ m.chosun.com##div.txt_ad_box
 m.comic.naver.com##body > div.viewer.cuttoon > div[class^=ly_dim].on
 m.comic.naver.com##div[class="ly_wrap viewer_da_ly"]
 m.comic.naver.com$$li[tag-content="AD_WEBTOON_MOBILEWEB_UP"][max-length="512"]
-m.comic.sportsseoul.com##.comics > .f9 + DIV[style$="10px;"]
+m.comic.sportsseoul.com##.comics > .comicsBox + DIV[style$="0px;"]
+m.comic.sportsseoul.com##.comicsBox > DIV[style^="margin-top"]
 m.daum.net##.box_bnr
 m.daum.net##.float_acm_banner
 m.dcinside.com###div_adnmore_area
