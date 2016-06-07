@@ -884,8 +884,6 @@ inews24.com##DIV[class^="ma_w_"]
 inews24.com##DIV[id^="ma_w_"]
 inews24.com##iframe[src^="/inc/right_file_banner"]
 inews24.com###news_content > DIV[style]
-insight.co.kr##div.masthead-adv
-insight.co.kr##div.specific>div[style="display: inline-block;width: 300px;height: 300px;margin-bottom: 20px;"]
 instiz.net###powerlink
 instiz.net##.board_img_foot
 instiz.net##.imgbox
