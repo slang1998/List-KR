@@ -833,6 +833,7 @@ gigglehd.com###column > DIV:not([style]) > A[href]
 gigglehd.com###column > DIV > DIV > .nw_box
 gigglehd.com###content > DIV > DIV[style*="HEIGHT: 60px;"][style*="WIDTH: 400px;"]
 gigglehd.com##.boardRead + DIV[align="center"]
+gmarket.co.kr##.m_ad
 hani.co.kr###power-link2
 hani.co.kr##div.ttalk150_banner
 hani.co.kr##div[class^="hani-advertise"]
@@ -1628,6 +1629,7 @@ zdnet.com##section.mpu
 ||api.tvple.com/*/stat/send?
 ||at.mklaud.com/at/at_log*.php^
 ||chosun.com/dhtm/js/common/collecter.js
+||clicklog.gmarket.co.kr/click_log/
 ||cloudfront.net$domain=inews24.com
 ||collector*.afreecatv.com/gather$empty
 ||counter*joins.com/bin/
@@ -1664,7 +1666,9 @@ zdnet.com##section.mpu
 ||sbs.co.kr/log/clip_log.jsp^
 ||sbs.co.kr/mod_pagespeed_beacon^
 ||sc*.cpcguard.com/*.asp
+||script.gmarket.co.kr/js/common/pds_gmkt.js^
 ||seoul.co.kr/weblog^
+||sna.gmarket.co.kr^
 ||sportsseoul.com/news/site_log/?
 ||statweb.egloos.com^
 ||tracking.adweb.co.kr/tracking^
