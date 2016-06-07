@@ -318,6 +318,7 @@
 ||img.dt.co.kr/unse/
 ||img.focus.kr/mnt/webdata/banner/$image
 ||img.newspim.com/banner/$image
+||img.ppomppu.co.kr/zboard/*/banner^
 ||img.sbs.co.kr/news/ad/delay_redirect_mobile.html^
 ||img.soramall.kr/banner/$image
 ||img.zzamtoon.com/upload/banner$third-party,image
@@ -1347,6 +1348,7 @@ ppomppu.co.kr##div.ad
 ppomppu.co.kr##div.banner
 ppomppu.co.kr##div.banner_336
 ppomppu.co.kr##div[id^="pp_ban_"]
+ppomppu.co.kr##P[class^="banner_"]
 pressian.com###ad1
 pressian.com##div.c011_arv_event>div[style="padding-bottom:20px;"]
 pressian.com##div.c011_arv_event>div[style="width:336px; height:280px; float:right; margin-bottom:15px;"]
