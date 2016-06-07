@@ -1465,6 +1465,7 @@ tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.ne
 tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net###right
 tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net##div.analytics_google
 tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net###bo_v ~ CENTER
+tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net$$li[tag-content="/img/icon_hot.gif"][max-length="256"]
 torrentstar.net,torrentwaba.net##a[href^="http://partner.zzamtoon.com"]
 tvchosun.com##iframe[src$="front/ad/tc_b.html"]
 tvchosun.com##iframe[src$="front/ad/tc_m_b.html"]
