@@ -1691,9 +1691,6 @@ orbi.kr#$##mainPremiumContainer { height: 306px!important; }
 phpschool.com#$##main_banner { border : 1px solid rgba(0,0,0,0)!important; background-color: transparent!important; }
 vod.tvchosun.com#$#.areaTop> div.vod_left.add { padding: 10px 29px 0 10px!important; }
 wikitree.co.kr#$#.middle > DIV.logo { position:absolute!important; left: 362px!important; width: auto!important; }
-www.daum.net#$#.cont_sub, .article_daum { display: initial!important; }
-www.daum.net#$#.wrap_main { margin-right: initial!important; margin-left: 5px!important; }
-www.daum.net#$#.wrap_sub { position: absolute!important; top:252px!important; }
 !----------------------------------------------------!
 !------ JS rules ------------------------------------!
 !----------------------------------------------------!
