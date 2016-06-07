@@ -663,12 +663,6 @@ baykoreans.net##.boardRead > DIV > .clear
 baykoreans.net##.board > .clear
 baykoreans.net##.viewDocument > .clear
 baykoreans.net##DIV[style*="opacity"]
-bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net###daumAd
-bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net##div.bnr_info
-bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net##div.bnr_mobile
-bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net##div.box_banner
-bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net##div.lnb_bnr
-bbs1.ruliweb.daum.net,bbs2.ruliweb.daum.net##div.side_bnr
 betanews.heraldcorp.com##iframe[src*="?refData"]
 bgmstore.net##div.adBox
 biz.chosun.com###ad1
@@ -960,7 +954,6 @@ kukinews.com##.bnr_420_60
 kukinews.com##div[class^="bnr_290_"]
 life.etnews.com##.mainlife_right > .life_news2:first-child
 live.joinsmsn.com##div.shopping_v2
-login.daum.net##div.login_ad
 m.cafe.naver.com##div.area_sa
 m.chosun.com##div.ad_txt
 m.chosun.com##div.art_sub_news_box
@@ -1359,6 +1352,12 @@ rpm9.com###promotion
 rpm9.com##.ad_bottom728x90
 rpm9.com##.ad_maintextWrap
 rpm9.com##.ad_right300x250
+ruliweb.daum.net###inventories
+ruliweb.daum.net###mAside > DIV > .side_bnr
+ruliweb.daum.net##.wrap_ad
+ruliweb.daum.net##.bnr_info
+ruliweb.daum.net##.bnr_mobile
+ruliweb.daum.net##.lnb_bnr
 search.daum.net##div.ad_sch
 search.daum.net##div.wing_sponsor
 search.naver.com##div.ad_section
