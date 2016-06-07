@@ -827,6 +827,10 @@ gamemeca.com##div.pb32
 gamemeca.com##div.rBannerMain
 gamemeca.com##div.rBtmBanner
 gamemeca.com##div[class^="ad"]
+gigglehd.com###column > a[href="http://coolenjoy.net/"]
+gigglehd.com###column > DIV:not([style]) > A[href]
+gigglehd.com###column > DIV > DIV > .nw_box
+gigglehd.com###content > DIV > DIV[style*="HEIGHT: 60px;"][style*="WIDTH: 400px;"]
 gigglehd.com##.boardRead + DIV[align="center"]
 hani.co.kr###power-link2
 hani.co.kr##div.ttalk150_banner
