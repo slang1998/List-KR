@@ -1650,6 +1650,7 @@ zdnet.com##section.mpu
 ||estat.zum.com^
 ||gather.hankyung.com:8003/?
 ||geolook.tvchosun.com:8888
+||gmarket.co.kr/weblog/nethruscriptlog.html^
 ||googletagservices.com/tag/$domain=inews24.com
 ||hankyung.com*/js/acecounter/
 ||heraldcorp.com/tracker^$third-party
@@ -1669,6 +1670,7 @@ zdnet.com##section.mpu
 ||mywebtrends.co.kr^$third-party
 ||nextdaily.co.kr/tools/article_count*.html
 ||pathfinder.lotte.com^
+||pds*.gmarket.co.kr^
 ||recobell.io/rest/log^
 ||recopick.com^$third-party
 ||res.heraldm.com/js/logcollectscript_*.js^
@@ -1678,7 +1680,6 @@ zdnet.com##section.mpu
 ||sc*.cpcguard.com/*.asp
 ||script.gmarket.co.kr/js/common/pds_gmkt.js^
 ||seoul.co.kr/weblog^
-||sna.gmarket.co.kr^
 ||sportsseoul.com/news/site_log/?
 ||statweb.egloos.com^
 ||tracking.adweb.co.kr/tracking^
