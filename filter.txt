@@ -1345,7 +1345,7 @@ phpschool.com##.banner_title
 phpschool.com##.main_job
 phpschool.com##.right_banner
 ppomppu.co.kr###emart_banner
-ppomppu.co.kr###search_bbsList + DIV
+ppomppu.co.kr###search_bbsList + DIV[style*="100"]
 ppomppu.co.kr###shoppingbox
 ppomppu.co.kr##div.ad
 ppomppu.co.kr##div.banner
@@ -1580,10 +1580,17 @@ zdnet.com##section.leader-bottom
 zdnet.com##section.leader-top
 zdnet.com##section.mpu
 !-------------------------------------------------------------------------------!
+!------------------ White list (exceptions list) -------------------------------!
+!-------------------------------------------------------------------------------!
+!
+! White list. Fixing filtration errors (false-positive)
+!
+11st.co.kr#@#.adver
+!-------------------------------------------------------------------------------!
 !------------------ Spywares ---------------------------------------------------!
 !-------------------------------------------------------------------------------!
 !
-! Section contains list of urls spying over user's information
+! Section contains list of urls collecting user's information
 !
 !----- naver.com ---------------
 ||l.m.naver.
