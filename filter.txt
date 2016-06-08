@@ -1580,10 +1580,17 @@ zdnet.com##section.leader-bottom
 zdnet.com##section.leader-top
 zdnet.com##section.mpu
 !-------------------------------------------------------------------------------!
+!------------------ White list (exceptions list) -------------------------------!
+!-------------------------------------------------------------------------------!
+!
+! White list. Fixing filtration errors (false-positive)
+!
+11st.co.kr#@#.adver
+!-------------------------------------------------------------------------------!
 !------------------ Spywares ---------------------------------------------------!
 !-------------------------------------------------------------------------------!
 !
-! Section contains list of urls spying over user's information
+! Section contains list of urls collecting user's information
 !
 !----- naver.com ---------------
 ||l.m.naver.
