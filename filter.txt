@@ -700,8 +700,8 @@ blog.naver.com##td.adpost_con
 bloter.net##.network-ad__wrapper
 clien.net###Recent>div.RecentWrap[style="text-align:center;margin:0 auto;"]
 clien.net##div.aside_sponser
-clien.net##div.board_main div[style="clear:both;width:780px; height:115px; padding:0px; text-align:center;padding-left:5px;"]
 clien.net##p.ad_area1
+clien.net##p.ad_area1 + DIV[style*="780px"]
 clien.net$$style[tag-content=".tcclink"][parent-elements="li"][parent-search-level="1"]
 comic.naver.com###adpostArea
 comic.naver.com###webtoon_ad_section
