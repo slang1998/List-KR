@@ -700,8 +700,8 @@ blog.naver.com##td.adpost_con
 bloter.net##.network-ad__wrapper
 clien.net###Recent>div.RecentWrap[style="text-align:center;margin:0 auto;"]
 clien.net##div.aside_sponser
-clien.net##div.board_main div[style="clear:both;width:780px; height:115px; padding:0px; text-align:center;padding-left:5px;"]
 clien.net##p.ad_area1
+clien.net##p.ad_area1 + DIV[style*="780px"]
 clien.net$$style[tag-content=".tcclink"][parent-elements="li"][parent-search-level="1"]
 comic.naver.com###adpostArea
 comic.naver.com###webtoon_ad_section
@@ -833,6 +833,7 @@ gigglehd.com###column > DIV:not([style]) > A[href]
 gigglehd.com###column > DIV > DIV > .nw_box
 gigglehd.com###content > DIV > DIV[style*="HEIGHT: 60px;"][style*="WIDTH: 400px;"]
 gigglehd.com##.boardRead + DIV[align="center"]
+gmarket.co.kr##.m_ad
 hani.co.kr###power-link2
 hani.co.kr##div.ttalk150_banner
 hani.co.kr##div[class^="hani-advertise"]
@@ -1132,6 +1133,7 @@ media.daum.net###banner250
 media.daum.net###daum-ad-root
 media.daum.net###daum-ad-root-ifrm
 media.daum.net###EXTENSIBLE_WING_WRAP
+media.daum.net##.newsview_ad
 mediatoday.co.kr###adbnFloating
 mediatoday.co.kr##iframe[src*="/adItem/"]
 mediaus.co.kr##div[style="position:relative;width:250px;height:139px;overflow:hidden;"]
@@ -1246,7 +1248,8 @@ news.kmib.co.kr##div.side_ifm_area>div.bnrct
 news.kmib.co.kr##div.top_nws>div.bnr_234_60
 news.kukinews.com###ad01_250_250
 news.kukinews.com###lft_top_adplus
-news.kukinews.com##.cnt_lft > DIV[style^="width:700"][style*="height"]
+news.kukinews.com###_article > a[href^="http://vod.kukinews.com/"]
+news.kukinews.com##.cnt_lft > DIV[style*="700"][style*="height"]
 news.kukinews.com##div[class^="banner_1024_1024_"] 
 news.kukinews.com##div.bnr_370_60
 news.kukinews.com##div.vw_ad_700
@@ -1628,6 +1631,7 @@ zdnet.com##section.mpu
 ||api.tvple.com/*/stat/send?
 ||at.mklaud.com/at/at_log*.php^
 ||chosun.com/dhtm/js/common/collecter.js
+||clicklog.gmarket.co.kr/click_log/
 ||cloudfront.net$domain=inews24.com
 ||collector*.afreecatv.com/gather$empty
 ||counter*joins.com/bin/
@@ -1664,7 +1668,9 @@ zdnet.com##section.mpu
 ||sbs.co.kr/log/clip_log.jsp^
 ||sbs.co.kr/mod_pagespeed_beacon^
 ||sc*.cpcguard.com/*.asp
+||script.gmarket.co.kr/js/common/pds_gmkt.js^
 ||seoul.co.kr/weblog^
+||sna.gmarket.co.kr^
 ||sportsseoul.com/news/site_log/?
 ||statweb.egloos.com^
 ||tracking.adweb.co.kr/tracking^
@@ -1680,11 +1686,11 @@ zdnet.com##section.mpu
 !
 ! Section contains list of CSS injection rules to remove ads or to correct page layout
 !
-anewsa.com#$##mainSec0405 { margin-top: initial!important; }
+anewsa.com#$##mainSec0405 { margin-top: auto!important; } 
 i.orbi.kr#$#.crewbi_ootd { background:none!important; }
 m.inven.co.kr#$##mainSlider { padding-bottom: initial!important; }
 m.kukinews.com#$#BODY { margin-bottom: initial!important; }
-metroseoul.co.kr#$#.viewMarginLeft { margin-left: initial!important; }
+metroseoul.co.kr#$#.viewMarginLeft { margin-left: auto!important; } 
 news.kukinews.com#$##subIframe { height: auto!important; min-height: 1100px!important; }
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
 orbi.kr#$##mainPremiumContainer { height: 306px!important; }
@@ -1703,7 +1709,7 @@ baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#var fuckAdBlock = false
 ruinses.tistory.com#%#Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } }); 
 !----- disable auto scroll --------------------------
-anews.com,betanews.heraldcorp.com,jjan.kr,news.kukinews.com,nextdaily.co.kr,rpm9.com$$script[type="text/javascript"][tag-content="scrollTop: position"]
+anewsa.com,betanews.heraldcorp.com,jjan.kr,news.kukinews.com,nextdaily.co.kr,rpm9.com$$script[type="text/javascript"][tag-content="scrollTop: position"]
 !----- context menu enablers ------------------------
 snulife.com,tistory.com$$script[tag-content="document.oncontextmenu"]
 snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
