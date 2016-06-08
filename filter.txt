@@ -716,9 +716,10 @@ daily.hankooki.com##div.bantop
 daily.hankooki.com##div[id^="Ad_"]
 daily.hankooki.com##div[id^="adText"]
 danawa.com##.header_banner
+danawa.com##.rnb_unit_banner
 danawa.com##.ttop_ad_banner
-danawa.com###danawa-community-newsView-powerLink-self
 danawa.com###main_right_fixed
+danawa.com##DIV[id$="powerLink-self"]
 daum.net###adBrandingStation
 daum.net###adMain
 daum.net###adTimeSponsor
