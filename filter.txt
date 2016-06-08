@@ -1684,11 +1684,11 @@ zdnet.com##section.mpu
 !
 ! Section contains list of CSS injection rules to remove ads or to correct page layout
 !
-anewsa.com#$##mainSec0405 { margin-top: initial!important; }
+anewsa.com#$##mainSec0405 { margin-top: auto!important; } 
 i.orbi.kr#$#.crewbi_ootd { background:none!important; }
 m.inven.co.kr#$##mainSlider { padding-bottom: initial!important; }
 m.kukinews.com#$#BODY { margin-bottom: initial!important; }
-metroseoul.co.kr#$#.viewMarginLeft { margin-left: initial!important; }
+metroseoul.co.kr#$#.viewMarginLeft { margin-left: auto!important; } 
 news.kukinews.com#$##subIframe { height: auto!important; min-height: 1100px!important; }
 orbi.kr#$##bestCommentContainer, #orbiCastContainer{ top: 0px!important; }
 orbi.kr#$##mainPremiumContainer { height: 306px!important; }
