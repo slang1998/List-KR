@@ -1248,7 +1248,8 @@ news.kmib.co.kr##div.side_ifm_area>div.bnrct
 news.kmib.co.kr##div.top_nws>div.bnr_234_60
 news.kukinews.com###ad01_250_250
 news.kukinews.com###lft_top_adplus
-news.kukinews.com##.cnt_lft > DIV[style^="width:700"][style*="height"]
+news.kukinews.com###_article > a[href^="http://vod.kukinews.com/"]
+news.kukinews.com##.cnt_lft > DIV[style*="700"][style*="height"]
 news.kukinews.com##div[class^="banner_1024_1024_"] 
 news.kukinews.com##div.bnr_370_60
 news.kukinews.com##div.vw_ad_700
