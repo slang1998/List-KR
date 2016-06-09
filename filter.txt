@@ -226,6 +226,7 @@
 ||cm.interworksmedia.co.kr/adTagRequest.htm^
 ||cm.keywordsconnect.com^
 ||cm2.cjmooter.com^
+||cnews.co.kr/uhtml/images/banner/$image
 ||contentlink.co.kr^$third-party
 ||contentsbridge.com^$third-party
 ||crossmedia.co.kr^$third-party
