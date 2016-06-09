@@ -63,7 +63,7 @@
 ||ad.ilikesponsorad.com^
 ||ad.incruit.com^
 ||ad.khan.co.kr/artCnt/
-||ad.khan.co.kr:8080/imp/khan_imp.php^
+||ad.khan.co.kr:8080/imp/*_imp.php^ 
 ||ad.kmib.co.kr^
 ||ad.koreadaily.com^
 ||ad.linkprice.com/stlink.php^
@@ -90,6 +90,7 @@
 ||ad.tvreport.co.kr^
 ||ad.wo.to^
 ||ad.wowtv.co.kr^
+||ad.xc.netinsight.co.kr^
 ||ad.xc.nis.nitmus.com^
 ||ad.yieldmanager.com^
 ||ad00.inews24.com^
@@ -703,6 +704,9 @@ clien.net##div.aside_sponser
 clien.net##p.ad_area1
 clien.net##p.ad_area1 + DIV[style*="780px"]
 clien.net$$style[tag-content=".tcclink"][parent-elements="li"][parent-search-level="1"]
+cnews.co.kr##.leftBanner
+cnews.co.kr##.newsCont > a[href$="dpaper/pc/html/index.htm"]:last-child
+cnews.co.kr##.rightBanner
 comic.naver.com###adpostArea
 comic.naver.com###webtoon_ad_section
 comic.naver.com##.ads_sc
@@ -716,9 +720,10 @@ daily.hankooki.com##div.bantop
 daily.hankooki.com##div[id^="Ad_"]
 daily.hankooki.com##div[id^="adText"]
 danawa.com##.header_banner
+danawa.com##.rnb_unit_banner
 danawa.com##.ttop_ad_banner
-danawa.com###danawa-community-newsView-powerLink-self
 danawa.com###main_right_fixed
+danawa.com##DIV[id$="powerLink-self"]
 daum.net###adBrandingStation
 daum.net###adMain
 daum.net###adTimeSponsor
@@ -923,6 +928,10 @@ joinsmsn.com##div.brandtext_area
 joinsmsn.com##div[class$="ad_link_area"]
 joongang.joins.com##div[data-widget-type="Ad"]
 joongdo.co.kr###id_header_R
+khan.co.kr###mezzo_ad
+khan.co.kr##.ad_area
+khan.co.kr##.ad_thumb_btm
+khan.co.kr##.link_cartoon
 kookje.co.kr###bnr_newsmiddleArea
 kookje.co.kr###bnr_newsmiddlebottomArea
 kookje.co.kr###bnr_newstopArea
@@ -964,6 +973,7 @@ m.cafe.naver.com##div.area_sa
 m.chosun.com##div.ad_txt
 m.chosun.com##div.art_sub_news_box
 m.chosun.com##div.txt_ad_box
+m.cnews.co.kr##iframe[src^="http://www.dreamsearch.or.kr/servlet/adbnMobileBanner"]
 m.comic.naver.com##body > div.viewer.cuttoon > div[class^=ly_dim].on
 m.comic.naver.com##div[class="ly_wrap viewer_da_ly"]
 m.comic.naver.com$$li[tag-content="AD_WEBTOON_MOBILEWEB_UP"][max-length="512"]
@@ -1016,10 +1026,7 @@ m.inven.co.kr###mobileTailAd_Layer
 m.inven.co.kr###mobileTailAd_LayerDummy
 m.inven.co.kr##DIV[data-n="widerplanet"]
 m.khan.co.kr###article_bottom_ad
-m.khan.co.kr###mezzo_ad
 m.khan.co.kr###photoAD
-m.khan.co.kr##div.ad_area
-m.khan.co.kr##div.ad_thumb_btm
 m.khan.co.kr##div.contBn
 m.khan.co.kr##div.contBn_foot
 m.kmib.co.kr##.ftbnr_margin
@@ -1585,7 +1592,6 @@ zdnet.com##section.mpu
 !
 ! White list. Fixing filtration errors (false-positive)
 !
-11st.co.kr#@#.adver
 !-------------------------------------------------------------------------------!
 !------------------ Spywares ---------------------------------------------------!
 !-------------------------------------------------------------------------------!
@@ -1625,6 +1631,8 @@ zdnet.com##section.mpu
 !----- Miscellaneous -----------
 /wlo/Logging^
 /wlo/UserLogging^
+||11st.co.kr/a.st?
+||11st.co.kr/track.st?
 ||121.254.169.8^$third-party
 ||121.78.247.110/$empty
 ||121.78.90.104:8383/pv?
@@ -1649,10 +1657,12 @@ zdnet.com##section.mpu
 ||estat.zum.com^
 ||gather.hankyung.com:8003/?
 ||geolook.tvchosun.com:8888
+||gmarket.co.kr/weblog/nethruscriptlog.html^
 ||googletagservices.com/tag/$domain=inews24.com
 ||hankyung.com*/js/acecounter/
 ||heraldcorp.com/tracker^$third-party
 ||hits.zdnet.co.kr/hits.asp^
+||hotclick.netinsight.co.kr^$third-party
 ||humoruniv.com/cpuid
 ||humoruniv.com/images/null.gif
 ||humoruniv.com/pv^
@@ -1668,6 +1678,7 @@ zdnet.com##section.mpu
 ||mywebtrends.co.kr^$third-party
 ||nextdaily.co.kr/tools/article_count*.html
 ||pathfinder.lotte.com^
+||pds*.gmarket.co.kr^
 ||recobell.io/rest/log^
 ||recopick.com^$third-party
 ||res.heraldm.com/js/logcollectscript_*.js^
@@ -1677,7 +1688,6 @@ zdnet.com##section.mpu
 ||sc*.cpcguard.com/*.asp
 ||script.gmarket.co.kr/js/common/pds_gmkt.js^
 ||seoul.co.kr/weblog^
-||sna.gmarket.co.kr^
 ||sportsseoul.com/news/site_log/?
 ||statweb.egloos.com^
 ||tracking.adweb.co.kr/tracking^
@@ -1721,6 +1731,8 @@ anewsa.com,betanews.heraldcorp.com,jjan.kr,news.kukinews.com,nextdaily.co.kr,rpm
 snulife.com,tistory.com$$script[tag-content="document.oncontextmenu"]
 snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
 snulife.com,m.etnews.com#$#*:not(input):not(textarea){ -webkit-touch-callout: auto!important; -webkit-user-select: auto!important; }
+!----- Misc -----------------------------------------
+11st.co.kr#%#AG_onLoad(function() { clearAdUrl(); searchManager.init(true); });
 !----------------------------------------------------!
 !------ TEMP ----------------------------------------!
 !----------------------------------------------------!
