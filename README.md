@@ -1,7 +1,7 @@
 # List-KR
 [Adguard][]를 위한 한국어 웹 사이트 필터 리스트입니다.
 
-필터링하는 대상은 광고 뿐만 아니라 알려진 트래커, 모바일 앱의 광고, 그 외 사용자 경험에 지장을 초래하는 스크립트(안티 애드블록, 우클릭 방지 등)을 포함합니다.
+필터링하는 대상은 광고 뿐만 아니라 알려진 트래커, 모바일 앱의 광고, 그 외 사용자 경험에 지장을 초래하는 스크립트(안티 애드블록, 자동 스크롤, 우클릭 방지 등)을 포함합니다.
 
 
 
@@ -24,12 +24,12 @@ https://github.com/SlowMemory/List-KR/raw/master/filter.txt
 
 #### 인터넷 익스플로러에 대해서
 
-인터넷 익스플로러는 크롬, 파이어폭스 등과 렌더링 방식에 차이가 있어, 기존 확장 프로그램에서 사용하도록 제작된 필터를 IE에 적용할 경우 차단 결과가 다를 수 있습니다. (이것이 Adguard를 위한 필터가 필요한 한 이유입니다) 이 필터 또한 기존에 존재하던 필터를 기반으로 작성되었기 때문에, IE에서만 광고가 차단되지 않는 경우가 있으며, 이는 지속적으로 개선 중입니다.
+인터넷 익스플로러는 크롬, 파이어폭스 등과 렌더링 방식에 차이가 있어, 기존 확장 프로그램에서 사용하도록 제작된 필터를 IE에 적용할 경우 차단 결과가 다를 수 있습니다 (이것이 Adguard를 위한 필터가 필요한 한 이유입니다). 이 필터 또한 기존에 존재하던 필터를 기반으로 작성되었기 때문에, IE에서만 광고가 차단되지 않는 경우가 있으며, 이는 지속적으로 개선 중입니다.
 
 #List-KR (English)
 This is a web filter for websites in Korean language, to be used with [Adguard][] ad blocker.
 
-This filter aims to filter not only ads, but also known trackers and other scripts which negatively affects user experience(including anti-adblock and disabling context menu).
+This filter aims to filter not only ads, but also known trackers and other scripts which negatively affects user experience(including anti-adblock, automatic scrolling, and disabling context menu).
 
 This filter is optimized for Adguard Windows, Mac, and Android versions. Yet most of rules are following the grammer of [Adblock Plus][], some rules for more difficult filtering utilizes Adguard's advanced filtering methods, and will not be activated in other filtering tools. Also, there are slight differences in filtering methods between Adguard and ABP, and if you use it, you may see blank areas at the place of ads. [ublock origin] is known to be compatible with part of the Adguard syntax, and can be used with this filter.
 
@@ -44,7 +44,7 @@ https://github.com/SlowMemory/List-KR/raw/master/filter.txt
 ```
 
 #### How to contribute
-Welcome! If you found unblocked ads, ads leftovers or any other objects that are blocked in this filter, please report it in [Issues][]. When reporting issues, it would be helpful if you include the exact url where ads were found and the description of its location. To suggest a rule to block the object is even better.
+Welcome! If you found unblocked ads, ads leftovers or any other objects that are blocked in this filter, please report it in [Issues][]. When reporting issues, it would be helpful to include the exact url where ads can be found and the description of its location. To suggest a rule to block the object is even better.
 
 #### For IE
 There is a slight difference in rendering methods between IE and Chrome, Firefox, so applying filters developed to be used for extensions which are present in Chrome and Firefox to IE would result in unblocked ads rarely (This is why we need a filter for Adguard). This filter is based on several existing filters as well, so you may see some ads particular to IE, which I will keep fixing.
