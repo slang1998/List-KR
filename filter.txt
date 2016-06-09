@@ -1586,7 +1586,6 @@ zdnet.com##section.mpu
 !
 ! White list. Fixing filtration errors (false-positive)
 !
-11st.co.kr#@#.adver
 !-------------------------------------------------------------------------------!
 !------------------ Spywares ---------------------------------------------------!
 !-------------------------------------------------------------------------------!
@@ -1723,6 +1722,8 @@ anewsa.com,betanews.heraldcorp.com,jjan.kr,news.kukinews.com,nextdaily.co.kr,rpm
 snulife.com,tistory.com$$script[tag-content="document.oncontextmenu"]
 snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
 snulife.com,m.etnews.com#$#*:not(input):not(textarea){ -webkit-touch-callout: auto!important; -webkit-user-select: auto!important; }
+!----- Misc -----------------------------------------
+11st.co.kr#%#AG_onLoad(function() { clearAdUrl(); searchManager.init(true); });
 !----------------------------------------------------!
 !------ TEMP ----------------------------------------!
 !----------------------------------------------------!
