@@ -63,7 +63,7 @@
 ||ad.ilikesponsorad.com^
 ||ad.incruit.com^
 ||ad.khan.co.kr/artCnt/
-||ad.khan.co.kr:8080/imp/khan_imp.php^
+||ad.khan.co.kr:8080/imp/*_imp.php^ 
 ||ad.kmib.co.kr^
 ||ad.koreadaily.com^
 ||ad.linkprice.com/stlink.php^
@@ -928,6 +928,10 @@ joinsmsn.com##div.brandtext_area
 joinsmsn.com##div[class$="ad_link_area"]
 joongang.joins.com##div[data-widget-type="Ad"]
 joongdo.co.kr###id_header_R
+khan.co.kr###mezzo_ad
+khan.co.kr##.ad_area
+khan.co.kr##.ad_thumb_btm
+khan.co.kr##.link_cartoon
 kookje.co.kr###bnr_newsmiddleArea
 kookje.co.kr###bnr_newsmiddlebottomArea
 kookje.co.kr###bnr_newstopArea
@@ -1022,10 +1026,7 @@ m.inven.co.kr###mobileTailAd_Layer
 m.inven.co.kr###mobileTailAd_LayerDummy
 m.inven.co.kr##DIV[data-n="widerplanet"]
 m.khan.co.kr###article_bottom_ad
-m.khan.co.kr###mezzo_ad
 m.khan.co.kr###photoAD
-m.khan.co.kr##div.ad_area
-m.khan.co.kr##div.ad_thumb_btm
 m.khan.co.kr##div.contBn
 m.khan.co.kr##div.contBn_foot
 m.kmib.co.kr##.ftbnr_margin
