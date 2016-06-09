@@ -704,7 +704,9 @@ clien.net##div.aside_sponser
 clien.net##p.ad_area1
 clien.net##p.ad_area1 + DIV[style*="780px"]
 clien.net$$style[tag-content=".tcclink"][parent-elements="li"][parent-search-level="1"]
+cnews.co.kr##.leftBanner
 cnews.co.kr##.newsCont > a[href$="dpaper/pc/html/index.htm"]:last-child
+cnews.co.kr##.rightBanner
 comic.naver.com###adpostArea
 comic.naver.com###webtoon_ad_section
 comic.naver.com##.ads_sc
@@ -967,6 +969,7 @@ m.cafe.naver.com##div.area_sa
 m.chosun.com##div.ad_txt
 m.chosun.com##div.art_sub_news_box
 m.chosun.com##div.txt_ad_box
+m.cnews.co.kr##iframe[src^="http://www.dreamsearch.or.kr/servlet/adbnMobileBanner"]
 m.comic.naver.com##body > div.viewer.cuttoon > div[class^=ly_dim].on
 m.comic.naver.com##div[class="ly_wrap viewer_da_ly"]
 m.comic.naver.com$$li[tag-content="AD_WEBTOON_MOBILEWEB_UP"][max-length="512"]
