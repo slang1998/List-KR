@@ -43,6 +43,12 @@ In the program you would like to use, use the following url to subscribe to or i
 https://github.com/SlowMemory/List-KR/raw/master/filter.txt
 ```
 
+### How to contribute
+Welcome! If you found unblocked ads, ads leftovers or any other objects that are blocked in this filter, please report it in [Issues][]. When reporting issues, it would be helpful if you include the exact url where ads were found and the description of its location. To suggest a rule to block the object is even better.
+
+### For IE
+There is a slight difference in rendering methods between IE and Chrome, Firefox, so applying filters developed to be used for extensions which are present in Chrome and Firefox to IE would result in unblocked ads rarely (This is why we need a filter for Adguard). This filter is based on several existing filters as well, so you may see some ads particular to IE, which I will keep fixing.
+
 [Adguard]: https://adguard.com
 [Adblock Plus]: https://adblockplus.org/
 [ublock origin]: https://github.com/gorhill/uBlock
