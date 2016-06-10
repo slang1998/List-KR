@@ -1063,7 +1063,6 @@ m.mydaily.co.kr##div.read_view>div[style="text-align:left; margin:-20px 0 -10px;
 m.mydaily.co.kr##div.read_wrap>div[style="background:#fff; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; "]
 m.mydaily.co.kr##p.mobitree
 m.naver.com##div.grid_ad
-m.news.nate.com###adtive
 m.news.naver.com##div.ad_area
 m.news1.kr###article_content>div[style="width:150px;height:150px;float:right;margin:10px 0 10px 10px;"]
 m.news1.kr##div[data-role="main"]>div[style="z-index:10; position:fixed; bottom:0; height:49px; width:100%;"]
@@ -1294,6 +1293,7 @@ news.nate.com###newsMainBanner
 news.nate.com###smartlink
 news.nate.com###spaceBanner
 news.nate.com##.ad290x330
+news.nate.com##.adtive
 news.nate.com##div[class$="socialAD"]
 news.nate.com##div[class^="smartLink"]
 news.sbs.co.kr###all_vod_banner
