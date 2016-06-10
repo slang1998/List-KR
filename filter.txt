@@ -417,6 +417,7 @@
 ||nanumnews.com/data/nanumnews_com/upload/2012042009422130.swf^
 ||nanumnews.com/data/nanumnews_com/upload/bn_2012/mireco.gif^
 ||nanumnews.com/news_skin/nanumnews_com/main/nanum_ad_*.html^
+||nate.com/js/common/natead_*.js
 ||nate.com/main/srv/shop_11st/
 ||naver.com/api/adpostRelay.nhn?
 ||new.jshopbox.com/sbox/box/
@@ -426,8 +427,6 @@
 ||news.hankooki.com/service/v04/frm_photoScroll.htm^
 ||news.maxmovie.com/movie_info/Realclick/
 ||news.maxmovie.com/movie_info/sha_news_view_tlinkAD.asp^
-||news.nate.com/Etc/AdRectangleBanner^
-||news.nate.com/Etc/ViewAD^
 ||news.nate.com/etc/ad*
 ||news.sportsseoul.com/public_new4/ad/
 ||news1.kr/iframe/ad/
@@ -1194,7 +1193,11 @@ mydaily.co.kr##div[class^="banner_1024_1024_"]
 nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(2)
 nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(3)
 nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(4)
+nate.com###adContainer
 nate.com###shopLoading
+nate.com###todaySaleItem
+nate.com##.area_shopping_today
+nate.com##.sidebar_banner
 nate.com##iframe#ifrShopping
 naver.com###promotion1
 naver.com###promotion2
@@ -1280,8 +1283,13 @@ news.mt.co.kr##div.aside_bundle>div.mgt16
 news.mt.co.kr##div.mt_books
 news.mt.co.kr##div.mtflash
 news.mt.co.kr##div[id^="art_ad_top"]
-news.nate.com###newsmediaBanner
+news.nate.com###AdCommerce
+news.nate.com###ad_sponsorBar
+news.nate.com###googleAd_wrap
+news.nate.com###newsMainBanner
+news.nate.com###smartlink
 news.nate.com###spaceBanner
+news.nate.com##.ad290x330
 news.nate.com##div[class$="socialAD"]
 news.nate.com##div[class^="smartLink"]
 news.sbs.co.kr###all_vod_banner
@@ -1352,8 +1360,8 @@ osen.mt.co.kr##div.topBanner
 pann.nate.com###pann_brandAdWrap
 pann.nate.com###psypannAd
 pann.nate.com##div.sidebar.ad
-pann.nate.com##div.sidebar_banner
 pann.nate.com##div.view_banner
+pann.nate.com##DIV[class="sideiframe"]
 phpschool.com##.banner_title
 phpschool.com##.main_job
 phpschool.com##.right_banner
@@ -1658,6 +1666,7 @@ zdnet.com##section.mpu
 ||collector*.afreecatv.com/gather$empty
 ||counter*joins.com/bin/
 ||countory.com/counterService/serviceAPI.asp?
+||ctc.news.nate.com/ctc.tiff?
 ||dable.io/logs^
 ||diycounter.com/?
 ||dmcf1.com^$third-party
@@ -1699,8 +1708,10 @@ zdnet.com##section.mpu
 ||sportsseoul.com/news/site_log/?
 ||ssg.com/comm/ssgGnbAjax.ssg^
 ||ssg.com/wloso.html?wlo_so=
+||stat*.nate.com/stat/stat*.tiff?
 ||statweb.egloos.com^
 ||tracking.adweb.co.kr/tracking^
+||tracking.cyad*.nate.com^
 ||tvchosun.com/front/js/tvchosun.js
 ||tvchosun.com/js/daumview.js
 ||vlog.heraldcorp.com/tracker
