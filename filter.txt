@@ -1459,6 +1459,7 @@ thisisgame.com###divMsnAD
 thisisgame.com##div.ad
 thisisgame.com##div.mid-ad-part
 tistory.com##div.ad250_outter
+todayhumor.co.kr##.table_container > DIV[style*="1.8"]
 todayhumor.co.kr##div.under_ad_div
 todown.net##div.at-content>div.container>div.row>div.contentArea>div[style="text-align:center;"]
 todown.net##div.at-content>div.container>div.row>div.sideArea>div[style="width:100%; height:100;text-align:center; background:#f5f5f5;margin-bottom:5px;"]
