@@ -368,6 +368,7 @@
 ||m.kmib.co.kr/banner/
 ||m.kukinews.com/js/ems.js
 ||m.news1.kr/ads/
+||m.pann.nate.com/da/
 ||m.ytn.co.kr/ad/ad_*.html^
 ||m1.daumcdn.net/adtc/js/mobilead.js^
 ||mat.adpies.com/mat/$empty
@@ -420,6 +421,7 @@
 ||nate.com/js/common/natead_*.js
 ||nate.com/main/srv/shop_11st/
 ||naver.com/api/adpostRelay.nhn?
+||networkad.nate.com^
 ||new.jshopbox.com/sbox/box/
 ||news.chosun.com/chosun/chosunad.html^
 ||news.chosun.com/dhtm/js/art/*/cs_art_ad_*.js^
@@ -1061,6 +1063,7 @@ m.mydaily.co.kr##div.read_view>div[style="text-align:left; margin:-20px 0 -10px;
 m.mydaily.co.kr##div.read_wrap>div[style="background:#fff; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; "]
 m.mydaily.co.kr##p.mobitree
 m.naver.com##div.grid_ad
+m.news.nate.com###adtive
 m.news.naver.com##div.ad_area
 m.news1.kr###article_content>div[style="width:150px;height:150px;float:right;margin:10px 0 10px 10px;"]
 m.news1.kr##div[data-role="main"]>div[style="z-index:10; position:fixed; bottom:0; height:49px; width:100%;"]
@@ -1070,6 +1073,7 @@ m.nocutnews.co.kr##div.con_b>div.ct_box
 m.ohmynews.com###adDaum
 m.ohmynews.com###adDaum_top
 m.ohmynews.com##div.ad_box_outline
+m.pann.nate.com###bannerBtm
 m.photo.sportsseoul.com###container > DIV[style^="background:"]
 m.ppomppu.co.kr###if_bbs_view_bn
 m.ppomppu.co.kr##.ct + DIV[style^="padding-top"]
@@ -1709,7 +1713,7 @@ zdnet.com##section.mpu
 ||sportsseoul.com/news/site_log/?
 ||ssg.com/comm/ssgGnbAjax.ssg^
 ||ssg.com/wloso.html?wlo_so=
-||stat*.nate.com/stat/stat*.tiff?
+||stat*.nate.com/stat/*stat*.tiff?
 ||statweb.egloos.com^
 ||tracking.adweb.co.kr/tracking^
 ||tracking.cyad*.nate.com^
