@@ -201,6 +201,9 @@
 ||bizspring.net^$third-party
 ||blog.naver.com/AdPostInjectAsync.nhn
 ||bloter.net/wp-admin/admin-ajax.php
+||boannews.com/images/banner/$image
+||boannews.com/main_files/main_banner*.asp^ 
+||boannews.com/main_files/main_right.asp^
 ||bohumlife.edaily.co.kr/iframe_starin.html^
 ||bridgelab.co.kr^$third-party
 ||bringback.co.kr^$third-party
@@ -700,6 +703,7 @@ bizn.khan.co.kr##div.topright_bn
 blog.naver.com##._adPost
 blog.naver.com##td.adpost_con
 bloter.net##.network-ad__wrapper
+boannews.com###right_top_banner
 clien.net###Recent>div.RecentWrap[style="text-align:center;margin:0 auto;"]
 clien.net##div.aside_sponser
 clien.net##p.ad_area1
@@ -970,6 +974,7 @@ kukinews.com##.bnr_420_60
 kukinews.com##div[class^="bnr_290_"]
 life.etnews.com##.mainlife_right > .life_news2:first-child
 live.joinsmsn.com##div.shopping_v2
+m.boannews.com##.banner-zone
 m.cafe.naver.com##div.area_sa
 m.chosun.com##div.ad_txt
 m.chosun.com##div.art_sub_news_box
