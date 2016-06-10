@@ -1690,6 +1690,8 @@ zdnet.com##section.mpu
 ||script.gmarket.co.kr/js/common/pds_gmkt.js^
 ||seoul.co.kr/weblog^
 ||sportsseoul.com/news/site_log/?
+||ssg.com/comm/ssgGnbAjax.ssg^
+||ssg.com/wloso.html?wlo_so=
 ||statweb.egloos.com^
 ||tracking.adweb.co.kr/tracking^
 ||tvchosun.com/front/js/tvchosun.js
