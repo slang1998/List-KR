@@ -1666,6 +1666,7 @@ zdnet.com##section.mpu
 ||collector*.afreecatv.com/gather$empty
 ||counter*joins.com/bin/
 ||countory.com/counterService/serviceAPI.asp?
+||crashua.com^$empty
 ||ctc.news.nate.com/ctc.tiff?
 ||dable.io/logs^
 ||diycounter.com/?
