@@ -1461,6 +1461,7 @@ tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,
 tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net##td#mw_basic>center
 tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net##td#mw_basic>table:nth-of-type(2)>tbody>tr:last-of-type>td>table>tbody>tr>td:first-of-type
 te31.com###left > A
+te31.com##BODY > CENTER > DIV[style*="fixed;"]
 te31.com##TABLE[bgcolor][background="black.png"]
 theappl.com###pop_layer_banner
 theappl.com###rt_banner1
