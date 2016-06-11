@@ -248,13 +248,6 @@
 ||dn.naver.com/ad3/*.mp4$mp4
 ||dp25.kr^
 ||drbig.co.kr^$third-party
-||dreamsearch.or.kr/ad/
-||dreamsearch.or.kr/adnet/
-||dreamsearch.or.kr/servlet/adBanner^
-||dreamsearch.or.kr/servlet/adBannerFloating^
-||dreamsearch.or.kr/servlet/adbn*
-||dreamsearch.or.kr/servlet/iadbn^
-||dreamsearch.or.kr/servlet/sadbn^
 ||ecoadproject.co.kr^$third-party
 ||edaily.co.kr/adview/
 ||emforce.co.kr^$third-party
@@ -593,12 +586,7 @@
 ##iframe[id^="nad_"]
 ##iframe[name="ifrad"]
 ##iframe[src^="http://ad1.eventmanager.co.kr/"]
-##iframe[src^="http://adc.ohmynews.com/NetInsight/"]
 ##iframe[src^="http://ads-optima.com/www/delivery/afr.php"]
-##iframe[src^="http://ads.ecoadproject.co.kr/"]
-##iframe[src^="http://cadvv.heraldm.com/nbiz/"]
-##iframe[src^="http://cpv.ad.naver.com/adshow"]
-##iframe[src^="http://dgate.joins.com/hc.aspx"]
 !----------------------------------------------------!
 !------ Domain-Specific hiding rules ----------------!
 !----------------------------------------------------!
@@ -1699,7 +1687,7 @@ auction.co.kr#@#.side-ads
 ||log.news.joins.com^
 ||log-aggregator.vcnc.co.kr^
 ||logapi.tvcast.naver.com/api/
-||logger.tvchosun.com:8000/InsightTrk
+||logger.tvchosun.com:*/InsightTrk
 ||logtracker.cjmall.com^
 ||mywebtrends.co.kr^$third-party
 ||nextdaily.co.kr/tools/article_count*.html
