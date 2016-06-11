@@ -49,6 +49,7 @@
 ||ad.adlike.co.kr^
 ||ad.adnmore.co.kr^
 ||ad.adop.co.kr/mad/
+||ad.auction.co.kr/Common/NhnAdPost.aspx?
 ||ad.cache.newdaily.co.kr/site/banner/
 ||ad.cache.newdaily.co.kr/web/newdaily/bn/
 ||ad.cauly.co.kr*caulyImpress^$third-party
@@ -111,11 +112,7 @@
 ||adecorp.co.kr^$domain=~sony.co.kr,third-party
 ||adexview.neoebiz.co.kr^
 ||adexview.new-star.co.kr^
-||adfront.auction.co.kr/AdExternalPopup.aspx
-||adfront.auction.co.kr/AdPopup.aspx
-||adfront.auction.co.kr/BrandAdJS/
-||adfront.auction.co.kr/jsdata/14.js
-||adfront.auction.co.kr^$popup
+||adfront.auction.co.kr^
 ||adget.co.kr^$third-party
 ||adgger.com^$third-party
 ||adimage.hankookilbo.com^
@@ -662,6 +659,7 @@ asiatoday.co.kr##div.news_info_box>div[style="width:636px;border:1px solid #E3E3
 asiatoday.co.kr##iframe[src^="/comm/ads/"]
 asiatoday.co.kr##[class^="bm_ad"]
 asiatoday.co.kr##[class^="main_ad"]
+auction.co.kr##.plan-affiliate
 baykoreans.net##.boardRead > DIV > .clear
 baykoreans.net##.board > .clear
 baykoreans.net##.viewDocument > .clear
@@ -1375,6 +1373,7 @@ ruliweb.daum.net##.wrap_ad
 ruliweb.daum.net##.bnr_info
 ruliweb.daum.net##.bnr_mobile
 ruliweb.daum.net##.lnb_bnr
+search.auction.co.kr##.slot.cpb
 search.daum.net##div.ad_sch
 search.daum.net##div.wing_sponsor
 search.naver.com##div.ad_section
@@ -1593,6 +1592,7 @@ zdnet.com##section.mpu
 !
 ! White list. Fixing filtration errors (false-positive)
 !
+auction.co.kr#@#.side-ads
 !-------------------------------------------------------------------------------!
 !------------------ Spywares ---------------------------------------------------!
 !-------------------------------------------------------------------------------!
@@ -1630,6 +1630,7 @@ zdnet.com##section.mpu
 ||las.danawa.com/log/logging.json
 ||static.danawa.com/info/js/adweb_counter_danawa.min.js
 !----- Miscellaneous -----------
+/weblog/nethruscriptlog.html^
 /wlo/Logging^
 /wlo/UserLogging^
 ||11st.co.kr/a.st?
@@ -1646,6 +1647,7 @@ zdnet.com##section.mpu
 ||analytics-event.kakao.com^$empty
 ||api.tvple.com/*/stat/send?
 ||at.mklaud.com/at/at_log*.php^
+||auction.co.kr/search/searchlog.aspx?
 ||chosun.com/dhtm/js/common/collecter.js
 ||clicklog.gmarket.co.kr/click_log/
 ||cloudfront.net$domain=inews24.com
@@ -1658,7 +1660,6 @@ zdnet.com##section.mpu
 ||estat.zum.com^
 ||gather.hankyung.com:8003/?
 ||geolook.tvchosun.com:8888
-||gmarket.co.kr/weblog/nethruscriptlog.html^
 ||googletagservices.com/tag/$domain=inews24.com
 ||hankyung.com*/js/acecounter/
 ||heraldcorp.com/tracker^$third-party
@@ -1668,6 +1669,7 @@ zdnet.com##section.mpu
 ||humoruniv.com/images/null.gif
 ||humoruniv.com/pv^
 ||ilbe.com/layouts/elkha_ilbe/js/ilbe_analytics.js
+||imp*.auction.co.kr^
 ||js.nx.com/*/da/playlog.*min.js
 ||krtarget.co.kr/tracker/
 ||livelog.co.kr/js/*.php?
@@ -1679,6 +1681,7 @@ zdnet.com##section.mpu
 ||mywebtrends.co.kr^$third-party
 ||nextdaily.co.kr/tools/article_count*.html
 ||pathfinder.lotte.com^
+||pds*.auction.co.kr^
 ||pds*.gmarket.co.kr^
 ||recobell.io/rest/log^
 ||recopick.com^$third-party
@@ -1687,8 +1690,10 @@ zdnet.com##section.mpu
 ||sbs.co.kr/log/clip_log.jsp^
 ||sbs.co.kr/mod_pagespeed_beacon^
 ||sc*.cpcguard.com/*.asp
+||script.auction.co.kr/ad/log.js
 ||script.gmarket.co.kr/js/common/pds_gmkt.js^
 ||seoul.co.kr/weblog^
+||sojourn.auction.co.kr/Log*?
 ||sportsseoul.com/news/site_log/?
 ||statweb.egloos.com^
 ||tracking.adweb.co.kr/tracking^
