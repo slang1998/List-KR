@@ -86,6 +86,7 @@
 ||ad.pickple.net/widget/show/
 ||ad.priel.co.kr^$third-party
 ||ad.reople.co.kr^$third-party
+||ad.sponsorad.co.kr^$third-party
 ||ad.touchwise.co.kr^
 ||ad.tving.com^
 ||ad.tvreport.co.kr^
