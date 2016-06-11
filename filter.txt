@@ -866,7 +866,6 @@ huffingtonpost.kr###modulous_sponsorship_2
 huffingtonpost.kr##div.ad_lower_right_commercials_wrapper
 hungryapp.co.kr###banner_11
 hungryapp.co.kr##div.bannersww
-i.orbi.kr#@#.gridAd
 i.orbi.kr###diamondBanner
 i.orbi.kr###styleBanner
 i.orbi.kr##.commentAdv2
@@ -1606,6 +1605,7 @@ zdnet.com##section.mpu
 ! White list. Fixing filtration errors (false-positive)
 !
 auction.co.kr#@#.side-ads
+i.orbi.kr#@#.gridAd
 !-------------------------------------------------------------------------------!
 !------------------ Spywares ---------------------------------------------------!
 !-------------------------------------------------------------------------------!
