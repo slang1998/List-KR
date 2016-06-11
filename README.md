@@ -56,6 +56,6 @@ There is a slight difference in rendering methods between IE and Chrome, Firefox
 [here]: https://namu.wiki/w/Adguard
 [Issues]: https://github.com/SlowMemory/List-KR/issues
 ## License
-[Creative Commons CC-BY-SA 3.0 Unported][]
-[Creative Commons CC-BY-SA 3.0 Unported]: https://creativecommons.org/licenses/by-sa/3.0/
+[Creative Commons Attribution-ShareAlike 4.0][]
+[Creative Commons Attribution-ShareAlike 4.0]: https://creativecommons.org/licenses/by-sa/4.0/deed.hi
 
