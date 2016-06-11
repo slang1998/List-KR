@@ -136,7 +136,8 @@
 ||adop.kr^$third-party
 ||adotsolution.com^$third-party
 ||adp.adpies.com/adp/$empty
-||adpingpong1.co.kr^
+||adpingpong.co.kr^$third-party
+||adpingpong1.co.kr^$third-party
 ||adpnut.com^$third-party
 ||ads-by.yieldselect.com^
 ||ads.adop.kr^
@@ -1133,6 +1134,7 @@ marumaru.in###responsive-banner
 marumaru.in###widget__insert_html
 marumaru.in##div.mobfloat
 mbiz.heraldcorp.com###adsmnctext
+mbiz.heraldcorp.com###wrap > DIV[style*="border-bottom"].section2
 mbiz.heraldcorp.com##.ad
 mbiz.heraldcorp.com##.story
 mbiz.heraldcorp.com##DIV[class^="photoAd"]
