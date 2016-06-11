@@ -198,6 +198,9 @@
 ||bizspring.net^$third-party
 ||blog.naver.com/AdPostInjectAsync.nhn
 ||bloter.net/wp-admin/admin-ajax.php
+||boannews.com/images/banner/$image
+||boannews.com/main_files/main_banner*.asp^ 
+||boannews.com/main_files/main_right.asp^
 ||bohumlife.edaily.co.kr/iframe_starin.html^
 ||bridgelab.co.kr^$third-party
 ||bringback.co.kr^$third-party
@@ -362,6 +365,7 @@
 ||m.kmib.co.kr/banner/
 ||m.kukinews.com/js/ems.js
 ||m.news1.kr/ads/
+||m.pann.nate.com/da/
 ||m.ytn.co.kr/ad/ad_*.html^
 ||m1.daumcdn.net/adtc/js/mobilead.js^
 ||mat.adpies.com/mat/$empty
@@ -411,8 +415,10 @@
 ||nanumnews.com/data/nanumnews_com/upload/2012042009422130.swf^
 ||nanumnews.com/data/nanumnews_com/upload/bn_2012/mireco.gif^
 ||nanumnews.com/news_skin/nanumnews_com/main/nanum_ad_*.html^
+||nate.com/js/common/natead_*.js
 ||nate.com/main/srv/shop_11st/
 ||naver.com/api/adpostRelay.nhn?
+||networkad.nate.com^
 ||new.jshopbox.com/sbox/box/
 ||news.chosun.com/chosun/chosunad.html^
 ||news.chosun.com/dhtm/js/art/*/cs_art_ad_*.js^
@@ -420,8 +426,6 @@
 ||news.hankooki.com/service/v04/frm_photoScroll.htm^
 ||news.maxmovie.com/movie_info/Realclick/
 ||news.maxmovie.com/movie_info/sha_news_view_tlinkAD.asp^
-||news.nate.com/Etc/AdRectangleBanner^
-||news.nate.com/Etc/ViewAD^
 ||news.nate.com/etc/ad*
 ||news.sportsseoul.com/public_new4/ad/
 ||news1.kr/iframe/ad/
@@ -698,6 +702,7 @@ bizn.khan.co.kr##div.topright_bn
 blog.naver.com##._adPost
 blog.naver.com##td.adpost_con
 bloter.net##.network-ad__wrapper
+boannews.com###right_top_banner
 clien.net###Recent>div.RecentWrap[style="text-align:center;margin:0 auto;"]
 clien.net##div.aside_sponser
 clien.net##p.ad_area1
@@ -968,6 +973,7 @@ kukinews.com##.bnr_420_60
 kukinews.com##div[class^="bnr_290_"]
 life.etnews.com##.mainlife_right > .life_news2:first-child
 live.joinsmsn.com##div.shopping_v2
+m.boannews.com##.banner-zone
 m.cafe.naver.com##div.area_sa
 m.chosun.com##div.ad_txt
 m.chosun.com##div.art_sub_news_box
@@ -1064,6 +1070,7 @@ m.nocutnews.co.kr##div.con_b>div.ct_box
 m.ohmynews.com###adDaum
 m.ohmynews.com###adDaum_top
 m.ohmynews.com##div.ad_box_outline
+m.pann.nate.com###bannerBtm
 m.photo.sportsseoul.com###container > DIV[style^="background:"]
 m.ppomppu.co.kr###if_bbs_view_bn
 m.ppomppu.co.kr##.ct + DIV[style^="padding-top"]
@@ -1187,7 +1194,11 @@ mydaily.co.kr##div[class^="banner_1024_1024_"]
 nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(2)
 nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(3)
 nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(4)
+nate.com###adContainer
 nate.com###shopLoading
+nate.com###todaySaleItem
+nate.com##.area_shopping_today
+nate.com##.sidebar_banner
 nate.com##iframe#ifrShopping
 naver.com###promotion1
 naver.com###promotion2
@@ -1273,8 +1284,14 @@ news.mt.co.kr##div.aside_bundle>div.mgt16
 news.mt.co.kr##div.mt_books
 news.mt.co.kr##div.mtflash
 news.mt.co.kr##div[id^="art_ad_top"]
-news.nate.com###newsmediaBanner
+news.nate.com###AdCommerce
+news.nate.com###ad_sponsorBar
+news.nate.com###googleAd_wrap
+news.nate.com###newsMainBanner
+news.nate.com###smartlink
 news.nate.com###spaceBanner
+news.nate.com##.ad290x330
+news.nate.com##.adtive
 news.nate.com##div[class$="socialAD"]
 news.nate.com##div[class^="smartLink"]
 news.sbs.co.kr###all_vod_banner
@@ -1345,8 +1362,8 @@ osen.mt.co.kr##div.topBanner
 pann.nate.com###pann_brandAdWrap
 pann.nate.com###psypannAd
 pann.nate.com##div.sidebar.ad
-pann.nate.com##div.sidebar_banner
 pann.nate.com##div.view_banner
+pann.nate.com##DIV[class="sideiframe"]
 phpschool.com##.banner_title
 phpschool.com##.main_job
 phpschool.com##.right_banner
@@ -1458,6 +1475,7 @@ thisisgame.com###divMsnAD
 thisisgame.com##div.ad
 thisisgame.com##div.mid-ad-part
 tistory.com##div.ad250_outter
+todayhumor.co.kr##.table_container > DIV[style*="1.8"]
 todayhumor.co.kr##div.under_ad_div
 todown.net##div.at-content>div.container>div.row>div.contentArea>div[style="text-align:center;"]
 todown.net##div.at-content>div.container>div.row>div.sideArea>div[style="width:100%; height:100;text-align:center; background:#f5f5f5;margin-bottom:5px;"]
@@ -1654,6 +1672,8 @@ auction.co.kr#@#.side-ads
 ||collector*.afreecatv.com/gather$empty
 ||counter*joins.com/bin/
 ||countory.com/counterService/serviceAPI.asp?
+||crashua.com^$empty
+||ctc.news.nate.com/ctc.tiff?
 ||dable.io/logs^
 ||diycounter.com/?
 ||dmcf1.com^$third-party
@@ -1677,7 +1697,8 @@ auction.co.kr#@#.side-ads
 ||log.news.joins.com^
 ||log-aggregator.vcnc.co.kr^
 ||logapi.tvcast.naver.com/api/
-||logger.tvchosun.com:8000/InsightTrk/
+||logger.tvchosun.com:8000/InsightTrk
+||logtracker.cjmall.com^
 ||mywebtrends.co.kr^$third-party
 ||nextdaily.co.kr/tools/article_count*.html
 ||pathfinder.lotte.com^
@@ -1695,8 +1716,12 @@ auction.co.kr#@#.side-ads
 ||seoul.co.kr/weblog^
 ||sojourn.auction.co.kr/Log*?
 ||sportsseoul.com/news/site_log/?
+||ssg.com/comm/ssgGnbAjax.ssg^
+||ssg.com/wloso.html?wlo_so=
+||stat*.nate.com/stat/*stat*.tiff?
 ||statweb.egloos.com^
 ||tracking.adweb.co.kr/tracking^
+||tracking.cyad*.nate.com^
 ||tvchosun.com/front/js/tvchosun.js
 ||tvchosun.com/js/daumview.js
 ||vlog.heraldcorp.com/tracker
