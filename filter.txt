@@ -1056,7 +1056,8 @@ m.news1.kr###article_content>div[style="width:150px;height:150px;float:right;mar
 m.news1.kr##div[data-role="main"]>div[style="z-index:10; position:fixed; bottom:0; height:49px; width:100%;"]
 m.news1.kr##iframe[src^="../../ads/"]
 m.news1.kr##ul.txt_padding_box
-m.nocutnews.co.kr##div.con_b>div.ct_box
+m.nocutnews.co.kr###divContent > DIV[style*="200px"]
+m.nocutnews.co.kr##.ct1 > .con_b
 m.ohmynews.com###adDaum
 m.ohmynews.com###adDaum_top
 m.ohmynews.com##div.ad_box_outline
