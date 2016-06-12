@@ -5,9 +5,9 @@
 ! Combined and augmented with Adguard-specific rules for enhanced filtering
 ! This filter is expected to be used alongside with English filter.
 !
-! Homepage: http://github.com/SlowMemory/List-KR
-! License: http://creativecommons.org/licenses/by-sa/3.0/
-!
+! Homepage: https://List-KR.github.io
+! License: https://creativecommons.org/licenses/by-sa/4.0/deed.hi
+! Version: 252
 !-------------------------------------------------------------------------------!
 !------------------ URL Filters ------------------------------------------------!
 !-------------------------------------------------------------------------------!
@@ -831,7 +831,6 @@ gamemeca.com##div[class^="ad"]
 gigglehd.com###column > a[href="http://coolenjoy.net/"]
 gigglehd.com###column > DIV:not([style]) > A[href]
 gigglehd.com###column > DIV > DIV > .nw_box
-gigglehd.com###content > DIV > DIV[style*="HEIGHT: 60px;"][style*="WIDTH: 400px;"]
 gigglehd.com##.boardRead + DIV[align="center"]
 gmarket.co.kr##.m_ad
 hani.co.kr###power-link2
@@ -1733,7 +1732,8 @@ i.orbi.kr#@#.gridAd
 !
 ! Section contains list of CSS injection rules to remove ads or to correct page layout
 !
-anewsa.com#$##mainSec0405 { margin-top: auto!important; } 
+anewsa.com#$##mainSec0405 { margin-top: auto!important; }
+gigglehd.com#$##content > DIV > DIV[style*="60px;"][style*="400px;"] { height: 0!important; }
 i.orbi.kr#$#.crewbi_ootd { background:none!important; }
 m.inven.co.kr#$##mainSlider { padding-bottom: initial!important; }
 m.kukinews.com#$#BODY { margin-bottom: initial!important; }
