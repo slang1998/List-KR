@@ -86,6 +86,7 @@
 ||ad.pickple.net/widget/show/
 ||ad.priel.co.kr^$third-party
 ||ad.reople.co.kr^$third-party
+||ad.sponsorad.co.kr^$third-party
 ||ad.touchwise.co.kr^
 ||ad.tving.com^
 ||ad.tvreport.co.kr^
@@ -136,7 +137,8 @@
 ||adop.kr^$third-party
 ||adotsolution.com^$third-party
 ||adp.adpies.com/adp/$empty
-||adpingpong1.co.kr^
+||adpingpong.co.kr^$third-party
+||adpingpong1.co.kr^$third-party
 ||adpnut.com^$third-party
 ||ads-by.yieldselect.com^
 ||ads.adop.kr^
@@ -247,13 +249,6 @@
 ||dn.naver.com/ad3/*.mp4$mp4
 ||dp25.kr^
 ||drbig.co.kr^$third-party
-||dreamsearch.or.kr/ad/
-||dreamsearch.or.kr/adnet/
-||dreamsearch.or.kr/servlet/adBanner^
-||dreamsearch.or.kr/servlet/adBannerFloating^
-||dreamsearch.or.kr/servlet/adbn*
-||dreamsearch.or.kr/servlet/iadbn^
-||dreamsearch.or.kr/servlet/sadbn^
 ||ecoadproject.co.kr^$third-party
 ||edaily.co.kr/adview/
 ||emforce.co.kr^$third-party
@@ -517,6 +512,7 @@
 ||swf.adget.co.kr/ads/
 ||tab.clickmon.co.kr/ad_img/
 *tab*.clickmon.co.kr/pop/
+||te31.com/rgr/ad/
 ||tl.mmnneo.com/neovcm.js^
 ||torrentkim*.net/banner/$image
 ||torrentmade.com/data/zn_banner/
@@ -592,12 +588,7 @@
 ##iframe[id^="nad_"]
 ##iframe[name="ifrad"]
 ##iframe[src^="http://ad1.eventmanager.co.kr/"]
-##iframe[src^="http://adc.ohmynews.com/NetInsight/"]
 ##iframe[src^="http://ads-optima.com/www/delivery/afr.php"]
-##iframe[src^="http://ads.ecoadproject.co.kr/"]
-##iframe[src^="http://cadvv.heraldm.com/nbiz/"]
-##iframe[src^="http://cpv.ad.naver.com/adshow"]
-##iframe[src^="http://dgate.joins.com/hc.aspx"]
 !----------------------------------------------------!
 !------ Domain-Specific hiding rules ----------------!
 !----------------------------------------------------!
@@ -875,7 +866,6 @@ huffingtonpost.kr###modulous_sponsorship_2
 huffingtonpost.kr##div.ad_lower_right_commercials_wrapper
 hungryapp.co.kr###banner_11
 hungryapp.co.kr##div.bannersww
-i.orbi.kr#@#.gridAd
 i.orbi.kr###diamondBanner
 i.orbi.kr###styleBanner
 i.orbi.kr##.commentAdv2
@@ -1066,7 +1056,8 @@ m.news1.kr###article_content>div[style="width:150px;height:150px;float:right;mar
 m.news1.kr##div[data-role="main"]>div[style="z-index:10; position:fixed; bottom:0; height:49px; width:100%;"]
 m.news1.kr##iframe[src^="../../ads/"]
 m.news1.kr##ul.txt_padding_box
-m.nocutnews.co.kr##div.con_b>div.ct_box
+m.nocutnews.co.kr###divContent > DIV[style*="200px"]
+m.nocutnews.co.kr##.ct1 > .con_b
 m.ohmynews.com###adDaum
 m.ohmynews.com###adDaum_top
 m.ohmynews.com##div.ad_box_outline
@@ -1133,6 +1124,7 @@ marumaru.in###responsive-banner
 marumaru.in###widget__insert_html
 marumaru.in##div.mobfloat
 mbiz.heraldcorp.com###adsmnctext
+mbiz.heraldcorp.com###wrap > DIV[style*="border-bottom"].section2
 mbiz.heraldcorp.com##.ad
 mbiz.heraldcorp.com##.story
 mbiz.heraldcorp.com##DIV[class^="photoAd"]
@@ -1468,6 +1460,9 @@ tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,
 tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net##table#cssImg>tbody>tr:last-of-type>td:first-of-type>table:first-of-type>tbody>tr:last-of-type
 tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net##td#mw_basic>center
 tcafe.net,tcafeaa.com,tcafeby.com,tcafegg.com,tcafego.com,tcafeh.com,tcafek.com,tcafemm.com,tcafen.com,tcafeon.com,tcafex.com,tcafez.net##td#mw_basic>table:nth-of-type(2)>tbody>tr:last-of-type>td>table>tbody>tr>td:first-of-type
+te31.com###left > A
+te31.com##BODY > CENTER > DIV[style*="fixed;"]
+te31.com##TABLE[bgcolor][background="black.png"]
 theappl.com###pop_layer_banner
 theappl.com###rt_banner1
 theappl.com###rt_banner2
@@ -1611,6 +1606,7 @@ zdnet.com##section.mpu
 ! White list. Fixing filtration errors (false-positive)
 !
 auction.co.kr#@#.side-ads
+i.orbi.kr#@#.gridAd
 !-------------------------------------------------------------------------------!
 !------------------ Spywares ---------------------------------------------------!
 !-------------------------------------------------------------------------------!
@@ -1648,6 +1644,7 @@ auction.co.kr#@#.side-ads
 ||las.danawa.com/log/logging.json
 ||static.danawa.com/info/js/adweb_counter_danawa.min.js
 !----- Miscellaneous -----------
+/InsightTrk/*.do?$match-case
 /weblog/nethruscriptlog.html^
 /wlo/Logging^
 /wlo/UserLogging^
@@ -1692,15 +1689,17 @@ auction.co.kr#@#.side-ads
 ||imp*.auction.co.kr^
 ||js.nx.com/*/da/playlog.*min.js
 ||krtarget.co.kr/tracker/
+||linkback.contentsfeed.com^
 ||livelog.co.kr/js/*.php?
 ||log.2beon.co.kr^
 ||log.news.joins.com^
 ||log-aggregator.vcnc.co.kr^
 ||logapi.tvcast.naver.com/api/
-||logger.tvchosun.com:8000/InsightTrk
+||logger.cbs.co.kr/tracker.tsp^
 ||logtracker.cjmall.com^
 ||mywebtrends.co.kr^$third-party
 ||nextdaily.co.kr/tools/article_count*.html
+||nocutnews.co.kr/js/logger.htm^
 ||pathfinder.lotte.com^
 ||pds*.auction.co.kr^
 ||pds*.gmarket.co.kr^
