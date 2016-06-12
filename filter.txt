@@ -294,6 +294,7 @@
 ||hankooki.com/common/mobilelink/mobile_hk.htm^
 ||hankooki.com/common/mobilelink/mobile_sk.htm^
 ||hankyung.com/m/inc/fixed_mobile_ad_area_view.html^
+||heraldcorp.com/common_xml/ad/*.json^
 ||heraldcorp.com/home/herald_*.html?
 ||humor.hani.co.kr/common/banner.html^
 ||hungryapp.co.kr/banner/banner_*.php^
@@ -677,17 +678,15 @@ biz.heraldcorp.com,news.heraldcorp.com###HB_Sub_Right4_105
 biz.heraldcorp.com,news.heraldcorp.com###HB_Sub_Top_253
 biz.heraldcorp.com,news.heraldcorp.com###HBSUB_ABOUTAD001
 biz.heraldcorp.com,news.heraldcorp.com###adshow
-biz.heraldcorp.com,news.heraldcorp.com###articleText span[style="width:640px; height:70px; text-align:center; margin:0 10px; padding:10px 10px 15px 10px; clear:both;"]
+biz.heraldcorp.com,news.heraldcorp.com###articleText > CENTER > SPAN[style*="640px;"] 
 biz.heraldcorp.com,news.heraldcorp.com###photo_ad_left
 biz.heraldcorp.com,news.heraldcorp.com###photo_ad_right
-biz.heraldcorp.com,news.heraldcorp.com##div.news_content>div[style="padding-left:20px"]
-biz.heraldcorp.com,news.heraldcorp.com##div.news_detail_area>div[style="margin:0 auto; width:699px; height:250px; margin:20px 0px; "]
+biz.heraldcorp.com,news.heraldcorp.com##.news_content > DIV[style*="padding-left"] 
+biz.heraldcorp.com,news.heraldcorp.com##.news_detail_area > DIV[style*="699px;"] 
+biz.heraldcorp.com,news.heraldcorp.com##.subpg_news_body > DIV[style*="200"]
 biz.heraldcorp.com,news.heraldcorp.com##div.nnews_bottomadlist_area
 biz.heraldcorp.com,news.heraldcorp.com##div.right_side_section>div[class="clear pt_15"]
-biz.heraldcorp.com,news.heraldcorp.com##div.subpg_news_body>div[style="float:right; margin-left:10px;border:1px solid #DED7D7;width:200px;height:200px;"]
 biz.heraldcorp.com,news.heraldcorp.com##div.subtop_webzinestyle_hd
-biz.heraldcorp.com,news.heraldcorp.com##div[class="mt_15 clear"][style="border-bottom:0;"]
-biz.heraldcorp.com,news.heraldcorp.com##div[id^="g20150812Herald"]
 biz.heraldcorp.com,news.heraldcorp.com##iframe#ficm_iframe
 bizn.khan.co.kr##div.topright_bn
 blog.naver.com##._adPost
