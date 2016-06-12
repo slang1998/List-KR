@@ -586,9 +586,6 @@
 ##div[id^="sbaAbout"]
 ##ins.daum_ddn_area
 !----- Common iframes (dinamically generated) -----
-##iframe[id^="nad_"]
-##iframe[name="ifrad"]
-##iframe[src^="http://ad1.eventmanager.co.kr/"]
 ##iframe[src^="http://ads-optima.com/www/delivery/afr.php"]
 !----------------------------------------------------!
 !------ Domain-Specific hiding rules ----------------!
