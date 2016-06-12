@@ -5,9 +5,9 @@
 ! Combined and augmented with Adguard-specific rules for enhanced filtering
 ! This filter is expected to be used alongside with English filter.
 !
-! Homepage: http://github.com/SlowMemory/List-KR
-! License: http://creativecommons.org/licenses/by-sa/3.0/
-!
+! Homepage: https://List-KR.github.io
+! License: https://creativecommons.org/licenses/by-sa/4.0/deed.hi
+! Version: 252
 !-------------------------------------------------------------------------------!
 !------------------ URL Filters ------------------------------------------------!
 !-------------------------------------------------------------------------------!
