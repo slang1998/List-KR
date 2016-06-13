@@ -1766,8 +1766,5 @@ snulife.com,m.etnews.com#$#*:not(input):not(textarea){ -webkit-touch-callout: au
 !----------------------------------------------------!
 !------ TEMP ----------------------------------------!
 !----------------------------------------------------!
-||counter.adguard.com
 ! Misc trackers
-||pipe.aria.microsoft.com/$empty
-||visualstudio.com/v*/track$empty
-||play.googleapis.com/log$empty
+||counter.adguard.com
