@@ -188,6 +188,7 @@
 ||asiae.co.kr/js/logging.js^
 ||asiae.co.kr/news/include/real_ad/
 ||asiae.co.kr/news/include/view_ad/
+||asiatoday.co.kr/comm/ads/
 ||ask.nate.com/iframe/sponsor.html^
 ||astg.widerplanet.com^
 ||auction.co.kr/mail/mailcounter.html^
@@ -299,6 +300,7 @@
 ||heraldcorp.com/home/herald_*.html?
 ||hg-times.com/banner/
 ||hg-times.com/Autobox/sns_btn.html^
+||hiadone.com^$third-party
 ||humor.hani.co.kr/common/banner.html^
 ||hungryapp.co.kr/banner/banner_*.php^
 ||ichannela.com/ch/*adpost*
@@ -458,7 +460,6 @@
 ||ppomppu.co.kr/banner/
 ||pressmarket.co.kr/ShareMaxBanner.php
 ||prism.pandora.tv^
-||provider.hiadone.com/cgi-bin/conad_hi.fcgi/
 ||pub.adpnut.com^
 ||pubads.g.doubleclick.net^
 ||pv.ntomap.com/bin/imp^
@@ -481,7 +482,7 @@
 ||script.keywordlink.co.kr^
 ||script.nowcall.co.kr/nowsence/
 ||scripts.chitika.net^
-||search.n2s.co.kr/_n2s_adop_adinfo.php^
+||search.n2s.co.kr/*_ad*.php^
 ||segye.com/Articles/Components/Ad/
 ||seoul.co.kr/ad/
 ||seoul.co.kr/news/datawaveAD.php^
@@ -571,6 +572,7 @@
 @@||static.post.naver.net/
 !
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
+@@||api.dable.io/logs/services/*/click_redirect^
 @@||betanews.heraldcorp.com/js/ad.js
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
 @@||ph.headlinejeju.co.kr/adcontent/*.js^
@@ -632,7 +634,7 @@ asiae.co.kr##div[class^="view_ad"]
 asiae.co.kr##div[id^="ad"]
 asiae.co.kr##span#realclick_view
 asiatoday.co.kr##body>div[style="width:100%;margin:0 auto"]
-asiatoday.co.kr###MainAdLeftDown
+asiatoday.co.kr###ad_optima_wrap
 asiatoday.co.kr###banner_A
 asiatoday.co.kr###banner_N
 asiatoday.co.kr###bmRightViewAD
@@ -640,6 +642,7 @@ asiatoday.co.kr###contents_left>div[style="width:638px;border:1px solid #E3E3E3;
 asiatoday.co.kr###divNewsstandEvent
 asiatoday.co.kr###full>div[style="margin: 0 auto; width: 728px; height: 90px;"]
 asiatoday.co.kr###headline_ad_wrap
+asiatoday.co.kr###MainAdLeftDown
 asiatoday.co.kr###scrolling_banner
 asiatoday.co.kr###scrolling_left_banner
 asiatoday.co.kr###section_aside>div[class^="aside_google_"]
@@ -650,6 +653,8 @@ asiatoday.co.kr###wingBnLeft
 asiatoday.co.kr###wingBnRight
 asiatoday.co.kr###wrapper>div[style="margin: 0 auto; width: 728px; height: 90px;"]
 asiatoday.co.kr###wrapper>font>div[style="position:absolute; top:1610px; left:-129px;"]
+asiatoday.co.kr##.article_body > DIV[style*="148px"]
+asiatoday.co.kr##.gad_wrap
 asiatoday.co.kr##div.character_wrap
 asiatoday.co.kr##div.cont_left>div[style="padding-top:10px; clear:both;"]
 asiatoday.co.kr##div.cont_left>div[style="padding-top:10px; padding-bottom: 15px; clear:both;"]
@@ -1669,12 +1674,14 @@ i.orbi.kr#@#.gridAd
 ||121.78.90.104:8383/pv?
 ||14.63.228.14/log.js
 ||183.111.148.37/$empty
+||211.115.110.128/dataCollection.do^
 ||a*.smlog.co.kr^
 ||ad*-kant.kakao.com/web/track.gif?
 ||analysis.afreecatv.com^
 ||analytics.bandi.so^
 ||analytics-event.kakao.com^$empty
 ||api.tvple.com/*/stat/send?
+||asiatoday.co.kr/js/atoo_abc.js^
 ||at.mklaud.com/at/at_log*.php^
 ||auction.co.kr/search/searchlog.aspx?
 ||chosun.com/dhtm/js/common/collecter.js
@@ -1726,6 +1733,7 @@ i.orbi.kr#@#.gridAd
 ||sc*.cpcguard.com/*.asp
 ||script.auction.co.kr/ad/log.js
 ||script.gmarket.co.kr/js/common/pds_gmkt.js^
+||seetoc.com/logging/log.do^
 ||seoul.co.kr/weblog^
 ||sojourn.auction.co.kr/Log*?
 ||sportsseoul.com/news/site_log/?
@@ -1774,7 +1782,7 @@ baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#var fuckAdBlock = false
 ruinses.tistory.com#%#Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } }); 
 !------ disable auto scroll -------------------------
-anewsa.com,betanews.heraldcorp.com,jjan.kr,news.kukinews.com,nextdaily.co.kr,rpm9.com$$script[type="text/javascript"][tag-content="scrollTop: position"]
+anewsa.com,asiatoday.co.kr,betanews.heraldcorp.com,jjan.kr,news.kukinews.com,nextdaily.co.kr,rpm9.com$$script[type="text/javascript"][tag-content="scrollTop: position"]
 !------ context menu enablers -----------------------
 snulife.com,tistory.com$$script[tag-content="document.oncontextmenu"]
 snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
