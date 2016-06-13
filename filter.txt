@@ -563,11 +563,11 @@
 !
 ! Section contains list URL exception rules
 !
-! naver.com
+! Stealth mode fix for naver.com
+@@||cafefiles.naver.net^$image
+@@||cafeptthumb*.phinf.naver.net^$image
 @@||dicimg.naver.net^
 @@||postfiles*.naver.net^
-@@||searchad.naver.com$generichide,genericblock
-@@||saedu.naver.com$generichide,genericblock
 @@||static.post.naver.net/
 !
 @@||ads.orbi.kr/orbi/ad_non_overlap.php?
@@ -575,6 +575,8 @@
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
 @@||ph.headlinejeju.co.kr/adcontent/*.js^
 @@||ph.headlinejeju.co.kr/adcontent/*.png^
+@@||searchad.naver.com$generichide,genericblock
+@@||saedu.naver.com$generichide,genericblock
 !-------------------------------------------------------------------------------!
 !------------------ Element hiding rules ---------------------------------------!
 !-------------------------------------------------------------------------------!
