@@ -294,8 +294,11 @@
 ||hankooki.com/common/mobilelink/mobile_hk.htm^
 ||hankooki.com/common/mobilelink/mobile_sk.htm^
 ||hankyung.com/m/inc/fixed_mobile_ad_area_view.html^
+||hello-dm.kr^$third-party
 ||heraldcorp.com/common_xml/ad/*.json^
 ||heraldcorp.com/home/herald_*.html?
+||hg-times.com/banner/
+||hg-times.com/Autobox/sns_btn.html^
 ||humor.hani.co.kr/common/banner.html^
 ||hungryapp.co.kr/banner/banner_*.php^
 ||ichannela.com/ch/*adpost*
@@ -440,6 +443,7 @@
 ||nscreen.neoebiz.co.kr/xJqScreen.php^
 ||nson.encock.com/media/
 ||nv*.veta.naver.com/dr^
+||nw.realssp.co.kr^$third-party
 ||nws.lumieyes.com/show*/media/
 ||ojsfile.ohmynews.com/AD_FILE/
 ||ojsimg.ohmynews.com/*_ad_rolling.htm^
@@ -514,6 +518,7 @@
 ||swf.adget.co.kr/ads/
 ||tab.clickmon.co.kr/ad_img/
 *tab*.clickmon.co.kr/pop/
+||talklink.link/ko/ad/talklink_ad^
 ||te31.com/rgr/ad/
 ||tl.mmnneo.com/neovcm.js^
 ||torrentkim*.net/banner/$image
