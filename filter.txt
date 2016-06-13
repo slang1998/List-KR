@@ -178,7 +178,6 @@
 ||alea.adam.daum.net/imp
 ||allblet.net^$third-party
 ||allsee.co.kr/js/allsee_banner.js$third-party
-||ams.rmcnmv.naver.com/item/create/*?ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 ||amsv2.daum.net/ad/
 ||anewsa.com/_ad/real/
 ||anewsa.com/img/mainBanner
@@ -546,6 +545,12 @@
 ||ytn.co.kr/inc_banner/AdServerChange.php^
 ||zdnet.co.kr/ads/
 ||zdnet.co.kr/pixel2/pixel_top.htm^
+!----------------------------------------------------!
+!------ $replace rules ------------------------------!
+!----------------------------------------------------!
+!
+!------ VAST rules -------------
+||ams.rmcnmv.naver.com/item/create/*?ams_ctgr=*&ams_chnl=*ams_videoId=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/
 !-------------------------------------------------------------------------------!
 !------------------ URL exception rules ----------------------------------------!
 !-------------------------------------------------------------------------------!
@@ -1609,7 +1614,7 @@ i.orbi.kr#@#.gridAd
 !
 ! Section contains list of urls collecting user's information
 !
-!----- naver.com ---------------
+!------ naver.com --------------
 ||l.m.naver.
 ||lcs.naver.
 ||lcs.naver.com/m^$domain=naver.com
@@ -1617,13 +1622,13 @@ i.orbi.kr#@#.gridAd
 ||nil.naver.com/m^
 ||wcs.naver.
 ||wcs.naver.com/m^$domain=naver.com
-!----- naver.com search --------
+!------ naver.com search -------
 ||er.search.naver.com^
 ||event.impression-neo.naver.com/api/*/events/naver_search/impression?
 ||mac.search.naver.com^
 ||s.search.naver.com^
 ||sp.naver.com^
-!----- daum.net ----------------
+!------ daum.net ---------------
 ||tiara.daum.net^
 ||cafe.daum.net/_pageview/
 ||click.v.daum.net/pv/click*.php^
@@ -1634,12 +1639,12 @@ i.orbi.kr#@#.gridAd
 ||log.inside.daum.net/dwi_log/js/dwi.js
 ! Combining ||sl.search.daum.net/free_log/FreeLogServlet^ , http://sl.search.daum.net/smartlog/, http://sl.search.daum.net/freelog
 ||sl.search.daum.net^
-!----- danawa.com --------------
+!------ danawa.com -------------
 ||logger.danawa.com/tracker
 ||static.danawa.com/js/logger_inc.js
 ||las.danawa.com/log/logging.json
 ||static.danawa.com/info/js/adweb_counter_danawa.min.js
-!----- Miscellaneous -----------
+!------ Miscellaneous ----------
 /InsightTrk/*.do?$match-case
 /weblog/nethruscriptlog.html^
 /wlo/Logging^
@@ -1751,17 +1756,17 @@ www.daum.net#$#.wrap_sub { position: absolute!important; top:266px!important; }
 ! Section contains list of script filtering, 
 ! that are commonly achieved by third party userscripts.
 !
-!----- anti-adblock neutralizers --------------------
+!------ anti-adblock neutralizers -------------------
 baykoreans.net$$script[tag-content="div.adsbygoogle"]
 minitoon.net#%#var fuckAdBlock = false
 ruinses.tistory.com#%#Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } }); 
-!----- disable auto scroll --------------------------
+!------ disable auto scroll -------------------------
 anewsa.com,betanews.heraldcorp.com,jjan.kr,news.kukinews.com,nextdaily.co.kr,rpm9.com$$script[type="text/javascript"][tag-content="scrollTop: position"]
-!----- context menu enablers ------------------------
+!------ context menu enablers -----------------------
 snulife.com,tistory.com$$script[tag-content="document.oncontextmenu"]
 snulife.com,tistory.com#%#AG_onLoad(function() {var elements = document.getElementsByTagName("*");for(var id = 0; id < elements.length; ++id) { elements[id].oncontextmenu = null; elements[id].oncopy = null;}});
 snulife.com,m.etnews.com#$#*:not(input):not(textarea){ -webkit-touch-callout: auto!important; -webkit-user-select: auto!important; }
-!----- Misc -----------------------------------------
+!------ Misc ----------------------------------------
 11st.co.kr#%#AG_onLoad(function() { clearAdUrl(); searchManager.init(true); });
 !----------------------------------------------------!
 !------ TEMP ----------------------------------------!
