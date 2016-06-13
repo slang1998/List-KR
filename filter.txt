@@ -23,6 +23,7 @@
 /naon_*.html^
 /naon_*.jsp^
 /NetInsight/$match-case
+!------ Common URL with domain specification --------!
 /skin/images/adblockblock.js$domain=ruinses.tistory.com
 !----------------------------------------------------!
 !------ Domain-Specific URL Filters -----------------!
