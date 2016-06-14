@@ -363,6 +363,7 @@
 ||koreadaily.com/_ui/ad/
 ||koreapas.com/bbs/ad/$image
 ||koreaportal.com/*/banners/ads_$image
+||kyeongin.com/*/webdata/ad/
 ||lightad.co.kr/Lightcoms/
 ||lightasp.dmcmedia.co.kr/adixs/
 ||linkspot.net^$third-party
@@ -990,6 +991,11 @@ kr.celeb.yahoo.com###rightClickButton
 kukinews.com##.ad_top_980
 kukinews.com##.bnr_420_60
 kukinews.com##div[class^="bnr_290_"]
+kyeongin.com##.bm_view > .view_left > [class^="viewBottom"]
+kyeongin.com##.main_cont_ad
+kyeongin.com##.menu_box > [class^="menu_ad"]
+kyeongin.com##.view_right > .today_kyeongin + DIV[style*="250px"]
+kyeongin.com##BODY > DIV > #layerBanner
 life.etnews.com##.mainlife_right > .life_news2:first-child
 live.joinsmsn.com##div.shopping_v2
 m.boannews.com##.banner-zone
@@ -1739,6 +1745,7 @@ i.orbi.kr#@#.gridAd
 ||pathfinder.lotte.com^
 ||pds*.auction.co.kr^
 ||pds*.gmarket.co.kr^
+||rec.netinsight.co.kr/rec/*/view?
 ||recobell.io/rest/log^
 ||recopick.com^$third-party
 ||res.heraldm.com/js/logcollectscript_*.js^
