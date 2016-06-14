@@ -1676,6 +1676,7 @@ i.orbi.kr#@#.gridAd
 ||183.111.148.37/$empty
 ||211.115.110.128/dataCollection.do^
 ||a*.smlog.co.kr^
+||abcmart.co.kr/wloso.html?wlo_so=
 ||ad*-kant.kakao.com/web/track.gif?
 ||analysis.afreecatv.com^
 ||analytics.bandi.so^
@@ -1685,6 +1686,7 @@ i.orbi.kr#@#.gridAd
 ||asiatoday.co.kr/js/atoo_abc.js^
 ||at.mklaud.com/at/at_log*.php^
 ||auction.co.kr/search/searchlog.aspx?
+||cdn-aitg.widerplanet.com/js/wp_astg_*.js^
 ||chosun.com/dhtm/js/common/collecter.js
 ||clicklog.gmarket.co.kr/click_log/
 ||cloudfront.net$domain=inews24.com
@@ -1724,6 +1726,7 @@ i.orbi.kr#@#.gridAd
 ||makeshop.co.kr/js/mslog.js^
 ||miraelog.net^$third-party
 ||mywebtrends.co.kr^$third-party
+||nastg.widerplanet.com^
 ||nextdaily.co.kr/tools/article_count*.html
 ||nocutnews.co.kr/js/logger.htm^
 ||pathfinder.lotte.com^
