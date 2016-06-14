@@ -1746,7 +1746,7 @@ i.orbi.kr#@#.gridAd
 ||pds*.auction.co.kr^
 ||pds*.gmarket.co.kr^
 ||rec.netinsight.co.kr/rec/*/view?
-||recobell.io/rest/log^
+||recobell.io/rest/logs^
 ||recopick.com^$third-party
 ||res.heraldm.com/js/logcollectscript_*.js^
 ||saas.recobell.com/srv/*/track/rblog.js^
