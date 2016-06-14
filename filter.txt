@@ -7,7 +7,7 @@
 !
 ! Homepage: https://List-KR.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.hi
-! Version: 252
+!
 !-------------------------------------------------------------------------------!
 !------------------ URL Filters ------------------------------------------------!
 !-------------------------------------------------------------------------------!
@@ -55,6 +55,7 @@
 ||ad.cache.newdaily.co.kr/web/newdaily/bn/
 ||ad.cauly.co.kr*caulyImpress^$third-party
 ||ad.cetizen.com/adh.cetizen/
+||ad.cpaad.co.kr^
 ||ad.daum.net^
 ||ad.dt.co.kr^
 ||ad.gameabout.com^
@@ -225,7 +226,6 @@
 ||cjmooter.xcache.kinxcdn.com/script/
 ||clkads.com^
 ||cm*.joins.com^
-||cm*.jssearch.net^
 ||cm.interworksmedia.co.kr/adTagRequest.htm^
 ||cm.keywordsconnect.com^
 ||cm2.cjmooter.com^
@@ -246,7 +246,6 @@
 ||dgate.*/hc.aspx^
 ||dgate.*/hciw.aspx^
 ||display.ad.daum.net/imp^
-||dlv.hooniad.com^
 ||dn.naver.com/ad3/*.mp4$mp4
 ||dp25.kr^
 ||drbig.co.kr^$third-party
@@ -272,7 +271,6 @@
 ||ex.mdtoday.co.kr^
 ||exttag.about.co.kr^$third-party
 ||feeldmc.com^$third-party
-!----------------------- reviewed up to here -------------------------------------
 ||feeltong.hani.co.kr/common/banner.html^
 ||file.osen.co.kr/web2/html/realclick_ad.html^
 ||file.thisisgame.com/inc/PBPage*.js^
@@ -301,13 +299,16 @@
 ||hg-times.com/banner/
 ||hg-times.com/Autobox/sns_btn.html^
 ||hiadone.com^$third-party
+||hooniad.com^$third-party
 ||humor.hani.co.kr/common/banner.html^
 ||hungryapp.co.kr/banner/banner_*.php^
 ||ichannela.com/ch/*adpost*
 ||idnad.co.kr^$third-party
+||ihalla.com/banner/
 ||ilbe.com/layouts/elkha_ilbe/js/board_top.js^
 ||ilbe.com/layouts/elkha_ilbe/js/new_comment.js^
 ||ilbe.com/layouts/elkha_ilbe/js/new_sky.js^
+||ilikeclick.com^$third-party
 ||im.obel.kr/file/
 ||imaeil.com/image/banner/ad*.swf^
 ||imaeil.com/wec/
@@ -332,17 +333,21 @@
 ||inews24.com/common/js/ad_*.js
 ||inews24.com/inc/right_file_banner_*.php
 ||inews24.com/tools/adpresso/
+||ingfac.co.kr^$third-party
+||ingrtg.com^$third-party
 ||interface.interworksmedia.co.kr/js/iwmads.min.js^
 ||interface.interworksmedia.co.kr/js/mobitree.js^
+||interich.com^$third-party
 ||inven.co.kr/ad/
 ||inven.co.kr/common/lib/js/ad.slot.js^
 ||inven.co.kr/common/lib/js/adns.js^
+||jac24.co.kr^$third-party
 ||jboa24.com?u^
 ||jjan.kr/popupManager*/js/
 ||jjanglive.com/flash/AdShowClient.swf^
 ||jjanglive.com/flash/webClient.swf^
 ||joinsmsn.com/_ui/ad/
-||joy-adstore.co.kr/ad/
+||joy-adstore.co.kr^$third-party
 ||joynews.inews24.com/ad*
 ||joynews.inews24.com/php/ad/
 ||js.hnscom.com/etc/hns/hnsIframe_*.html^
@@ -352,14 +357,19 @@
 ||jshoppingbox.joinsmsn.com^
 ||jssearch.net^$third-party
 ||jtbc.joins.com/common/json2XMLvast.aspx^
+||kado.net/banner/
 ||khan.co.kr/ad/
 ||kmib.co.kr/cp/realclick/
 ||koreadaily.com/_ui/ad/
 ||koreapas.com/bbs/ad/$image
+||koreaportal.com/*/banners/ads_$image
 ||lightad.co.kr/Lightcoms/
 ||lightasp.dmcmedia.co.kr/adixs/
+||linkspot.net^$third-party
+||loadnet.co.kr^$third-party
 ||longkeyone.co.kr^
 ||lsinfo.co.kr$third-party
+||luxad.kr^$third-party
 ||m.adtc.daum.net/js/mobilead.js^
 ||m.chosun.com/tad.html^
 ||m.inews24.com/bnr/$image
@@ -373,8 +383,10 @@
 ||mat.adpies.com/mat/$empty
 ||maxmovie.com/banner/img/lotte630x88.jpg^
 ||mbn.mk.co.kr/pages/ad/
+||mediaanchor.co.kr^$third-party
 ||mediamixad.com/ad/liveAd^
 ||mediamixad.com/ad/webad^
+||mediarichad.com^$third-party
 ||mediawise.co.kr/banner/script/
 ||mediaus.co.kr/bannerManager/inc/
 ||mediaview.co.kr/ad_Viewer.js^
@@ -382,6 +394,8 @@
 ||menu.mt.co.kr/banner/adPlayer.swf^
 ||microbizit.com/admaru/codes/js/
 ||microopenpop.com/banner/
+||midas-i.com^$third-party
+!----------------------- reviewed up to here -------------------------------------
 ||minishop.linkprice.com/minishop*.php^
 ||miz-diet.co.kr/artz130.html^
 ||miz-diet.co.kr/cnb.html^
@@ -390,9 +404,7 @@
 ||mk.co.kr/index_ad.mk^
 ||mktag.mt.co.kr/code.ems/
 ||mktag.mt.co.kr/event.ems/
-||mobi.luxad.kr/ad/
 ||mobi.luxad.net/ad/
-||mobs.luxad.kr/media/
 ||mp.mmnneo.com^
 ||mt.co.kr/ad/
 ||mtag.mman.kr^$third-party
@@ -496,7 +508,6 @@
 ||sndkorea.nowcdn.co.kr/xml/
 ||sosa.semanticrep.com/soea/
 ||sosa.semanticrep.com/spacead/
-||sp1.jssearch.net^
 ||sports.chosun.com/ad/
 ||sports.chosun.com/ads/
 ||sports.chosun.com/banner/240_140_100208.swf^
@@ -1703,6 +1714,7 @@ i.orbi.kr#@#.gridAd
 ||heraldcorp.com/tracker^$third-party
 ||hits.zdnet.co.kr/hits.asp^
 ||hotclick.netinsight.co.kr^$third-party
+||http.or.kr^$third-party
 ||humoruniv.com/cpuid
 ||humoruniv.com/images/null.gif
 ||humoruniv.com/pv^
@@ -1717,7 +1729,10 @@ i.orbi.kr#@#.gridAd
 ||log-aggregator.vcnc.co.kr^
 ||logapi.tvcast.naver.com/api/
 ||logger.cbs.co.kr/tracker.tsp^
+||logger.co.kr^$third-party
 ||logtracker.cjmall.com^
+||makeshop.co.kr/js/mslog.js^
+||miraelog.net^$third-party
 ||mywebtrends.co.kr^$third-party
 ||nextdaily.co.kr/tools/article_count*.html
 ||nocutnews.co.kr/js/logger.htm^
