@@ -1631,6 +1631,9 @@ zdnet.com##section.mpu
 !
 ! White list. Fixing filtration errors (false-positive)
 !
+! for ublock users
+11st.co.kr#@#.adver
+!
 auction.co.kr#@#.side-ads
 i.orbi.kr#@#.gridAd
 !-------------------------------------------------------------------------------!
