@@ -213,7 +213,7 @@
 ||busan.com/images/sub_banner/
 ||busan.com/w2010/$subdocument
 ||c.betrad.com/surly.js^
-||cad.donga.com/netBanners/
+||cad.donga.com/*.js^
 ||cadvv.heraldm.com/hb/imad/
 ||candy.ad9.kr^
 ||care-health.co.kr^
@@ -591,6 +591,7 @@
 @@||api.dable.io/logs/services/*/click_redirect^
 @@||betanews.heraldcorp.com/js/ad.js
 @@||googletagmanager.com/gtm.js$domain=tvchosun.com
+@@||img.ichannela.com/images/ad/banner/$image
 @@||ph.headlinejeju.co.kr/adcontent/*.js^
 @@||ph.headlinejeju.co.kr/adcontent/*.png^
 @@||searchad.naver.com$generichide,genericblock
@@ -736,6 +737,9 @@ ddanzi.com##div.left_banner
 ddanzi.com##div.right_banner
 diodeo.com###newsFloatingBanner
 dkbnews.donga.com###idol_ban
+donga.com###aside > .promotion
+donga.com##.main_AD02
+donga.com##iframe[src^="http://ar.donga.com/RealMedia/"]
 dt.co.kr###gisa>table
 dt.co.kr###side_content>div[style="margin-top:10px;"]
 dt.co.kr###side_content>div[style="margin-top:20px;"]
@@ -1699,6 +1703,7 @@ i.orbi.kr#@#.gridAd
 ||diycounter.com/?
 ||dmcf1.com^$third-party
 ||estat.zum.com^
+||gather.donga.com^
 ||gather.hankyung.com:8003/?
 ||geolook.tvchosun.com:8888
 ||googletagservices.com/tag/$domain=inews24.com
