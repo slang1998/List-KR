@@ -214,6 +214,7 @@
 ||busan.com/w2010/$subdocument
 ||c.betrad.com/surly.js^
 ||cad.donga.com/*.js^
+||cad.donga.com/M/
 ||cadvv.heraldm.com/hb/imad/
 ||candy.ad9.kr^
 ||care-health.co.kr^
@@ -355,6 +356,7 @@
 ||joynews.inews24.com/php/ad/
 ||js.hnscom.com/etc/hns/hnsIframe_*.html^
 ||js.hnscom.com/etc/hns/hook_*.js^
+||js.hnscom.com/etc/hns/pop_cook_*.js^
 ||js.keywordsconnect.com^
 ||js.theprimead.co.kr^
 ||js2.keywordsconnect.com^
@@ -1223,6 +1225,7 @@ news.chosun.com##div.art_ad_ss_left
 news.chosun.com##div.art_ad_ss_right
 news.cnbnews.com##div[class^="top_bn"]
 news.donga.com###__news.donga.com_aq2
+news.donga.com###articleBody > DIV[id^="view_body_middle_iframe"]
 news.donga.com##div.clArticleAd
 news.donga.com##div[id^="left_AD_"]
 news.donga.com##div[id^="right_AD_"]
@@ -1702,6 +1705,7 @@ i.orbi.kr#@#.gridAd
 ||dable.io/logs^
 ||diycounter.com/?
 ||dmcf1.com^$third-party
+||donga.com/acecounter/acecounter_*.js^
 ||estat.zum.com^
 ||gather.donga.com^
 ||gather.hankyung.com:8003/?
